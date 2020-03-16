@@ -2,7 +2,7 @@
 title: Carol Cupas
 baseurl: "/"
 permalink: "/:title/"
-palette: yellow
+palette: blue
 header:
   title: Carol Cupas
   tagline: Every journey begins with a single step
@@ -11,7 +11,7 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; All rights reserved."
+  content: "&copy; Todos los derechos reservados."
   links:
   - text: Made with Stackbit
     url: https://www.stackbit.com
