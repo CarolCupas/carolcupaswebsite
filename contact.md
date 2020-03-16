@@ -5,7 +5,6 @@ layout: contact
 subtitle: ''
 menu:
   main:
-    title: Contact
     weight: 4
 
 ---
