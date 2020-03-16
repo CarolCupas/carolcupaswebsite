@@ -9,4 +9,4 @@ menu:
     weight: 6
 
 ---
-> Escríbeme 
+> Déjame tus datos y te contactaré próximamente!
