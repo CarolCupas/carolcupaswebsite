@@ -7,7 +7,6 @@ sections:
 - type: document
   path: documents
   label: Documentos
-  match: "**/*"
 - type: document
   path: _config.yml
   label: Global Site Config
