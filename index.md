@@ -1,8 +1,8 @@
 ---
-title: Home
-menus:
-  main:
-    title: Home
-    weight: 1
+title: Carol Cupas
 layout: home
+menu:
+  main:
+    weight: 1
+
 ---
