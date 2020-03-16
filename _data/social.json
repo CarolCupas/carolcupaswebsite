@@ -1,6 +1,12 @@
 {
   "links": [
     {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/carolcupaspitti/"
+    },
+    {
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
@@ -11,12 +17,6 @@
       "title": "GitHub",
       "icon": "fa-github",
       "url": "https://github.com/CarolCupas"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/carolcupaspitti/"
     }
   ]
 }
