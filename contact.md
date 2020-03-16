@@ -6,7 +6,7 @@ subtitle: ''
 menu:
   main:
     title: Contact
-    weight: 6
+    weight: 4
 
 ---
 > Déjame tus datos y te contactaré próximamente!

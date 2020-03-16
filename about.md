@@ -5,7 +5,7 @@ img_path: "/images/IMG_20190125_172605.jpg"
 layout: page
 menu:
   main:
-    title: About
+    title: Acerca de mí
     weight: 2
 
 ---
