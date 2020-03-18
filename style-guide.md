@@ -8,76 +8,76 @@ menu:
     weight: 3
 
 ---
-**This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
+# Profesión
 
-The HTML &lt;h1&gt;–&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level and &lt;h6&gt; is the lowest.
+Inicié mi carrera profesional al obtener el título universitario de **Ingeniería de Sistemas Computacionale**s en la Universidad Tecnológica de Panamá en el año 2005. Me interesa todo lo relacionado con la tecnología y luego de trabajar en empresas de diferentes sectores como banca, desarrollo de software y consultoría, también me surgió interés por estudiar administración de empresas y docencia. He tenido la oportunidad de administrar proyectos, liderar equipos y brindarles capacitación.
 
-# This is an H1
+Siendo consciente de la transformación digital que muchas empresas experimentan hoy y la importancia de sus datos, decidí estudiar un máster en Big Data y BI para ponerme al día con las bases de datos no estructuradas, las técnicas de aprendizaje automático y las plataformas cloud.
 
-## This is an H2
+## Experiencia Profesional
 
-### This is an H3
+He tenido oportunidad de trabajar en diferentes empresas del sector bancario, tecnológico y consultoría en general con clientes internacionales, siendo requerido el idioma inglés.
 
-#### This is an H4
+A lo largo de mi carrera, he desempeñado distintos roles desde analista de sistemas, arquitecta de BI, líder de calidad del departamento de operaciones y project manager. 
 
-##### This is an H5
+> Tengo experiencia en diseño de base de datos, preparación de requerimientos de nuevos proyectos, establecer los procesos departamentales, definir estándares de calidad, medición de KPIs, generación de informes, supervisar y gestionar la carga de trabajo de un equipo, contratar y entrenar personal, entre muchas otras.
 
-###### This is an H6
+### Control Risks
 
-Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
+Control Risks es una organización global comprometida a impulsar una cultura de alto rendimiento, innovación y una verdadera experiencia de una sola compañía trabajando. Dentro del área de Legal Technologies ofrece servicios de eDiscovery y consultoría especializada donde colaboré por cinco años desempeñando diferentes roles.
 
-## Quoting
+#### Project Manager eDiscovery
 
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
+_Junio 2017 - Agosto 2018 (1 año 3 meses), Panamá_
 
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams</cite>
+1. Coordinar la migración de las bases de datos (SQL) a una nueva plataforma de eDiscovery (Relativity).
+2. Colaborar en la preparación de documentación legal del cliente para presentar a entes reguladores.
+3. Analizar solicitudes especiales de los clientes y brindar soluciones a medida.
+4. Preparar métricas mensuales de los proyectos para el área de finanzas mediante MS Dynamics 365.
+5. Optimizar el diseño de reportes automatizados mediante Tableau.
 
-A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the &lt;cite&gt; element.
+#### Associate Director of Operations
 
-<hr />
+_Mayo 2016 - Mayo 2017 (1 año 1 mes), Panamá_
 
-## Unordered Lists
+1. Coordinar el flujo de trabajo del equipo de Operaciones para garantizar el soporte 24/7.
+2. Optimizar la creación de documentación de los procesos existentes y mejores prácticas para asegurar su correcta implementación.
+3. Elaboración de KPIs mensuales de los equipos por proyectos y país (SQL, MS Dynamics, Excel).
+4. Asesorar a los PMs en proyectos y colaborar con solicitudes especiales de los clientes.
 
-Groups a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
+#### QA Manager
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+_Mayo 2013 - Abril 2016 (3 años), Panamá_
 
-## Ordered Lists
+1. Diseñar el perfil de analista de Control de Calidad, entrevistar candidatos y contratar al equipo.
+2. Establecer los estándares de Control de Calidad y KPIs para evaluar la calidad de los procesos operativos.
+3. Capacitar al equipo para aplicar las validaciones definidas y facilitar la documentación (SharePoint).
+4. Supervisar el proceso de control de calidad de acuerdo a los servicios y escenarios (SLAs).
+5. Analizar el rendimiento de los procesos y el equipo para identificar mejoras.
+6. Gestionar la ejecución de pruebas técnicas de nuevos requerimientos del sistema y reportar resultados (TFS).
+7. Proveer consultoría técnica a la gerencia en cuanto a los procesos de QA y Testing.
+8. Planificar la cobertura semanal del equipo de Control de Calidad para atender diferentes zonas horarias.
 
-Represents a list of items. The only difference from the unordered list is taht the order of the items is meaningful.
+### BICSA
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+El Banco Internacional de Costa Rica inicia operaciones con el propósito original de prestar servicios financieros comerciales a clientes corporativos. Luego, enmarca sus actividades hacia las operaciones de comercio exterior e incrementar las relaciones con el sector privado, con bancos corresponsales, así como desarrollar la banca personal y Privada. Laboré en el departamento de IT ejerciendo el rol:
 
-## Code Blocks
+#### Business Intelligence Architect
 
-<pre>/* Some example CSS code */
-body {
-  color:red;
-}
-</pre>
+_Junio 2009 - Abril 2013 (3 años 11 meses), Panamá_
 
-## Tables
+1. Administrar, diseñar e implementar procesos ETL con SSIS integrado al core bancario.
+2. Analizar requerimientos técnicos de diferentes productos para integrar con el Data Warehouse (SQL).
+3. Generar reportes y alertas automáticas mediante Reporting Services y Crystal Reports.
 
-<table>
-  <caption>Simple table with caption and header</caption>
-  <tr>
-    <th>First name</th>
-    <th>Last name</th>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-  </tr>
-  <tr>
-    <td>Jane</td>
-    <td>Doe</td>
-  </tr>
-</table>
+### HSBC
+
+Senior System Analyst
+
+Diciembre 2007 - Mayo 2009 (1 año 6 meses), Panamá
+
+1\. Administrar el BPM y asistir con la administración de otras aplicaciones del departamento de Tecnología.
+
+2\. Diseño de estructura de base de datos SQL (consultas, procesos almacenados, etc.).
+
+3\. Brindar soporte al sitio web del banco (CSS, HTML, PHP).
