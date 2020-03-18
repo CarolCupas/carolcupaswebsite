@@ -11,88 +11,101 @@ menu:
 ---
 ## Estudios
 
-Mis estudios desde el más reciente al antiguo:
+_Mis estudios desde el más reciente al antiguo:_
 
 #### Master en Big Data y Business Intelligence
 
-Next IBS | Universitat de Lleida (2018 - 2019)
+> Next IBS | Universitat de Lleida (2018 - 2019)
 
 #### Master en Profesional Higher Education
 
-Universidad Latina de Panamá (2017 - 2018)
+> Universidad Latina de Panamá (2017 - 2018)
 
 #### Especialización en Higher Education
 
-Universidad Latina de Panamá (2016 - 2017)
+> Universidad Latina de Panamá (2016 - 2017)
 
 #### Master en Business Administration – MBA
 
-Universidad Latina de Panamá (2010 - 2011)
+> Universidad Latina de Panamá (2010 - 2011)
 
 #### Licenciatura en Ingeniería de Sistemas Computacionales
 
-Universidad Tecnológica de Panamá (1999 - 2005)
+> Universidad Tecnológica de Panamá (1999 - 2005)
 
 ## Habilidades Técnicas
 
-Analysis - Amazon Web service - 1-Basic
+#### Analysis
 
-Analysis - IBM Cognos Analytics - 1-Basic
+* Amazon Web service - 1-Basic
+*  IBM Cognos Analytics - 1-Basic
+* Google Analytics - 2-Intermediate
+* SAS (Statistical Analysis System) - 2-Intermediate
 
-Analysis - Google Analytics - 2-Intermediate
+#### Collaboration
 
-Analysis - SAS (Statistical Analysis System) - 2-Intermediate
+* Kanban - 3-Advanced
+* MS SharePoint - 3-Advanced
+* MS Teams - 3-Advanced
+* Scrum - 3-Advanced
+* Team Foundation Server (TFS) - 3-Advanced
+* Design Thinking - 1-Basic
 
-Collaboration - Kanban - 3-Advanced
+#### Database
 
-Collaboration - MS SharePoint - 3-Advanced
+* Microsoft Access - 3-Advanced
+* Microsoft SQL Server - 3-Advanced
+* MySQL - 3-Advanced
+* MongoDB - 1-Basic
+* MS Azure SQL Database - 2-Intermediate
+* PostgreSQL - 3-Advanced
 
-Collaboration - MS Teams - 3-Advanced
+#### ETL
 
-Collaboration - Scrum - 3-Advanced
+* SQL Server Integration Services (SSIS) - 3-Advanced
+* SAS ETL Studio-Intermediate
+* Pentaho - 2-Intermediate
 
-Collaboration - Team Foundation Server (TFS) - 3-Advanced
+#### Design
 
-Collaboration - Design Thinking - 1-Basic
+* HTML - 3-Advanced
+* CSS - 2-Intermediate
 
-Database - Microsoft Access - 3-Advanced
+#### Development
 
-Database - Microsoft SQL Server - 3-Advanced
+* GitHub - 1-Basic
+* NodeJS - 1-Basic
+* Javascript - 1-Basic
+* PHP - 1-Basic
+* Filemaker - 3-Advanced
+* C Sharp - 1-Basic
+* Visual Studio.NET - 1-Basic
 
-Database - MySQL - 3-Advanced
+#### eDiscovery
 
-Database - MongoDB - 1-Basic
+* Relativity - 3-Advanced
+* Nuix - 2-Intermediate
 
-Database - MS Azure SQL Database - 2-Intermediate
+#### Management
 
-Database - PostgreSQL - 3-Advanced
+* Microsoft Dynamics 365 - 3-Advanced
+* Microsoft Office (Word, Excel, Power Point) - 3-Advanced
+* Microsoft Project - 3-Advanced
+* Microsoft Visio - 3-Advanced
+* Ultimus BPM (Business Process Management) - 3-Advanced
+* SAP ERP - 1-Basic
 
-Design - HTML - 3-Advanced
+#### Programming
 
-Design - Adobe Dreamweaver - 2-Intermediate
+* Azure Machine Learning Studio - 1-Basic
+* IBM Watson - 2-Intermediate
+* Python - 2-Intermediate
+* R Studio - 2-Intermediate
+* Youtube Analytics - 2-Intermediate
 
-Design - CSS - 2-Intermediate
+#### Reporting/Visualization
 
-Development - Filemaker - 3-Advanced
-
-Development - NodeJS - 1-Basic
-
-Development - C Sharp - 1-Basic
-
-Development - GitHub - 1-Basic
-
-Development - Javascript - 1-Basic
-
-Development - PHP - 1-Basic
-
-Development - Visual Studio.NET - 1-Basic
-
-eDiscovery - eTrium - 3-Advanced
-
-eDiscovery - Relativity - 3-Advanced
-
-eDiscovery - Nuix - 2-Intermediate
-
-ETL - SQL Server Integration Services (SSIS) - 3-Advanced
-
-ETL - Pentaho - 2-Intermediate
+* Power BI - 3-Advanced
+* Reporting Services - 3-Advanced
+* Tableau - 3-Advanced
+* Crystal Reports - 3-Advanced
