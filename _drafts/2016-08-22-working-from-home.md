@@ -1,26 +1,26 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: 2016-08-22
+title: Un nuevo comienzo
+date: 2020-03-17 23:00:00 +0000
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 excerpt: Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to as
   a WAHM (work at home mom) or a WAHD (work at home dad).
 layout: post
+subtitle: ''
+hide_header: false
 
 ---
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+### Migrar a un país
 
-## Advantages and Disadvantages 
+Hace un par de año, decidí que quería darle un giro a mi día a día y por lo tanto empecé a buscar trabajo como docente universitario. Para mi sorpresa, no bastaba mi título en ingeniería, ni siquiera el máster en Docencia Superior que recién había obtenido sino que debía además tener un máster en mi área profesional.
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+Dado que todos mis estudios lo cursé en mi país, exploré las oportunidades de estudiar en el extranjero. Luego de unos meses, recibí la llamada que lo cambió todo, me habían otorgado una beca para estudiar en Madrid! que emoción!
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emprendí el viaje a Madrid con mi esposo Marvin. No fue hasta que aterrizamos en el aeropuerto de Barajas, no había tenido tiempo de asimilar todos los cambios que conllevaba migrar a un país tan lejos de casa.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+Casi que todos los años, planeaba vacaciones y conocía muchos lugares pero mudarme por al menos un año a otro continente, es otra cosa, significa partir de cero: amistades, comida, casa, frases, en resumen un nuevo estilo de vida.
 
-## Types Of Work
+He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hubiera sido más difícil. Hoy tenemos muchas amistades, platillos favoritos, lugares donde tomar un rico café o salir a caminar con Twitter y Coshita (nuestros perros).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
-
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+Sin duda, extrañamos a nuestra familia, a los amigos de siempre y a estar en casa pero creo que aún tenemos deseos de tener nuevas aventuras y conocer más países. Después de todo, la vida es una.
