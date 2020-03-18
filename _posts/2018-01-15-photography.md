@@ -10,10 +10,6 @@ excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que ha
   y convertirme en la protagonista de mi vida.'
 layout: post
 hide_header: false
-menu:
-  main:
-    title: Carol Cupas
-    weight: 1
 
 ---
 Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Desde siempre me ha gustado dibujar y hasta gané algún premio en los concursos de mi escuela primaria.

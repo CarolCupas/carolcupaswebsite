@@ -6,6 +6,7 @@ layout: page
 menu:
   main:
     weight: 3
+    title: Carrera profesional
 
 ---
 Inicié mi carrera profesional al obtener el título universitario de **Ingeniería de Sistemas Computacionale**s en la Universidad Tecnológica de Panamá en el año 2005. Me interesa todo lo relacionado con la tecnología y luego de trabajar en empresas de diferentes sectores como banca, desarrollo de software y consultoría, también me surgió interés por estudiar administración de empresas y docencia. He tenido la oportunidad de administrar proyectos, liderar equipos y brindarles capacitación.

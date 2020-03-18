@@ -5,7 +5,7 @@ img_path: "/images/IMG_20190404_125703.jpg"
 layout: page
 menu:
   main:
-    title: Acerca de mí
+    title: Estudios
     weight: 2
 
 ---
