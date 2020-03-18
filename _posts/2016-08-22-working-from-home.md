@@ -19,8 +19,10 @@ Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emp
 
 Casi que todos los años, planeaba vacaciones y conocía muchos lugares pero mudarme por al menos un año a otro continente, es otra cosa, significa partir de cero: amistades, comida, casa, frases, en resumen un nuevo estilo de vida.
 
-![](/images/IMG_20190414_183759.jpg)
+![](/images/Monasterio del Escorial.jpg)
 
 He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hubiera sido más difícil. Hoy tenemos muchas amistades, platillos favoritos, lugares donde tomar un rico café o salir a caminar con Twitter y Coshita (nuestros perros).
 
 Sin duda, extrañamos a nuestra familia, a los amigos de siempre y a estar en casa pero creo que aún tenemos deseos de tener nuevas aventuras y conocer más países. Después de todo, la vida es una.
+
+![](/images/IMG_20190414_183759.jpg)
