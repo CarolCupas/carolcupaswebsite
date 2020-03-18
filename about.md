@@ -47,4 +47,4 @@ Al llegar a Madrid, no sabía donde asistir pero gracias a Marvin, encontramos A
 
 Sinceramente, son una bendición, no estoy sola.
 
-_Thank You for reading!_
+_Gracias por leerme!_
