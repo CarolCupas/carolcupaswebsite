@@ -6,7 +6,7 @@ excerpt: ''
 hide_header: false
 layout: post
 subtitle: ''
-content_img_path: ''
+content_img_path: "/images/IMG-20180930-WA0036.jpg"
 
 ---
 Desde pequeña he tenido una relación especial con **Jesús**, para mí era como el amigo imaginario que algunos niños suelen tener. Me eduqué en una escuela católica y solía asistir a misa con mi familia los domingos.
