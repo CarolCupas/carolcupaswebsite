@@ -1,6 +1,7 @@
 ---
 img_path: "/images/StoryStar1583681194444.jpg"
 title: Experiencias
+published: false
 
 ---
 # Carol
