@@ -1,7 +1,7 @@
 ---
 title: Un nuevo comienzo
-date: 2020-03-15 23:00:00 +0000
-thumb_img_path: "/images/IMG_20190414_183759.jpg"
+date: 2020-03-15T23:00:00.000+00:00
+thumb_img_path: "/images/IMG-20180929-WA0012.jpg"
 content_img_path: ''
 excerpt: ''
 layout: post
@@ -18,6 +18,8 @@ Dado que todos mis estudios lo cursé en mi país, exploré las oportunidades de
 Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emprendí el viaje a Madrid con mi esposo Marvin. No fue hasta que aterrizamos en el aeropuerto de Barajas, no había tenido tiempo de asimilar todos los cambios que conllevaba migrar a un país tan lejos de casa.
 
 Casi que todos los años, planeaba vacaciones y conocía muchos lugares pero mudarme por al menos un año a otro continente, es otra cosa, significa partir de cero: amistades, comida, casa, frases, en resumen un nuevo estilo de vida.
+
+![](/images/IMG_20190414_183759.jpg)
 
 He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hubiera sido más difícil. Hoy tenemos muchas amistades, platillos favoritos, lugares donde tomar un rico café o salir a caminar con Twitter y Coshita (nuestros perros).
 
