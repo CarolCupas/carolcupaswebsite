@@ -72,12 +72,12 @@ _Junio 2009 - Abril 2013 (3 años 11 meses), Panamá_
 
 ### HSBC
 
-Senior System Analyst
+HSBC Bank Panamá S.A. fue una compañía de servicios financieros en Panamá subsidiaria de HSBC Bank Plc. Bajo la Vicepresidencia de tecnología, laboré a cargo de las tareas siguientes.
 
-Diciembre 2007 - Mayo 2009 (1 año 6 meses), Panamá
+#### Senior System Analyst
 
-1\. Administrar el BPM y asistir con la administración de otras aplicaciones del departamento de Tecnología.
+_Diciembre 2007 - Mayo 2009 (1 año 6 meses), Panamá_
 
-2\. Diseño de estructura de base de datos SQL (consultas, procesos almacenados, etc.).
-
-3\. Brindar soporte al sitio web del banco (CSS, HTML, PHP).
+1. Administrar el BPM y asistir con la administración de otras aplicaciones del departamento de Tecnología.
+2. Diseño de estructura de base de datos SQL (consultas, procesos almacenados, etc.).
+3. Brindar soporte al sitio web del banco (CSS, HTML, PHP).
