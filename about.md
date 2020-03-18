@@ -3,7 +3,6 @@ title: Mas sobre mí
 subtitle: ''
 img_path: "/images/IMG-20190608-WA0005.jpg"
 layout: page
-published: false
 
 ---
 # Experiencias e ideas de la vida, familia, amigos y más.
