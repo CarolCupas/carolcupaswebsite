@@ -3,11 +3,11 @@ title: Intereses
 subtitle: ''
 date: 2020-03-17 23:00:00 +0000
 thumb_img_path: "/images/IMG_20191018_185032.jpg"
-content_img_path: images/8.jpg
-excerpt: Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by means
-  of an image sensor, or chemically by means of a light-sensitive material such as
-  photographic film.
+content_img_path: ''
+excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
+  que las cosas sucedan; 2- las que miran como suceden las cosas y 3- las que se preguntan
+  qué es lo que sucedió… Desde ése momento, decidí que quiero ser de las primeras
+  y convertirme en la protagonista de mi vida.'
 layout: post
 hide_header: false
 menu:
