@@ -14,7 +14,7 @@ hide_header: false
 ---
 Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Desde siempre me ha gustado dibujar y hasta gané algún premio en los concursos de mi escuela primaria.
 
-El arte me llama mucho la atención y la **fotografía** es uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer algún diseño.
+Disfruto admirar las obras de arte y la arquitectura siendo la **fotografía** es uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer algún diseño.
 
 ![](/images/IMG-20190608-WA0005.jpg)
 
