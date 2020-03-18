@@ -9,16 +9,6 @@ Experiencias e ideas de la vida, familia, profesión.
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fjord)
 
-### Oportunidades de emprender
-
-En vista de ser extranjera en Madrid, estoy experimentando un largo proceso de búsqueda de empleo ya que las personas extranjeras tenemos que ser altamente cualificadas o esperar a que pase un intervalo de años para obtener un visado de trabajo.
-
-Hoy, buscar trabajo es mi trabajo y he tenido muchas entrevistas pero por el momento, esas empresas no gestionan los trámites que la oficina de extranjería requieren (quizás por desconocimiento del proceso), lo cierto es que perfil les gusta pero sin el visado, no me dan la oportunidad.
-
-Honestamente, la idea de emprender mi propio negocio cada vez me resulta más atractiva, lo que me retiene un poco es el tener que enfrentarme a la realidad de necesitar ingresos para hoy.
-
-Dado que quedarme de brazos cruzados no es lo mío, ocupo mi tiempo haciendo voluntario, aprendiendo algo nuevo como crear un website, entre otras cosas. Sé que el tiempo es valioso y por eso lo invierto en aquello que genere bienestar.
-
 ## Nunca sola
 
 ### Amistad Cristiana
