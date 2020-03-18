@@ -1,6 +1,6 @@
 ---
 title: Un nuevo comienzo
-date: 2020-03-17 23:00:00 +0000
+date: 2020-03-15 23:00:00 +0000
 thumb_img_path: "/images/IMG_20190414_183759.jpg"
 content_img_path: ''
 excerpt: ''
