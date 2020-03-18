@@ -10,6 +10,10 @@ excerpt: Photography is the science, art and practice of creating durable images
   photographic film.
 layout: post
 hide_header: false
+menu:
+  main:
+    title: Carol Cupas
+    weight: 1
 
 ---
 Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Desde siempre me ha gustado dibujar y hasta gané algún premio en los concursos de mi escuela primaria.
