@@ -2,7 +2,7 @@
 title: Un nuevo comienzo
 date: 2020-03-15T23:00:00.000+00:00
 thumb_img_path: "/images/IMG-20180929-WA0012.jpg"
-content_img_path: ''
+content_img_path: "/images/IMG_20181227_174114.jpg"
 excerpt: ''
 layout: post
 subtitle: ''
