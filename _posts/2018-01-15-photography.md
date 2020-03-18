@@ -3,7 +3,7 @@ title: " Acerca de mí"
 subtitle: ''
 date: 2020-03-14T23:00:00.000+00:00
 thumb_img_path: "/images/IMG_20191018_185032.jpg"
-content_img_path: ''
+content_img_path: "/images/IMG-20181020-WA0012.jpg"
 excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
   que las cosas sucedan; 2- las que miran como suceden las cosas y 3- las que se preguntan
   qué es lo que sucedió… Desde ése momento, decidí que quiero ser de las primeras
