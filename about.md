@@ -15,7 +15,7 @@ _Mis estudios desde el más reciente al antiguo:_
 
 #### Master en Big Data y Business Intelligence
 
-> Next IBS | Universitat de Lleida (2018 - 2019)
+> Next IBS & Universitat de Lleida (2018 - 2019)
 
 #### Master en Profesional Higher Education
 
@@ -38,7 +38,7 @@ _Mis estudios desde el más reciente al antiguo:_
 #### Analysis
 
 * Amazon Web service - 1-Basic
-*  IBM Cognos Analytics - 1-Basic
+* IBM Cognos Analytics - 1-Basic
 * Google Analytics - 2-Intermediate
 * SAS (Statistical Analysis System) - 2-Intermediate
 
@@ -75,7 +75,7 @@ _Mis estudios desde el más reciente al antiguo:_
 
 * GitHub - 1-Basic
 * NodeJS - 1-Basic
-* Javascript - 1-Basic
+* JavaScript - 1-Basic
 * PHP - 1-Basic
 * Filemaker - 3-Advanced
 * C Sharp - 1-Basic
@@ -89,7 +89,7 @@ _Mis estudios desde el más reciente al antiguo:_
 #### Management
 
 * Microsoft Dynamics 365 - 3-Advanced
-* Microsoft Office (Word, Excel, Power Point) - 3-Advanced
+* Microsoft Office (Word, Excel, PowerPoint) - 3-Advanced
 * Microsoft Project - 3-Advanced
 * Microsoft Visio - 3-Advanced
 * Ultimus BPM (Business Process Management) - 3-Advanced
@@ -101,7 +101,7 @@ _Mis estudios desde el más reciente al antiguo:_
 * IBM Watson - 2-Intermediate
 * Python - 2-Intermediate
 * R Studio - 2-Intermediate
-* Youtube Analytics - 2-Intermediate
+* YouTube Analytics - 2-Intermediate
 
 #### Reporting/Visualization
 
