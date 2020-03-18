@@ -1,10 +1,6 @@
 ---
 img_path: "/images/StoryStar1583681194444.jpg"
 title: Experiencias
-menu:
-  main:
-    title: Acerca de mí
-    weight: 2
 
 ---
 # Carol

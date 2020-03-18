@@ -3,6 +3,10 @@ title: Mas sobre mí
 subtitle: ''
 img_path: "/images/IMG-20190608-WA0005.jpg"
 layout: page
+menu:
+  main:
+    title: Acerca de mí
+    weight: 2
 
 ---
 # Experiencias e ideas de la vida, familia, amigos y más.
