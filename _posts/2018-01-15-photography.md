@@ -1,5 +1,5 @@
 ---
-title: " "
+title: " Acerca de mí"
 subtitle: ''
 date: 2020-03-14T23:00:00.000+00:00
 thumb_img_path: "/images/IMG_20191018_185032.jpg"
