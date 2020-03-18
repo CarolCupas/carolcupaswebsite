@@ -1,6 +1,6 @@
 ---
 title: Perfil profesional
-subtitle: Conoce acerca de mi experiencia profesional como ingeniera de Sistemas Computacionales
+subtitle: Conoce acerca de mi experiencias profesionales
 img_path: "/images/pprofesional-unsplash.jpg"
 layout: page
 menu:
@@ -8,8 +8,6 @@ menu:
     weight: 3
 
 ---
-# Profesión
-
 Inicié mi carrera profesional al obtener el título universitario de **Ingeniería de Sistemas Computacionale**s en la Universidad Tecnológica de Panamá en el año 2005. Me interesa todo lo relacionado con la tecnología y luego de trabajar en empresas de diferentes sectores como banca, desarrollo de software y consultoría, también me surgió interés por estudiar administración de empresas y docencia. He tenido la oportunidad de administrar proyectos, liderar equipos y brindarles capacitación.
 
 Siendo consciente de la transformación digital que muchas empresas experimentan hoy y la importancia de sus datos, decidí estudiar un máster en Big Data y BI para ponerme al día con las bases de datos no estructuradas, las técnicas de aprendizaje automático y las plataformas cloud.
@@ -18,7 +16,7 @@ Siendo consciente de la transformación digital que muchas empresas experimentan
 
 He tenido oportunidad de trabajar en diferentes empresas del sector bancario, tecnológico y consultoría en general con clientes internacionales, siendo requerido el idioma inglés.
 
-A lo largo de mi carrera, he desempeñado distintos roles desde analista de sistemas, arquitecta de BI, líder de calidad del departamento de operaciones y project manager. 
+A lo largo de mi carrera, he desempeñado distintos roles desde analista de sistemas, arquitecta de BI, líder de calidad del departamento de operaciones y Project manager.
 
 > Tengo experiencia en diseño de base de datos, preparación de requerimientos de nuevos proyectos, establecer los procesos departamentales, definir estándares de calidad, medición de KPIs, generación de informes, supervisar y gestionar la carga de trabajo de un equipo, contratar y entrenar personal, entre muchas otras.
 
