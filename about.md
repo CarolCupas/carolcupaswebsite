@@ -3,10 +3,7 @@ title: Mas sobre mí
 subtitle: Conoce acerca de m familia, amigos, peques, aspiraciones y más
 img_path: "/images/IMG_20190125_172605.jpg"
 layout: page
-menu:
-  main:
-    title: Acerca de mí
-    weight: 2
+published: false
 
 ---
  Hola, soy **Carol Cupas!** Nací en Panamá. of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
