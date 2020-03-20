@@ -39,6 +39,3 @@ exclude:
 collections:
   posts:
     permalink: "/posts/:title/"
-menu:
-  main:
-    weight: 1
