@@ -1,7 +1,7 @@
 ---
 title: " Acerca de mí"
 subtitle: ''
-date: 2020-03-17 23:00:00 +0000
+date: 2020-03-17T23:00:00.000+00:00
 thumb_img_path: "/images/IMG_20191018_185032.jpg"
 content_img_path: "/images/IMG-20181020-WA0012.jpg"
 excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
@@ -14,7 +14,7 @@ hide_header: false
 ---
 Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Desde siempre me ha gustado dibujar y hasta gané algún premio en los concursos de mi escuela primaria.
 
-Disfruto admirar las obras de arte y la arquitectura siendo la **fotografía** es uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer algún diseño.
+Disfruto admirar las obras de arte y la arquitectura, siendo la **fotografía** uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer algún diseño.
 
 ![](/images/IMG-20190608-WA0005.jpg)
 
