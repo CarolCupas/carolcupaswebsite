@@ -20,6 +20,6 @@ Disfruto admirar las obras de arte y la arquitectura siendo la **fotografía** e
 
 Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
 
-No puedo dejar de lado a los **perros**, disfruto mucho de su compañía, la habilidad que tienen para hablarnos sin palabras y la fidelidad de estos animales. En un principio, pensé en estudiar veterinaria pero luego de algunas experiencias quirúrgicas en la clínica de mi papá, descubrí que no me gusta ver u olor la sangre, me resultaría algo difícil de ejercer en esa profesión.
+No puedo dejar de lado a los **perros**, disfruto mucho de su compañía, la habilidad que tienen para hablarnos sin palabras y la fidelidad de estos animales. En un principio, pensé en estudiar veterinaria pero luego de algunas experiencias quirúrgicas en la clínica de mi papá, descubrí que no me gusta ver ni oler la sangre, por lo que me resultaría algo difícil ejercer la profesión.
 
 Además de lo anterior, disfruto mucho escuchar **música**, no pasa un día de mi vida sin escucharla... a lo mejor tenga que ver con mi nombre, ya que traducido del inglés es canción de Navidad o _villancico_.
