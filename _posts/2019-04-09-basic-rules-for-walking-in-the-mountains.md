@@ -1,6 +1,6 @@
 ---
-title: Vida de 24 horaas
-date: 2019-04-09
+title: Vida de 24 horas
+date: 2020-03-13 23:00:00 +0000
 thumb_img_path: "/images/DSCN3858.png"
 content_img_path: "/images/IMG_20190625_164316211.jpg"
 excerpt: ''
