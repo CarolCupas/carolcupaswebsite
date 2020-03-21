@@ -17,7 +17,7 @@ Hace un par de año, decidí que quería darle un giro a mi día a día y por lo
 
 Dado que todos mis estudios lo cursé en mi país, exploré las oportunidades de estudiar en el extranjero. Luego de unos meses, recibí la llamada que lo cambió todo, me habían otorgado una beca para estudiar en Madrid! que emoción!
 
-Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emprendí el viaje a **Madrid** con mi esposo Marvin. No fue hasta que subimos al avión rumbo al aeropuerto de Barajas, que logré tener tiempo para asimilar todos los cambios que conllevaba migrar a un país tan lejos de casa.
+Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emprendí el viaje a **Madrid** con mi esposo Marvin. Pero no fue hasta que subimos al avión rumbo al aeropuerto de Barajas, que logré tener tiempo para asimilar todos los cambios que conllevaba migrar a un país tan lejos de casa.
 
 A pesar de que casi todos los años, planeaba vacaciones y conocía muchos lugares, mudarme a otro continente por al menos un año, era muy distinto, significaba partir de cero: amistades, comida, casa, frases, en resumen un nuevo estilo de vida.
 
