@@ -1,6 +1,10 @@
 ---
 img_path: "/images/StoryStar1583681194444.jpg"
 title: Proyectos
+menu:
+  main:
+    weight: 4
+    title: Colaboraciones
 
 ---
 He sido sumamente privilegiada de conocer a personas brillantes y poder colaborar con algunos de sus magníficos proyectos como:
