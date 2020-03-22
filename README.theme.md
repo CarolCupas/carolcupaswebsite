@@ -12,13 +12,13 @@ He sido sumamente privilegiada de conocer a personas brillantes y poder colabora
 
 # Matrimonios ágiles
 
-Blog Personal para compartir tips para mejorar el matrimonio utilizando conceptos de [agilidad](https://matrimoniosagiles.wordpress.com/2018/10/24/matrimonios-agiles/) y buenas prácticas que han sido de mucho beneficio en ámbitos profesionales.
+Blog personal para compartir tips para mejorar el matrimonio utilizando conceptos de [agilidad](https://matrimoniosagiles.wordpress.com/2018/10/24/matrimonios-agiles/) y buenas prácticas que han sido de mucho beneficio en ámbitos profesionales. Ver [aquí](https://matrimoniosagiles.wordpress.com/ "matrimoniosagiles")
 
-[![matrimoniosagiles](/images/matrimoniosagiles_agiles-logo.png "Matrimonios Agiles")](https://matrimoniosagiles.wordpress.com/ "Matrimonios Ágiles")
+![matrimoniosagiles](/images/matrimoniosagiles_agiles-logo.png "Matrimonios Agiles")
 
 # The Branch
 
-The Branch Conference es una propuesta para organizar el evento de desarrollo, tecnología e innovación más grande de Panamá. La conferencia de desarrollo de software, tecnología, innovación y por supuesto personas, creada por las comunidades para las comunidades.[![thebranchconference](/images/the-branch-logo-tr-0.30.png "TheBranch")](https://www.thebranch.tech/ "thebranchconference")
+The [Branch Conference](https://www.thebranch.tech/ "thebranch") es una gran iniciativa para diseñar el evento de desarrollo, tecnología e innovación más grande de Panamá. La conferencia de desarrollo de software, tecnología, innovación y por supuesto personas, creada por las comunidades para las comunidades.![thebranchconference](/images/the-branch-logo-tr-0.30.png "TheBranch")
 
 # iMuni
 
