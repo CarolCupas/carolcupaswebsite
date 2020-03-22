@@ -2,6 +2,7 @@
 img_path: "/images/StoryStar1583681194444.jpg"
 title: Proyectos
 layout: page
+permalink: colaboraciones
 menu:
   main:
     weight: 4
