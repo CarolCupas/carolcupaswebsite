@@ -3,6 +3,7 @@ title: Preparación Académica
 subtitle: ''
 img_path: "/images/IMG_20190404_125703.jpg"
 layout: page
+permalink: preparacion-academica
 menu:
   main:
     title: Estudios
