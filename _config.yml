@@ -13,7 +13,7 @@ header:
 footer:
   content: "&copy; Todos los derechos reservados."
   links:
-  - text: Diseñado con Stackbit
+  - text: Stackbit
     url: https://www.stackbit.com
     new_window: true
 sass:
