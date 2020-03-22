@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "YouTube",
+      "icon": "f",
+      "url": "www.youtube.com/channel/UCAjtA-7s-5ZcZvyT6mLceoA"
+    },
+    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
