@@ -20,7 +20,7 @@ fields:
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
   default: page
   config:
     required: true
