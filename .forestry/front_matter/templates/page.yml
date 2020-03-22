@@ -24,6 +24,12 @@ fields:
   default: page
   config:
     required: true
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  hidden: false
 pages:
 - about.md
 - style-guide.md
