@@ -3,6 +3,7 @@ title: Perfil profesional
 subtitle: Conoce acerca de mi experiencias profesionales
 img_path: "/images/pprofesional-unsplash.jpg"
 layout: page
+permalink: perfil-profesional
 menu:
   main:
     weight: 3
