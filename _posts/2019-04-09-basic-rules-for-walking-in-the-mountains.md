@@ -1,8 +1,8 @@
 ---
 title: Vida de 24 horas
 date: 2020-03-13 23:00:00 +0000
-thumb_img_path: "/images/DSCN3858.png"
-content_img_path: "/images/IMG_20190625_164316211.jpg"
+thumb_img_path: "/images/CC Quintas d Molinas.png"
+content_img_path: "/images/CC Casa campo lago.jpg"
 excerpt: ''
 layout: post
 subtitle: ''
