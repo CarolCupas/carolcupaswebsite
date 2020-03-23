@@ -27,5 +27,3 @@ The [Branch Conference](https://www.thebranch.tech/ "thebranch") es una gran ini
 Software de asistencia digital médica para llevar el control y adecuado seguimiento de las citas de vacunas y el historial, tanto de niños, adultos mayores y la población en los dispositivos móviles. Conocer iMuni [aquí](http://imuniapp.com/ "iMuni")
 
 ![](/images/Lanzamiento-de-iMuni-17-1.jpg)
-
-New World. { <a title="Fox" href="[https://en.wikipedia.org/wiki/Fox](https://en.wikipedia.org/wiki/Fox "https://en.wikipedia.org/wiki/Fox")" target="_blank">Source</a> }
