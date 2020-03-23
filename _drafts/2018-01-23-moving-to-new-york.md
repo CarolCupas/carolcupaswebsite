@@ -2,8 +2,8 @@
 title: Lo mejor está por venir
 subtitle: ''
 date: 2020-03-13 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/Parque Santander Madrid.jpg"
+content_img_path: "/images/Carol Cupas Madrid Rio 2019.jpg"
 excerpt: ''
 layout: post
 hide_header: false
