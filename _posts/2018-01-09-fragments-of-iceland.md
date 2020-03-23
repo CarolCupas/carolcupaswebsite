@@ -15,7 +15,7 @@ De muy joven, comprendí lo que Jesús significaba en mi vida, era el amigo que 
 
 > _Para mí, donde quiera que esté, Dios se encuentra allí y de muchísimas formas me hace entender que cuida de mí._
 
-Al llegar a Madrid, no sabía donde asistir pero gracias a Marvin, encontramos **Amistad Cristiana**. Desde el primer día, nos sentimos entre amigos y es que como dicen, el ADN de Amistad es acoger a las personas y que puedan conocer a Jesús; pero en mi caso, cómo ya lo conozco desde siempre, es cómo si ya los conociera también a ellos desde siempre porque le conocen a Él.
+Al llegar a Madrid, no sabía donde asistir pero gracias a Marvin, encontramos [**Amistad Cristiana**](https://amistadcristianamadrid.org/ "AmistadCristiana"). Desde el primer día, nos sentimos entre amigos y es que como dicen, el ADN de Amistad es acoger a las personas y que puedan conocer a Jesús; pero en mi caso, cómo ya lo conozco desde siempre, es cómo si ya los conociera también a ellos desde siempre porque le conocen a Él.
 
 Sinceramente, son una bendición, no estoy sola.
 
