@@ -2,8 +2,8 @@
 title: 10% lo que te pasa y 90% como lo tomas
 subtitle: ''
 date: 2020-03-12 23:00:00 +0000
-thumb_img_path: "/images/CC casa campo.jpg"
-content_img_path: ''
+thumb_img_path: "/images/Flor naranja jardin casa.jpg"
+content_img_path: "/images/CC casa campo.jpg"
 excerpt: ''
 layout: post
 hide_header: false
