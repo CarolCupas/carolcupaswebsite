@@ -14,7 +14,7 @@ He sido sumamente privilegiada de conocer a personas brillantes y poder colabora
 
 Blog personal para compartir tips para mejorar el matrimonio utilizando conceptos de agilidad y buenas prácticas que han sido de mucho beneficio en ámbitos profesionales. Ver [aquí](https://matrimoniosagiles.wordpress.com/ "matrimoniosagiles")
 
-![matrimoniosagiles](/images/matrimoniosagiles_agiles-logo.png "Matrimonios Agiles")
+![](/images/Matrimonios agiles.png)
 
 # The Branch
 
