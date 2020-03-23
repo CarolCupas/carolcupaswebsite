@@ -1,6 +1,6 @@
 ---
 title: Contáctame
-img_path: "/images/Contact-unsplash.jpg"
+img_path: ''
 layout: contact
 subtitle: ''
 
