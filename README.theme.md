@@ -12,7 +12,7 @@ He sido sumamente privilegiada de conocer a personas brillantes y poder colabora
 
 # Matrimonios ágiles
 
-Blog personal para compartir tips para mejorar el matrimonio utilizando conceptos de agilidad y buenas prácticas que han sido de mucho beneficio en ámbitos profesionales. Ver [aquí](https://matrimoniosagiles.wordpress.com/ "matrimoniosagiles")
+Blog personal acerca de tips para mejorar el matrimonio utilizando conceptos de agilidad y buenas prácticas que han sido de mucho beneficio en ámbitos profesionales. Ver [aquí](https://matrimoniosagiles.wordpress.com/ "matrimoniosagiles")
 
 ![](/images/Matrimonios agiles.png)
 
@@ -26,4 +26,6 @@ The [Branch Conference](https://www.thebranch.tech/ "thebranch") es una gran ini
 
 Software de asistencia digital médica para llevar el control y adecuado seguimiento de las citas de vacunas y el historial, tanto de niños, adultos mayores y la población en los dispositivos móviles. Conocer iMuni [aquí](http://imuniapp.com/ "iMuni")
 
-![](/images/Lanzamiento-de-iMuni-17-1.jpg)
+![](/images/Lanzamiento-de-iMuni-17-1-1.jpg)
+
+Por el momento, me encuentro experimentando la creación de mi sitio web y es muy posible que dentro de poco me sumo a otra iniciativa!
