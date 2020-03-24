@@ -16,7 +16,8 @@
 
   a {
     border: 0;
-    color: inherit;
+    //color: inherit;
+    color: _palette(mediumaquamarine);
 
     &:hover {
       color: _palette(primary);
@@ -83,7 +84,7 @@
   }
 
   .post-title {
-    font-size: 1.66667rem;
+    font-size: 1.96667rem;
   }
 
   .post-meta {
