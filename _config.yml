@@ -2,7 +2,7 @@
 title: Carol Cupas
 baseurl: "/"
 permalink: "/:title/"
-palette: green
+palette: red
 header:
   title: Carol Cupas
   tagline: Every journey begins with a single step
