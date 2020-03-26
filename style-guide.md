@@ -26,6 +26,8 @@ A lo largo de mi carrera, he desempeñado distintos roles desde analista de sist
 
 Control Risks es una organización global comprometida a impulsar una cultura de alto rendimiento, innovación y una verdadera experiencia de una sola compañía trabajando. Dentro del área de Legal Technologies ofrece servicios de eDiscovery y consultoría especializada donde colaboré por cinco años desempeñando diferentes roles.
 
+![](/images/CC CR Navidad.jpg)
+
 #### Project Manager eDiscovery
 
 _Junio 2017 - Agosto 2018 (1 año 3 meses), Panamá_
