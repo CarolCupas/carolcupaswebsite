@@ -1,5 +1,5 @@
 ---
-title: Lo mejor está por venir
+title: Ajustes a la perspectiva
 subtitle: ''
 date: 2020-03-13T23:00:00.000+00:00
 thumb_img_path: "/images/CC Millenial Park_small.JPG"
