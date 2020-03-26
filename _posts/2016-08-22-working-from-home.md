@@ -13,7 +13,7 @@ hide_header: false
 
 Considero que soy una persona que se adapta muy bien a los cambios y me organizo bien a fin de lograr mis metas.
 
-Hace un par de año, decidí que quería darle un giro a mi día a día y por lo tanto empecé a buscar trabajo como docente universitario. Para mi sorpresa, no bastaba mi título en ingeniería, ni siquiera el máster en Docencia Superior que recién había obtenido sino que además debía tener un máster en mi área profesional.
+Hace un par de años, decidí que quería darle un giro a mi día a día y por lo tanto empecé a buscar trabajo como docente universitario. Para mi sorpresa, no bastaba mi título en ingeniería, ni siquiera el máster en Docencia Superior que recién había obtenido sino que además debía tener un máster en mi área profesional.
 
 Dado que todos mis estudios lo cursé en mi país, exploré las oportunidades de estudiar en el extranjero. Luego de unos meses, recibí la llamada que lo cambió todo, me habían otorgado una beca para estudiar en Madrid! que emoción!
 
