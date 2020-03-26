@@ -13,6 +13,6 @@ Suelo leer con regularidad libros, artículos en la web, etc. y un día me encon
 
 > _La experiencia es una dura maestra porque primero te pone la prueba y luego te enseña la lección_
 
-He aprendido que no siempre en la vida las cosas suceden como espero pero no necesariamente significa que sea malo, por el contrario, puede ser que no era el momento adecuado, que hay mejores oportunidades por descubrir, que no va a resultar del todo bueno para mí o simplemente desconozco la razón, por ejemplo la pérdida de seres queridos entre otras que sigo sin entender. En medio de todo, creo que todo tiene un propósito y debo encontrarlo y aprender de la experiencia.
+He aprendido que no siempre en la vida las cosas suceden como espero pero no necesariamente significa que sea malo, por el contrario, puede ser que no era el momento adecuado, que hay mejores oportunidades por descubrir, que no va a resultar del todo bueno para mí o simplemente desconozco la razón, por ejemplo la pérdida de seres queridos entre otras que sigo sin entender. En medio de todo, creo que todo tiene un propósito el cual debo encontrar para aprender la lección de esa experiencia.
 
-Es cierto que algunas cosas me hacen ilusión como ser mamá pero luego de algunos años de espera, puedo ver que tengo una linda familia y que no todas las parejas están destinadas a formar grandes familias para ser felices.
+Es cierto que algunas cosas me hacen ilusión como ser mamá pero luego de algunos años de espera, estoy feliz con mi linda familia y considero que no todas las parejas están destinadas a formar grandes familias para ser felices.
