@@ -110,3 +110,47 @@ _Mis estudios desde el más reciente al antiguo:_
 * Reporting Services - 3-Advanced
 * Tableau - 3-Advanced
 * Crystal Reports - 3-Advanced
+
+## Cursos adicionales
+
+#### Foundational Computer Science
+
+Infosys, India (2006)
+
+![](/images/Panama batch.jpg)
+
+#### Developer BI BW
+
+CVOSoft Panamá (2012)
+
+#### Crystal Reports 2
+
+New Horizonts Panamá (2011)
+
+#### Sofware Quality Management
+
+INADEH Panamá (2009)
+
+#### SQL Server Reporting Reports
+
+Microsoft Panamá, (2009)
+
+#### Sharepoint Designer 2
+
+New Horizonts Panamá, (2009)
+
+#### Microsoft Access
+
+Microsoft Panamá, (2009)
+
+#### Java
+
+IEEE Panamá, (2007)
+
+#### Business Object X1 R2
+
+Cibernética Panamá, (2007)
+
+#### Fast Track to PowerBuilder 10
+
+Cibernética Panamá, (2007)
