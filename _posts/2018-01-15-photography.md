@@ -16,7 +16,7 @@ Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprend
 
 Disfruto admirar las obras de arte y la arquitectura, siendo la **fotografía** uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer algún diseño.
 
-![](/images/IMG-20190608-WA0005.jpg)
+![](/images/CC Oporto.jpg)
 
 Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
 
