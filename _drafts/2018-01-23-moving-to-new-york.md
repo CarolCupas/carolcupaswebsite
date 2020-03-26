@@ -9,10 +9,10 @@ layout: post
 hide_header: false
 
 ---
-Suelo leer con regularidad libros, artículos de revistas, etc. y recuerdo haber leído una frase que creo que es acertada y dice
+Suelo leer con regularidad libros, artículos en la web, etc. y un día me encontré con una frase que creo que es acertada, dice:
 
 > _La experiencia es una dura maestra porque primero te pone la prueba y luego te enseña la lección_
 
-He aprendido que no siempre en la vida las cosas pasan como esperaba pero no necesariamente significa que sea malo, por el contrario, a veces resulta que no era el momento adecuado, que había mejores oportunidades por descubrir, que no iba a ser del todo bueno para mí o simplemente no tienen ningún sentido como la pérdida de un ser querido entre muchas otras que sigo sin entender. En medio de todo, he entendido que todo tiene su razón de ser aunque yo no sepa cuál y que debo confiar en el propósito que Dios tiene para mí.
+He aprendido que no siempre en la vida las cosas suceden como espero pero no necesariamente significa que sea malo, por el contrario, puede ser que no era el momento adecuado, que hay mejores oportunidades por descubrir, que no va a resultar del todo bueno para mí o simplemente desconozco la razón, por ejemplo la pérdida de seres queridos entre otras que sigo sin entender. En medio de todo, creo que todo tiene un propósito y debo encontrarlo y aprender de la experiencia.
 
 Es cierto que algunas cosas me hacen ilusión como ser mamá pero luego de algunos años de espera, puedo ver que tengo una linda familia y que no todas las parejas están destinadas a formar grandes familias para ser felices.
