@@ -1,5 +1,5 @@
 ---
-title: Ajustes a la perspectiva
+title: Ajustes de perspectiva
 subtitle: ''
 date: 2020-03-13T23:00:00.000+00:00
 thumb_img_path: "/images/CC Millenial Park_small.JPG"
@@ -28,3 +28,5 @@ Comparto un hermoso pasaje de la Biblia que siempre me da ánimos, se encuentra 
 > ... estamos atribulados en todo, mas no angustiados; en apuros, mas no desesperados; perseguidos, mas no desamparados; derribados, pero no destruidos...
 
 Así que, en lo que a mí concierne, yo elijo confiar y creer que lo mejor está aún por venir.
+
+![](/images/CC Maraton 5k.jpg)
