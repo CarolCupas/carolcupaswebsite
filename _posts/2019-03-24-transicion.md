@@ -2,11 +2,11 @@
 title: Transición
 subtitle: ''
 date: 2020-03-14T23:00:00.000+00:00
-thumb_img_path: "/images/IMG_20190501_161530.jpg"
+thumb_img_path: "/images/CC cesped.jpg"
 excerpt: ''
 hide_header: false
 layout: post
-content_img_path: "/images/StoryStar1582490339218.jpg"
+content_img_path: "/images/arte mensaje.jpg"
 
 ---
 ### Oportunidades de emprender

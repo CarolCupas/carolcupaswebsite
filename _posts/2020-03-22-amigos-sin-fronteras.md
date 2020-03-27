@@ -1,12 +1,12 @@
 ---
 title: Amigos sin fronteras
 date: 2020-03-16T23:00:00.000+00:00
-thumb_img_path: "/images/IMG-20181008-WA0012.jpg"
+thumb_img_path: "/images/CC AC amistad.jpg"
 excerpt: ''
 hide_header: false
 layout: post
 subtitle: ''
-content_img_path: "/images/IMG-20180930-WA0036.jpg"
+content_img_path: "/images/CC ML AC.jpg"
 
 ---
 Desde pequeña he tenido una relación especial con **Jesús**, para mí era como el amigo imaginario que algunos niños suelen tener. Me eduqué en una escuela católica y solía asistir a misa con mi familia los domingos.

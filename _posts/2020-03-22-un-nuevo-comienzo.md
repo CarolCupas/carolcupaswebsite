@@ -1,7 +1,7 @@
 ---
 title: Un nuevo comienzo
 date: 2020-03-16T23:00:00.000+00:00
-thumb_img_path: "/images/IMG-20180929-WA0012.jpg"
+thumb_img_path: "/images/CC ML ES.jpg"
 content_img_path: "/images/vista terraza piso.jpg"
 excerpt: ''
 layout: post
@@ -21,7 +21,7 @@ Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emp
 
 A pesar de que casi todos los años, planeaba vacaciones y conocía muchos lugares, mudarme a otro continente por al menos un año, era muy distinto, significaba partir de cero: amistades, comida, casa, frases, en resumen un nuevo estilo de vida.
 
-![](/images/Monasterio del Escorial.jpg)
+![](/images/CC ML Plaza mayor.jpg)
 
 He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hubiera sido más difícil. Hoy tenemos muchas amistades, platillos favoritos, lugares donde tomar un rico café o salir a caminar con Twitter y Coshita (nuestros perros).
 
