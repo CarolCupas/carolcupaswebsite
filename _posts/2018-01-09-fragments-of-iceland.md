@@ -1,5 +1,5 @@
 ---
-title: Amistad sin fronteras
+title: Amigos sin fronteras
 date: 2020-03-16T23:00:00.000+00:00
 thumb_img_path: "/images/IMG-20181008-WA0012.jpg"
 excerpt: ''
