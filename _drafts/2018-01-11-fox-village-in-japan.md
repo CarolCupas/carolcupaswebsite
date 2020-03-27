@@ -9,4 +9,4 @@ layout: post
 hide_header: false
 
 ---
-La palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en cuanto a la vida.
+La palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en cuanto a la vida. Todas las personas tenemos libre albedrío para elegir si creer o no en un Dios que nos creó y amó tanto como para enviar a su hijo unigénito a rescatarnos.
