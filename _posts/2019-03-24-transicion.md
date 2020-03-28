@@ -15,6 +15,8 @@ En vista de ser extranjera en Madrid, estoy experimentando una nueva fase de bú
 
 Hoy, buscar trabajo es casi un trabajo y ciertamente he tenido muchas entrevistas pero por el momento, esas empresas no gestionan los trámites que la oficina de extranjería requieren (quizás por desconocimiento del proceso). A pesar de todo, el lado positivo es que perfil profesional les gusta pero sin el visado, no me ofrecen la oportunidad.
 
-_Honestamente, la idea de emprender mi propio negocio cada vez me resulta más atractiva, lo que me retiene un poco es el tener que enfrentarme a la realidad de necesitar ingresos de hoy._
+_Honestamente, la idea de emprender mi propio negocio cada vez me resulta más atractiva, lo que me retiene un poco es el tener que enfrentarme a la realidad de necesitar ingresos para hoy._
 
-Por supuesto, quedarme de brazos cruzados no es lo mío, así que ocupo mi tiempo haciendo voluntario, aprendiendo algo nuevo como crear un website, entre otras cosas. Sé que el tiempo es valioso y por eso lo invierto en aquello que pueda generar valor o  bienestar.
+Por supuesto, quedarme de brazos cruzados no es lo mío, así que ocupo mi tiempo haciendo voluntario, aprendiendo algo nuevo como crear un website, entre otras cosas. Sé que el tiempo es valioso y por eso lo invierto en aquello que pueda generar valor o bienestar.
+
+Nada de lo anterior me fuera posible si no creyera que fuera posible por eso la promesa de Marcos 9:23 es mi favorita ya que dice **_"Si puedes creer, al que cree TODO le es POSIBLE..."_** La palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en la vida.
