@@ -5,13 +5,13 @@ thumb_img_path: "/images/CC ML ES.jpg"
 content_img_path: "/images/vista terraza piso.jpg"
 excerpt: ''
 layout: post
-subtitle: ''
+subtitle: Aventuras
 hide_header: false
 
 ---
 ### Migrar a un país
 
-Considero que soy una persona que se adapta muy bien a los cambios y me organizo bien a fin de lograr mis metas.
+Soy una persona que se adapta muy bien a los cambios y me organizo bien a fin de lograr mis metas.
 
 Hace un par de años, decidí que quería darle un giro a mi día a día y por lo tanto empecé a buscar trabajo como docente universitario. Para mi sorpresa, no bastaba mi título en ingeniería, ni siquiera el máster en Docencia Superior que recién había obtenido sino que además debía tener un máster en mi área profesional.
 
