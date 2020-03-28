@@ -9,4 +9,3 @@ layout: post
 hide_header: false
 
 ---
-La palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en la vida. Todas las personas .
