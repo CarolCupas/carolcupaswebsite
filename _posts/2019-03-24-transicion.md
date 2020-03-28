@@ -1,6 +1,6 @@
 ---
 title: Transición
-subtitle: ''
+subtitle: Próximos planes
 date: 2020-03-14T23:00:00.000+00:00
 thumb_img_path: "/images/CC cesped.jpg"
 excerpt: ''
