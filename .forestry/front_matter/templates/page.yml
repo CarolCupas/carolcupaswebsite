@@ -30,6 +30,3 @@ fields:
     required: false
   label: permalink
   hidden: false
-pages:
-- about.md
-- style-guide.md

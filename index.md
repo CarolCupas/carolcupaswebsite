@@ -1,5 +1,5 @@
 ---
-title: Carol Cupas
+title: Blog personal
 layout: home
 menu:
   main:
