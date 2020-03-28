@@ -4,9 +4,12 @@
 {% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
 <meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
 
-<link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png">
-<link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
-<link rel="apple-touch-icon" href="/img/icon-196x196.png">
+<link rel="shortcut icon" type="image/png" href="/icons/android-icon-192x192.png">
+<link rel="shortcut icon" sizes="196x196" href="/img/android-icon-192x192.png">
+<link rel="apple-touch-icon" href="/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
 
  <!-- Facebook integration -->
 <meta property="og:title" content="{{ page.title }}"/>
