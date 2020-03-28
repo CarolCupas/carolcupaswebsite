@@ -19,4 +19,4 @@ _Honestamente, la idea de emprender mi propio negocio cada vez me resulta más a
 
 Por supuesto, quedarme de brazos cruzados no es lo mío, así que ocupo mi tiempo haciendo voluntario, aprendiendo algo nuevo como crear un website, entre otras cosas. Sé que el tiempo es valioso y por eso lo invierto en aquello que pueda generar valor o bienestar.
 
-Nada de lo anterior me fuera posible si no creyera que fuera posible por eso la promesa de Marcos 9:23 es mi favorita ya que dice **_"Si puedes creer, al que cree TODO le es POSIBLE..."_** La palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en la vida.
+Nada de lo anterior me fuera posible si no me esfuerzo en dar lo mejor de mí en lo que hago y deposite mi confianza en Dios por eso la promesa de Marcos 9:23 es mi favorita ya que dice **_"Si puedes creer, al que cree TODO le es POSIBLE..."_**; la palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en mi vida.
