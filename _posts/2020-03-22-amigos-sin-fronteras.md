@@ -9,7 +9,7 @@ subtitle: ''
 content_img_path: "/images/CC ML AC.jpg"
 
 ---
-Desde pequeña he tenido una relación especial con **Jesús**, para mí era como el amigo imaginario que algunos niños suelen tener. Me eduqué en una escuela católica y solía asistir a misa con mi familia los domingos.
+Alrededor del mundo, existen un sin número de creencias y las respeto. Para mí, la vida no ha sido un camino de rosas pero tener a **Jesucristo** en  la mía ha sido una bendición. Desde pequeña he tenido una relación especial con Él, para mí era como el amigo imaginario que algunos niños suelen tener. Me eduqué en una escuela católica y solía asistir a misa con mi familia los domingos.
 
 De muy joven, comprendí lo que Jesús significaba en mi vida, era el amigo que me escuchaba, me cuidaba e incluso me regalaba hermosos atardeceres y flores silvestres.
 
