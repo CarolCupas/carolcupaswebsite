@@ -17,6 +17,6 @@ De muy joven, comprendí lo que Jesús significaba en mi vida, era el amigo que 
 
 Al llegar a Madrid, no sabía donde asistir pero gracias a Marvin, encontramos [**Amistad Cristiana**](https://amistadcristianamadrid.org/ "AmistadCristiana"). Desde el primer día, nos sentimos entre amigos y es que como dicen, el ADN de Amistad es acoger a las personas y que puedan conocer a Jesús; pero en mi caso, cómo ya lo conozco desde siempre, es cómo si ya los conociera también a ellos desde siempre porque le conocen a Él.
 
-Sinceramente, son una bendición, no estoy sola.
+Sinceramente, son una bendición, una segunda familia que nos muestran que no estamos solos. _Gracias!_
 
-_Gracias!_
+Durante el máster, logré conocer personas de diferentes nacionalidades y compartimos experiencias muy gratas desde paseos, cumpleaños, cenas navideñas, picnic, etc. y aunque muchos han regresado a sus países, sé que la amistad perdurará a través del tiempo porque la amistad no conoce de fronteras. 
