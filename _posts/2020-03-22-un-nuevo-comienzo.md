@@ -1,7 +1,7 @@
 ---
 title: Un nuevo comienzo
 date: 2020-03-16T23:00:00.000+00:00
-thumb_img_path: "/images/CC ML ES.jpg"
+thumb_img_path: "/images/CC taxi arte.jpg"
 content_img_path: "/images/vista terraza piso.jpg"
 excerpt: ''
 layout: post
