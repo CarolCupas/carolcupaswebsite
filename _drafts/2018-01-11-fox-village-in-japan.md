@@ -20,4 +20,8 @@ Debo reconocer que la primera vez que tuve que tratar con personas así, no sab�
 
 Cuando eso sucedió, y el resultado lamentablemente no fue el que esperaba, me hice la famosa pregunta "**_What would Jesus do_?" (_WWJD)_** y ésa fue la clave para poder sobrellevar la situación.
 
-Pensar en lo que haría Jesús en una situación donde le rodean haters, me llevo a la cruz donde fue crucificado por personas que el no lastimó, ni ofendió, ni humilló ni 
+Pensar en lo que haría Jesús en una situación donde le rodean haters, me llevo a la cruz donde fue crucificado por personas que el no lastimó, ni ofendió, ni humilló ni nada por el estilo pero que a pesar de eso lo crucificaron. La actitud de Jesús es evidentemente sobrenatural, el no solo no reaccionó igual sino que hasta oró a su Padre celestial pidiendo que los perdonara porque no sabían lo que hacían...OMG! wow!! sin duda es mi **superhéroe** por excelencia.
+
+Enfatizo, perfecta no soy peeeero tengo un gran maestro, así que decidí actuar de la manera en la que Él lo hizo, amar al prójimo como a mí misma, es decir tratar a los haters con amor (a fin de cuenta el problema lo tienen ellos conmigo) y por otra parte empecé a orar por ellos para que Dios sanara sus corazones y que las ofensas que yo pude haberles causado fueran sanadas.
+
+Francamente es difícil pero no imposible, así que "_metele caña_" como dicen aquí.
