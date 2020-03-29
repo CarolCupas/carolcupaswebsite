@@ -20,3 +20,5 @@ Al llegar a Madrid, no sabía donde asistir pero gracias a Marvin, encontramos [
 Sinceramente, son una bendición, y son una segunda familia que nos muestran que no estamos solos. _Gracias!_
 
 Desde luego, durante el máster logré conocer personas de diferentes nacionalidades y compartimos experiencias muy gratas desde paseos, cumpleaños, cenas navideñas, picnic, etc. y aunque muchos han regresado a sus países, sé que la amistad perdurará a través del tiempo porque la amistad no conoce de fronteras.
+
+![](/images/CC Next perfiles_diseño.jpg)
