@@ -12,4 +12,4 @@ hide_header: false
 ---
 Sabiendo que existen tantas cosas negativas en el mundo, voy a evitar perder el tiempo en escribir de cosas así por lo que este post no va de los _haters_ (dícese que las personas odiosas) sino en cómo reaccionar antes ellos.
 
-Estoy muy lejos de ser la monedita de oro que le caiga bien a todos así que he tenido ocasiones en lo que  
+Estoy muy lejos de ser la monedita de oro que le caiga bien a todos así que he tenido ocasiones en las que desafortunadamente he convivido con haters. Lo curioso de todo es que son personas que sin conocerte se hacen un concepto de ti y te tratan con desprecio. 
