@@ -1,5 +1,5 @@
 ---
-img_path: "/images/CC arte pg.jpg"
+img_path: "/images/carol lateral arte.jpg"
 title: Colaboraciones
 layout: page
 permalink: colaboraciones
