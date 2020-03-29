@@ -1,7 +1,7 @@
 ---
 title: Perfil profesional
 subtitle: Conoce acerca de mi experiencias profesionales
-img_path: "/images/pprofesional.jpg"
+img_path: "/images/CC_profesional.jpeg"
 layout: page
 permalink: perfil-profesional
 menu:
