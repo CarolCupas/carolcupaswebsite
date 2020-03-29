@@ -16,9 +16,7 @@ Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprend
 
 Disfruto admirar las obras de arte y la arquitectura, siendo la **fotografía** uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer algún diseño.
 
-![](/images/CC Oporto.jpg)
-
-Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
+![](/images/CC Oporto arte.jpg)Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
 
 No puedo dejar de lado a los **perros**, disfruto mucho de su compañía, la habilidad que tienen para hablarnos sin palabras y la fidelidad de estos animales. En un principio, pensé en estudiar veterinaria pero luego de algunas experiencias quirúrgicas en la clínica de mi papá, descubrí que no me gusta ver ni oler la sangre, por lo que me resultaría algo difícil ejercer la profesión.
 
