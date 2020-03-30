@@ -1,6 +1,6 @@
 ---
 title: Un nuevo comienzo
-date: 2020-03-16T23:00:00.000+00:00
+date: 2020-03-20 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/CC face.jpg"
 excerpt: Viajar es una de mis pasiones pero no sabía lo que significaba ser extranjera.
