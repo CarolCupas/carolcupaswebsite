@@ -29,6 +29,4 @@ He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hub
 
 Sin duda, extrañamos a nuestra familia, a los amigos de siempre y a estar en casa pero creo que aún tenemos deseos de tener nuevas aventuras y conocer más países. Después de todo, la vida es una.
 
-![](/images/CC london arte.jpg)
-
 De todas las experiencias se aprende y me alegro de experimentar lo que conlleva migrar de país, por lo menos, ya no me echan cuento.
