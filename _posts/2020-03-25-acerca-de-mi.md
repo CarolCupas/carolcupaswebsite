@@ -29,3 +29,7 @@ Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprend
 La cocina no me entusiasma demasiado pero me animo a cocinar de vez en cuando y la verdad algunas veces me sorprendo de lo bien que resulta. Soy _foodie_, me encanta probar platillos nuevos y hacer comentarios o recomendaciones.
 
 Soy _chocolate lover_ y también me gusta tomar café, tengo hermosos recuerdos en casa de mis abuelos donde me despertaba con el rico aroma del café recién hecho.
+
+![](/images/IMG_20191107_161204704.jpg)
+
+Cabe mencionar que estoy felizmente casada con uno de mis mejores amigos, Marvin, y al momento tenemos dos perros super inteligentes y amorosos.
