@@ -1,7 +1,7 @@
 ---
 title: Gajes del oficio
 subtitle: Si la vida te da limones... a preparar margaritas!!!
-date: 2020-03-12T23:00:00.000+00:00
+date: 2020-03-25 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/CC casa campo.jpg"
 excerpt: Algunas veces nos encontramos en situaciones que nos sacan de onda y cuesta
