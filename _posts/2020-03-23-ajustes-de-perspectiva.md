@@ -2,7 +2,7 @@
 title: Ajustes de perspectiva
 subtitle: ''
 date: 2020-03-13T23:00:00.000+00:00
-thumb_img_path: "/images/CC Millenial Park arte.jpg"
+thumb_img_path: ''
 content_img_path: "/images/Carol Cupas Madrid Rio 2019.jpg"
 excerpt: Cuando no desviamos la mirada del lugar correcto, resulta mucho más sencillo
   enfocarnos hacia la dirección adecuada que nos lleve a la meta.
