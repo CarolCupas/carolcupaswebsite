@@ -9,7 +9,7 @@ excerpt: La rutina me aburre por lo que los cambios ocurren a menudo en mi vida,
   esta nueva faceta de mi vida experimento algunos a nivel profesional.
 hide_header: false
 layout: post
-content_img_path: "/images/CC face.jpg"
+content_img_path: "/images/CC rubia.jpg"
 
 ---
 ![](/images/CC cesped arte.jpg)
