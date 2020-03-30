@@ -1,5 +1,5 @@
 ---
-title: Hay personas y luego personajes
+title: Gajes del oficio
 subtitle: Si la vida te da limones... a preparar margaritas!!!
 date: 2020-03-12T23:00:00.000+00:00
 thumb_img_path: ''
