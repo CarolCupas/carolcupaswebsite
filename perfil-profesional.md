@@ -86,10 +86,22 @@ _Diciembre 2007 - Mayo 2009 (1 año 6 meses), Panamá_
 
 ### Ultimus
 
-Empresa de tecnoñogía pionera en el software de Business Process Management (BPM) dedicada a ofrecer los servicios y el soporte para la automatización eficiente de procesos de negocio que cualquier industria. 
+Empresa de tecnoñogía pionera en el software de Business Process Management (BPM) dedicada a ofrecer los servicios y el soporte para la automatización eficiente de procesos de negocio que cualquier industria.
+
+#### Support Analyst
+
+1. Analizar las incidencias de los clientes en Ultimus y brindar soluciones en sitio 
+2. Recopilar requerimientos técnicos de los clientes y colaborar con el análisis de procesos
+3. Diseñar e implementar procesos de flujo de trabajos (BPMs) con C Sharp y Visual Studio.NET
 
 ### Pan-American Semiconductors
 
-Pan-American Semiconductors, era una empresa de desarrollo de software especializada en diseño y desarrollo avanzado de sistemas electrónicos como kioskos y sistemas de POS avanzados para vender mundialmente. 
+Pan-American Semiconductors, era una empresa de desarrollo de software especializada en diseño y desarrollo avanzado de sistemas electrónicos como kioskos y sistemas de POS avanzados para vender mundialmente.
 
-Ingeniera de Sistemas Computacionales
+#### Ingeniera de Sistemas Computacionales
+
+1. Administración y diseño de bases de datos SQL Server y MySql.
+2. Diseño de páginas Web con PHP, Adobe Dreamweaver y JavaScript
+3. Desarrollo de aplicaciones en VB.NET
+4. Diseño y programación de módulo con interacción a MySql en QT Designer de Open Suse de Linux
+5. Colaborar en la programación del Sistema Operativo ‘Micro C Linux’ del procesador Nios II IDE –Fase II
