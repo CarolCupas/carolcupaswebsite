@@ -12,8 +12,6 @@ layout: post
 content_img_path: "/images/CC rubia.jpg"
 
 ---
-![](/images/CC cesped arte.jpg)
-
 Al terminar el máster, estoy experimentando una nueva fase de búsqueda de empleo en Madrid dado que las personas extranjeras (_en su mayoría_) tenemos que ser altamente cualificadas  para que una empresa gestione los trámites legales para obtener el visado de trabajo o esperar a que pase un intervalo de años.
 
 Hoy, buscar trabajo es casi un trabajo y ciertamente he tenido muchas entrevistas pero por el momento, esas empresas no gestionan los trámites que la oficina de extranjería requieren (quizás por desconocimiento del proceso). A pesar de todo, el lado positivo es que perfil profesional les gusta pero sin el visado, no me ofrecen la oportunidad.
