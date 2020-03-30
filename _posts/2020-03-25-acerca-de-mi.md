@@ -30,6 +30,6 @@ La cocina no me entusiasma demasiado pero me animo a cocinar de vez en cuando y 
 
 Soy _chocolate lover_ y también me gusta tomar café, tengo hermosos recuerdos en casa de mis abuelos donde me despertaba con el rico aroma del café recién hecho.
 
-![](/images/IMG_20191107_161204704.jpg)
+![](/images/chocolate lover arte.jpg)
 
 Cabe mencionar que estoy felizmente casada con uno de mis mejores amigos, Marvin, y al momento tenemos dos perros super inteligentes y amorosos.
