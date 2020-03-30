@@ -18,3 +18,9 @@ No me excluyo, seguramente he decepcionado a muchas personas en algún momento, 
 > No se puede exigir aquello que no somos capaces de dar.
 
 Somos una obra en construcción, lo cual significa que podemos cambiar y mejorar a lo largo de la vida pero es un proceso que inicia con la voluntad interna de hacerlo y no por presiones externas.
+
+**_Ahora pues, Jehová, tú eres nuestro padre; nosotros barro, y tú el que nos formaste; así que obra de tus manos somos todos nosotros._** 
+
+**_Isaías 64:8_**
+
+La manera en que aprendí a aceptar a los demás con sus virtudes y defectos (anuente a la desilusión) fue ponerme en su lugar e imaginar lo triste que es ser rechazado por ser quién eres, que no es precisamente malo sino diferente a lo que otros esperan (expectativas ajenas).
