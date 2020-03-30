@@ -22,6 +22,6 @@ Cuando eso sucedió, y el resultado lamentablemente no fue el que esperaba, me h
 
 Pensar en lo que haría Jesús en una situación donde le rodean haters, me llevo a la cruz donde fue crucificado por personas que el no lastimó, ni ofendió, ni humilló ni nada por el estilo pero que a pesar de eso lo crucificaron. La actitud de Jesús es evidentemente sobrenatural, Él no sólo no reaccionó igual sino que hasta oró a su Padre celestial pidiendo que los perdonara porque no sabían lo que hacían...OMG! wow!! sin duda es mi **superhéroe** por excelencia.
 
-Lo sé, perfecta no soy peeeero estoy aprendiendo de un gran maestro, así que decidí actuar de la manera en la que Él lo hizo, amar al prójimo como a mí misma, es decir tratar a los haters con amor (a fin de cuenta el problema lo tienen ellos conmigo) y por otra parte empecé a orar por ellos para que Dios sanara sus corazones y que las ofensas que yo pude haberles causado (sin saber) fueran sanadas.
+Lo sé, perfecta no soy peeeero estoy aprendiendo de un gran maestro, así que decidí actuar de la manera en la que Él lo hizo, amar al prójimo como a mí misma, es decir tratar a los haters con amor (a fin de cuenta el problema lo tienen ellos conmigo) y por otra parte empecé a orar por ellos para que Dios sanara sus corazones y que las ofensas que yo pude haberles causado (sin saber) fueran sanadas. Ojo, lo anterior no significa que me deje menospreciar o humillar por nadie, hay límites que recomiendo no cruzar.
 
 Francamente es difícil pero no imposible, así que "_metele caña_" como dicen aquí.
