@@ -20,9 +20,11 @@ Mi profesión es la ingeniera de sistemas computacionales pero en un principio, 
 
 Luego quise ser arquitecta, me gustaba dibujar y hasta gané algún premio en los concursos de mi escuela primaria. Disfruto admirar las obras de arte y la arquitectura de las ciudades, siendo la **fotografía** uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer diseños.
 
-![](/images/CC Oporto arte.jpg)Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
+![](/images/CC Oporto arte.jpg)
 
-Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Deseo aprender a hablar francés y a tocar el violín algún día. Disfruto mucho escuchar **música**, no pasa un día de mi vida sin escucharla... a lo mejor tenga que ver con mi nombre, ya que traducido del inglés es canción de Navidad o _villancico_ (por cierto, la Navidad es mi época favorita del año). 
+Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
+
+Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Deseo aprender a hablar francés y a tocar el violín algún día. Disfruto mucho escuchar **música**, no pasa un día de mi vida sin escucharla aunque sea un poco... a lo mejor tenga que ver con mi nombre, ya que traducido del inglés es canción de Navidad o _villancico_ (por cierto, la Navidad es mi época favorita del año).
 
 La cocina no me entusiasma demasiado pero me animo a cocinar de vez en cuando y la verdad algunas veces me sorprendo de lo bien que resulta. Soy _foodie_, me encanta probar platillos nuevos y hacer comentarios o recomendaciones.
 
