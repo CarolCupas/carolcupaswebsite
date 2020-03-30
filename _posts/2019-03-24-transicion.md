@@ -3,8 +3,10 @@ title: Transición
 subtitle: Año sabático y las oportunidades
 date: 2020-03-14T23:00:00.000+00:00
 thumb_img_path: ''
-excerpt: Los desafíos a nivel profesional que experimento durante esta nueva faceta
-  de mi vida.
+excerpt: La rutina me aburre por lo que los cambios ocurren a menudo en mi vida, desde
+  un nuevo color de cabello hasta cambiar de país de residencia. Evidentemente los
+  retos que conlleva algunos cambios son más desafiantes que otros por lo que durante
+  esta nueva faceta de mi vida experimento algunos a nivel profesional.
 hide_header: false
 layout: post
 content_img_path: "/images/CC face.jpg"
@@ -20,4 +22,4 @@ _Honestamente, la idea de **emprender** mi propio negocio cada vez me resulta m�
 
 Por supuesto, quedarme de brazos cruzados no es lo mío, así que ocupo mi tiempo haciendo voluntario, aprendiendo algo nuevo como crear un website, entre otras cosas. Sé que el tiempo es valioso y por eso lo invierto en aquello que pueda generar valor o bienestar.
 
-Nada de lo anterior me fuera posible si no me esfuerzo en dar lo mejor de mí en lo que hago y deposite mi confianza en Dios por eso la promesa de Marcos 9:23 es mi favorita ya que dice **_"Si puedes creer, al que cree TODO le es POSIBLE..."_**; la palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en mi vida.
+Nada de lo anterior me fuera posible si no me esfuerzo en dar lo mejor de mí en lo que hago y deposite mi confianza en Dios por eso la promesa de Marcos 9:23 es mi favorita porque dice **_"Si puedes creer, al que cree TODO le es POSIBLE..."_**; la palabra TODO seguido de la palabra POSIBLE marca una enorme diferencia en mi vida.
