@@ -2,7 +2,7 @@
 title: Qué haría Jesús?
 subtitle: Si la vida te da limones... a preparar margaritas!!!
 date: 2020-03-12T23:00:00.000+00:00
-thumb_img_path: "/images/CC HaciendaLN.jpg"
+thumb_img_path: ''
 content_img_path: "/images/CC casa campo.jpg"
 excerpt: Algunas veces nos encontramos en situaciones que nos sacan de onda y cuesta
   reaccionar con delicadeza porque lo que apetece es mandar a todos a volar.
@@ -22,6 +22,6 @@ Cuando eso sucedió, y el resultado lamentablemente no fue el que esperaba, me h
 
 Pensar en lo que haría Jesús en una situación donde le rodean haters, me llevo a la cruz donde fue crucificado por personas que el no lastimó, ni ofendió, ni humilló ni nada por el estilo pero que a pesar de eso lo crucificaron. La actitud de Jesús es evidentemente sobrenatural, Él no sólo no reaccionó igual sino que hasta oró a su Padre celestial pidiendo que los perdonara porque no sabían lo que hacían...OMG! wow!! sin duda es mi **superhéroe** por excelencia.
 
-Enfatizo, perfecta no soy peeeero tengo un gran maestro, así que decidí actuar de la manera en la que Él lo hizo, amar al prójimo como a mí misma, es decir tratar a los haters con amor (a fin de cuenta el problema lo tienen ellos conmigo) y por otra parte empecé a orar por ellos para que Dios sanara sus corazones y que las ofensas que yo pude haberles causado (sin saber) fueran sanadas.
+Lo sé, perfecta no soy peeeero estoy aprendiendo de un gran maestro, así que decidí actuar de la manera en la que Él lo hizo, amar al prójimo como a mí misma, es decir tratar a los haters con amor (a fin de cuenta el problema lo tienen ellos conmigo) y por otra parte empecé a orar por ellos para que Dios sanara sus corazones y que las ofensas que yo pude haberles causado (sin saber) fueran sanadas.
 
 Francamente es difícil pero no imposible, así que "_metele caña_" como dicen aquí.
