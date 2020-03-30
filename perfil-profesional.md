@@ -1,7 +1,7 @@
 ---
 title: Perfil profesional
 subtitle: Conoce acerca de mi experiencias profesionales
-img_path: "/images/CC_profesional.jpeg"
+img_path: "/images/CC profesional arte.jpg"
 layout: page
 permalink: perfil-profesional
 menu:
@@ -83,3 +83,11 @@ _Diciembre 2007 - Mayo 2009 (1 año 6 meses), Panamá_
 1. Administrar el BPM y asistir con la administración de otras aplicaciones del departamento de Tecnología.
 2. Diseño de estructura de base de datos SQL (consultas, procesos almacenados, etc.).
 3. Brindar soporte al sitio web del banco (CSS, HTML, PHP).
+
+### Ultimus
+
+Empresa de tecnoñogía pionera en el software de Business Process Management (BPM) dedicada a ofrecer los servicios y el soporte para la automatización eficiente de procesos de negocio que cualquier industria. 
+
+### Pan-American Semiconductors
+
+Pan-American Semiconductors, era una empresa de desarrollo de software especializada en diseño y desarrollo avanzado de sistemas electrónicos como kioskos y sistemas de POS avanzados para vender mundialmente. 
