@@ -2,10 +2,10 @@
 title: Un nuevo comienzo
 date: 2020-03-16T23:00:00.000+00:00
 thumb_img_path: ''
-content_img_path: "/images/vista terraza piso.jpg"
+content_img_path: "/images/CC face.jpg"
 excerpt: Viajar es una de mis pasiones pero no sabía lo que significaba ser extranjera.
-  Salir de área de confort nunca es fácil pero es necesario experimentar y hacer las
-  cosas diferentes para obtener nuevos resultados.
+  Salir del área de confort nunca es fácil pero es necesario experimentar y hacer
+  las cosas diferentes para obtener nuevos resultados.
 layout: post
 subtitle: Aventuras al migrar a un país
 hide_header: false
