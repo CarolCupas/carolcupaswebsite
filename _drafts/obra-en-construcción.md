@@ -28,7 +28,7 @@ Somos una obra en construcción, lo cual significa que podemos cambiar y mejorar
 
 La manera en que empecé a dejar a un lado mis expectativas acerca de los demás y aceptarles con sus virtudes y defectos fue colocarme en su lugar e imaginar lo triste que es ser rechazada / juzgada por ser quién soy, que no es precisamente malo sino diferente a lo que otros esperan (expectativas ajenas).
 
-Un enorme consuelo es que tengo un maravilloso Padre celestial que me amó aún cuando yo no lo conocía:
+Un enorme consuelo es tener un maravilloso Padre celestial que me amó aún cuando yo no lo conocía:
 
 > 1 Ahora, así dice Jehová, Creador tuyo, oh Jacob, y **Formador** tuyo, oh Israel: No temas, porque yo te redimí; te puse nombre, mío eres tú. 2 Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti. 3 Porque yo Jehová, Dios tuyo, el Santo de Israel, soy tu Salvador; a Egipto he dado por tu rescate, a Etiopía y a Seba por ti. 4 Porque a mis ojos fuiste de gran estima, fuiste honorable, y **yo te amé;** daré, pues, hombres por ti, y naciones por tu vida. 
 >
