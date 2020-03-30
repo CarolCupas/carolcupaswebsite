@@ -5,8 +5,8 @@ subtitle: ''
 date: 2020-03-29 22:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/CC pinkpanter.jpg"
-excerpt: A veces se gano y otras pierdo pero nunca me rindo. Disfruta cada partida
-  porque aún si no ganas, los errores sirven para aprender que no se debe hacer.
+excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida porque
+  aún si no ganas, los errores sirven para aprender que no se debe hacer.
 hide_header: false
 
 ---
