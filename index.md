@@ -1,5 +1,5 @@
 ---
-title: Blog personal
+title: Carol blog
 layout: home
 menu:
   main:
