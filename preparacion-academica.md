@@ -1,6 +1,6 @@
 ---
 title: Preparación Académica
-subtitle: Estudios
+subtitle: Estudios, cursos y skills
 img_path: "/images/CC BDBI.jpg"
 layout: page
 permalink: preparacion-academica
@@ -10,8 +10,6 @@ menu:
     weight: 2
 
 ---
-Mis estudios desde el más reciente al antiguo:
-
 #### Master en Big Data y Business Intelligence
 
 Next IBS & Universitat de Lleida (2018 - 2019)
@@ -111,7 +109,7 @@ Universidad Tecnológica de Panamá (1999 - 2005)
 
 ### Cursos adicionales
 
-#### Foundational Computer Science
+#### Foundational Computer Science: Web Applications Developer
 
 Infosys, India (2006)
 
