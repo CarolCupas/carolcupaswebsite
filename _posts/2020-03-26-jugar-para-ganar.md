@@ -2,7 +2,7 @@
 layout: post
 title: Jugar para ganar
 subtitle: ''
-date: 2020-03-26 23:00:00 +0000
+date: 2020-03-26 22:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/CC pinkpanter.jpg"
 excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida porque
@@ -10,6 +10,8 @@ excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida 
 hide_header: false
 
 ---
+![](/images/CC london arte.jpg)
+
 ¿A quién no le gusta salirse con la suya?
 
 No me considero alguien 100% competitiva porque quiero disfrutar de lo que hago en lugar de ganar a toda costa. En mi niñez, los juegos de mesa estaban de moda y no había tanta tecnología como hoy. Aún me sigue gustando los juegos clásicos pero ahora los descargo en el móvil y puede que necesite o no de un contrincante.
