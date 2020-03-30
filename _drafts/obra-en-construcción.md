@@ -5,7 +5,10 @@ subtitle: ''
 date: 2020-03-18 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/CC sunglass.jpg"
-excerpt: ''
+excerpt: 'En un tiempo, fui una persona que esperaba lo mejor de las demás personas
+  hasta que me demostraran lo contrario y de ahí: pare de contar. Hoy, reconozco que
+  las segundas oportunidades son necesarias, que nadie es perfecto y que si nos esforzamos,
+  las cosas pueden mejorar.'
 hide_header: false
 
 ---
