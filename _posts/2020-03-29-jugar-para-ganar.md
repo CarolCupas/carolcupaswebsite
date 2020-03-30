@@ -26,4 +26,4 @@ La ventaja que representa para mí tener a Jesucristo en mi vida es que a pesar 
 
 > Has cambiado mi lamento en baile; Desataste mi cilicio, y me ceñiste de alegría.
 
-Doy fe de que es verdad. He atravesado duras tormentas (dícese de dificultades) pero Dios ha sido maravilloso, siempre me brinda un dulce refugio y me muestra una apacible bonanza al final de la tormenta.
+Doy fe de que es verdad. He atravesado duras tormentas (dícese de dificultades) pero Dios ha sido fiel, siempre me brinda un dulce refugio y me muestra una apacible bonanza al final de la tormenta.
