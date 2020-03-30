@@ -1,7 +1,7 @@
 ---
 title: " Acerca de mí"
 subtitle: ''
-date: 2020-03-29 22:00:00 +0000
+date: 2020-03-19 23:00:00 +0000
 thumb_img_path: ''
 content_img_path: "/images/CC escaleras.jpg"
 excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
