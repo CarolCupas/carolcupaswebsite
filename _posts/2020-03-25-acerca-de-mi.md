@@ -32,4 +32,4 @@ Soy _chocolate lover_ y también me gusta tomar café, tengo hermosos recuerdos 
 
 ![](/images/chocolate lover arte.jpg)
 
-Cabe mencionar que estoy felizmente casada con uno de mis mejores amigos, Marvin, y al momento tenemos dos perros super inteligentes y amorosos.
+Cabe mencionar que estoy felizmente casada con uno de mis mejores amigos, **Marvin**, y al momento tenemos dos perros super inteligentes y amorosos.
