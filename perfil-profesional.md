@@ -91,3 +91,5 @@ Empresa de tecnoñogía pionera en el software de Business Process Management (B
 ### Pan-American Semiconductors
 
 Pan-American Semiconductors, era una empresa de desarrollo de software especializada en diseño y desarrollo avanzado de sistemas electrónicos como kioskos y sistemas de POS avanzados para vender mundialmente. 
+
+Ingeniera de Sistemas Computacionales
