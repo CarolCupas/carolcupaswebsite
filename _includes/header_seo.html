@@ -4,17 +4,21 @@
 {% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
 <meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
 
-<link rel="shortcut icon" type="image/png" href="/icons/android-icon-192x192.png">
-<link rel="shortcut icon" sizes="196x196" href="/img/android-icon-192x192.png">
-<link rel="apple-touch-icon" href="/icons/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+<link rel="shortcut icon" type="image/png" href="/images/icons/android-icon-192x192.png">
+<link rel="shortcut icon" sizes="196x196" href="/images/icons/android-icon-192x192.png">
+<link rel="apple-touch-icon" href="/images/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
 
  <!-- Facebook integration -->
 <meta property="og:title" content="{{ page.title }}"/>
-{% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %}
+ <!-- {% if page.image %}  page.image  -->
+<meta property="og:image" content="{{ site.logo_img | prepend: site.baseurl | prepend: site.url }}"/>
+ <!-- {% endif %}
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
+-->
+<meta property="og:url" content = "{{ site.url }}{{ page.url }}" />
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.title }}"/>
 <meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
@@ -26,7 +30,9 @@
 {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
-
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<!--
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">  
+-->
+<link rel="canonical" href = "{{ site.url }}{{ page.url }}" >
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
