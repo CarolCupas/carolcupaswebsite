@@ -2,7 +2,10 @@
 title: Amigos sin fronteras
 date: 2020-03-16T23:00:00.000+00:00
 thumb_img_path: ''
-excerpt: ''
+excerpt: 'Dicen que los amigos son un tesoro y sí que lo son porque los buenos amigos
+  son escasos hoy en día. Contar con personas que se interesen en saber cómo te encuentras
+  se ha convertido en followers en las redes sociales pero tener a personas con las
+  que quedar para verse, ir de picnic o ver una pelis en casa, no tiene precio. '
 hide_header: false
 layout: post
 subtitle: ''
