@@ -1,6 +1,6 @@
 ---
 title: Perfil profesional
-subtitle: Conoce acerca de mi experiencias profesionales
+subtitle: Experiencias profesionales
 img_path: "/images/CC profesional arte.jpg"
 layout: page
 permalink: perfil-profesional
@@ -90,6 +90,8 @@ Empresa de tecnoñogía pionera en el software de Business Process Management (B
 
 #### Support Analyst
 
+_Julio 2007 - Noviembre 2007 (6 meses), Panamá_
+
 1. Analizar las incidencias de los clientes en Ultimus y brindar soluciones en sitio 
 2. Recopilar requerimientos técnicos de los clientes y colaborar con el análisis de procesos
 3. Diseñar e implementar procesos de flujo de trabajos (BPMs) con C Sharp y Visual Studio.NET
@@ -99,6 +101,8 @@ Empresa de tecnoñogía pionera en el software de Business Process Management (B
 Pan-American Semiconductors, era una empresa de desarrollo de software especializada en diseño y desarrollo avanzado de sistemas electrónicos como kioskos y sistemas de POS avanzados para vender mundialmente.
 
 #### Ingeniera de Sistemas Computacionales
+
+_Septiembre 2005 - Julio 2007 (1 año y 9 meses), Panamá_
 
 1. Administración y diseño de bases de datos SQL Server y MySql.
 2. Diseño de páginas Web con PHP, Adobe Dreamweaver y JavaScript
