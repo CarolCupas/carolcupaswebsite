@@ -42,5 +42,10 @@ fields:
   default: post
   config:
     required: true
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
 pages:
 - _posts/2018-01-11-fox-village-in-japan.md
