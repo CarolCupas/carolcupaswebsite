@@ -9,6 +9,7 @@ header:
   title: Carol Cupas
   tagline: Every journey begins with a single step
   logo_img: "/images/logov2b.png"
+  image: "/images/CC Website.png"
   bg_img: "/images/CC arte.jpg"
   has_nav: true
   has_social: true
