@@ -2,7 +2,7 @@
 title: Un nuevo comienzo
 date: 2020-03-20 23:00:00 +0000
 thumb_img_path: ''
-content_img_path: "/images/CC face.jpg"
+content_img_path: "/images/CC escaleras.jpg"
 excerpt: Viajar es una de mis pasiones pero no sabía lo que significaba ser extranjera.
   Salir del área de confort nunca es fácil pero es necesario experimentar y hacer
   las cosas diferentes para obtener nuevos resultados.

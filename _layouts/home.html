@@ -19,12 +19,13 @@ layout: body
                 !--| date: '%B %d, %Y' --
             </div> -->
           </header><!-- .post-header -->
+          <!--
           {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
           {% if thumb_img_path_is_not_empty %}
           <a class="post-thumbnail" href="{{ post.url | relative_url }}">
             <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
           </a>
-          {% endif %}
+          {% endif %} -->
           <div class="post-content">
             <p>{{ post.excerpt }}</p>
           </div><!-- .post-content -->
