@@ -4,12 +4,13 @@ baseurl: "/"
 url: https://www.carolcupas.com
 permalink: "/:title/"
 palette: green
-description: Blog acerca de mis pensamientos y vivencias personales y profesionales.
+description: Carol Cupas - Pensamientos, reflexiones y vivencias.
+image: "images/CC Website.png"
 header:
   title: Carol Cupas
   tagline: Every journey begins with a single step
   logo_img: "/images/logov2b.png"
-  image: "/images/CC Website.png"
+
   bg_img: "/images/CC arte.jpg"
   has_nav: true
   has_social: true
