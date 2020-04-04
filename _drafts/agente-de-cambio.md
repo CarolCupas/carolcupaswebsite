@@ -19,3 +19,7 @@ Cada vez que escucho música en YouTube aparecen anuncios de organizaciones ben�
 Considero que se necesita un plan de acción fuera de la política y los intereses de ciertos sectores de la industria. Cada persona puede ser un agente de cambio en donde estemos por eso me propongo a ser el cambio que quiero ver en el mundo empezando por dar mi propio grano de arena con mis costumbres diarias como reciclar. 
 
 Hoy, el reciclaje es voluntario, apela a la conciencia y a la buena voluntad de las personas pero es primordial que todos se sumen.
+
+> Mateo 13-16: Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres. Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder. Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa.
+>
+> Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.
