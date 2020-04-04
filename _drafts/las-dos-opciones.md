@@ -4,7 +4,7 @@ title: Aspiraciones
 subtitle: ''
 date: 2020-04-03 22:00:00 +0000
 thumb_img_path: "/images/CC montana.jpg"
-content_img_path: ''
+content_img_path: "/images/CC Portrait design 2.jpg"
 excerpt: 'A pesar de que la pregunta ¿cuáles son tus aspiraciones? es como una constante
   en las entrevistas de trabajo las respuestas suelen ser variables.  '
 hide_header: false
