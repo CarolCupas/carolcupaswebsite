@@ -9,7 +9,7 @@ excerpt: ''
 hide_header: false
 
 ---
-El refrán es "el peor intento es el que no se hace" pero me gusta más mi versión "**_el mejor intento es el que se hace_**", la idea centrar es la misma pero las palabras usadas dan una connotación distinta a la oración, de negativa (peor) a positiva (mejor).
+El refrán es "el peor intento es el que no se hace" pero me gusta más mi versión "**_el mejor intento es el que se hace_**", la idea central es la misma pero las palabras usadas dan una connotación distinta a la oración, de negativa (peor) a positiva (mejor).
 
 Los niños de hoy parecen nacer con un _chip_ integrado que les facilita el uso de la tecnología pero la verdad es que ninguna persona nace sabiendo las cosas sino que las va aprendiendo; desde lo básico como dar los primeros pasos hasta lo más complejo como desarrollar algoritmos de _machine learning_ requieren como mucho una motivación que nos impulse a intentarlo.
 
@@ -17,7 +17,7 @@ Es fácil encontrar miles de excusas al momento de presentarse un reto, un clás
 
 > La motivación es lo esencial, creer en uno mismo, reconociendo nuestras limitaciones pero también nuestro **potencial** para ir por ello. **No te subestimes, querer es poder!**
 
-Las posibilidades de triunfar o no son las mismas, un 50%! De nuestra parte toca elegir hacia donde queremos enfocar nuestros pensamientos y energía: hacia todo lo que puede ir mal llevando a desanimarnos o hacia todo lo que podamos alcanzar llevando a motivarnos. Es ahí donde encaja el refrán "_el peor intento es el que no se hace_", para mí, un intento no realizado es un fracaso seguro, no logramos nada; sin embargo, intentar algo nos abre la puerta a la posibilidad de conseguirlo.
+Las posibilidades de triunfar o no son las mismas, un 50%! De nuestra parte toca elegir hacia donde queremos enfocar nuestros pensamientos y energía: hacia todo lo que puede ir mal llevando a desanimarnos o hacia todo lo que podemos alcanzar llevando a motivarnos. Es ahí donde encaja el refrán "_el peor intento es el que no se hace_", para mí, un intento no realizado es un fracaso seguro, no lograremos nada; sin embargo, intentar algo nos abre la puerta a la posibilidad de conseguirlo.
 
 > Isaías 41:10 (RVR1960) No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.
 
