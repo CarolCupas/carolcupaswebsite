@@ -5,7 +5,7 @@ subtitle: ''
 date: 2020-04-03 22:00:00 +0000
 thumb_img_path: "/images/CC Millenial Park arte.jpg"
 content_img_path: "/images/Carol nov2019.jpeg"
-excerpt: ''
+excerpt: Cuando queremos que las cosas cambien debemos ponernos manos a la obra.
 hide_header: false
 permalink: agente-de-cambio
 
