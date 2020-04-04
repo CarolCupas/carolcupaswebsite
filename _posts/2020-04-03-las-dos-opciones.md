@@ -20,6 +20,6 @@ Mi aspiración como profesional es que mi trabajo sea valorado, que sirva para a
 
 Durante uno de mis trabajos, tuve que pasar por el fallecimiento de un apreciado compañero, un señor muy amable que trabajaba sobretiempo y que a pesar de todo, tenía tiempo para bromear. Fue como un balde de agua fría ver que a la semana siguiente ya habían cubierto su vacante y me abrió los ojos a que para una empresa, la función debe continuar porque nadie es indispensable.
 
-Al momento, aspiro a tener un buen trabajo donde me sienta valorada por quién soy y lo que aporto, a tener una familia que se sepa y sienta amada por mí, a tener amigos verdaderos y principalmente a soñar en grande porque aún no tengo idea de lo que vendrá en los próximos años, sin duda, Dios tiene un buen plan:
+Al momento, aspiro a tener un buen trabajo donde me sienta valorada por quién soy y lo que aporto, a tener una familia que se sepa y sienta amada por mí, a tener amigos verdaderos y principalmente a soñar en grande porque aún no tengo idea de lo que vendrá en los próximos años, sin duda, Dios tiene algo bueno en mente:
 
 > Jeremías 29:11 (RVR1960). Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.
