@@ -24,5 +24,3 @@ fields:
   default: contact
   config:
     required: true
-pages:
-- contact.md

@@ -48,8 +48,5 @@ fields:
     required: false
   label: permalink
 pages:
-- _posts/2018-01-11-fox-village-in-japan.md
 - _posts/2020-04-03-agente-de-cambio.md
 - _posts/2020-04-03-el-mejor-intento.md
-- _posts/2020-04-03-las-dos-opciones.md
-- _posts/el-mundo-no-gira-alrededor-de.md
