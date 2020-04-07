@@ -4,7 +4,7 @@
  */
 html {
   font-family: _font(primary);
-  font-size: 105.5%;
+  font-size: 100%; //105.5%
   height: 100%;
   min-height: 100%;
 
@@ -16,7 +16,7 @@ html {
 body {
   background: #fff;
   color: _palette(primary);
-  line-height: 1.66667;
+  line-height: 1.35; //1.66667;
 }
 
 a {
@@ -77,7 +77,7 @@ h6 {
 }
 
 p {
-  margin: 0 0 1.66667em;
+  margin: 0 0 1.16667em; //0 0 1.66667em;
 }
 
 address {
@@ -107,7 +107,7 @@ pre {
   font-size: 0.88889rem;
   margin: 0 0 1.66667rem;
   overflow: auto;
-  padding: 1.5em 1.875em;
+  padding: 1.15em 1.575em; //1.5em 1.875em;
   position: relative;
   white-space: pre;
 
@@ -119,10 +119,10 @@ pre {
 blockquote {
   border-left: 5px solid _palette(accent);
   color: _palette(secondary);
-  font-size: 1.33333rem;
+  font-size: 1.13333rem; //1.33333rem;
   font-style: italic;
   line-height: 1.5;
-  margin: 2.5rem auto;
+  margin: 2rem auto; //2.5rem auto;
   max-width: 555px;
   padding-left: 30px;
 
@@ -169,8 +169,8 @@ dd {
 
 ul,
 ol {
-  margin: 0 0 1.66667em;
-  padding: 0 0 0 1.66667em;
+  margin: 0 0 1.16667em; //1.66667em;
+  padding: 0 0 0 1.16667em; //1.66667em;
 }
 
 li > ul,
@@ -187,7 +187,7 @@ hr {
 table {
   font-size: 0.88889rem;
   line-height: 1.5;
-  margin: 0 0 1.66667rem;
+  margin: 0 0 1.16667rem; //1.66667em;
   text-align: left;
   width: 100%;
 }
@@ -243,7 +243,7 @@ textarea {
   font-weight: normal;
   line-height: 1.5;
   max-width: 100%;
-  padding: 0.5em 10px;
+  padding: 0.25em 10px; //0.5em 10px;
   vertical-align: baseline;
   width: 100%;
 
@@ -291,8 +291,8 @@ a.button {
 
 a.button {
   line-height: 1.2;
-  padding-bottom: 0.75em;
-  padding-top: 0.75em;
+  padding-bottom: 0.5em; //0.75em;
+  padding-top: 0.5em;    //0.75em;
 }
 
 #menu-toggle {
@@ -364,3 +364,4 @@ img {
   content: "";
   display: table;
 }
+

@@ -20,6 +20,13 @@ layout: body
               datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%F' }}</time>
           </div> <! -- date: '%A, %B %e, %Y' -->
         </header><!-- .post-header -->
+        {% assign thumb_img_path_is_not_empty = page.thumb_img_path | is_not_empty %}
+        {% if thumb_img_path_is_not_empty %}
+        <a class="post-thumbnail" href="{{ page.url | relative_url }}">
+          <img class="thumbnail" src="{{ page.thumb_img_path | relative_url }}" alt="{{ page.title }}" />
+        </a>
+        {% endif %}
+
         {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
         {% if subtitle_is_not_empty %}
         <div class="post-subtitle">
@@ -32,28 +39,48 @@ layout: body
       </article><!-- .post -->
 
       <!-- Next/previous post navigation TBD -->
-      <!--
+      <!-- -->
       <nav class="post-navigation">
-        <h2 class="post-nav-title">Read Next</h2>
-        <article class="post">
+        <h2 class="post-nav-title"> Continuar leyendo:</h2>
+        <!-- <article class="post">
           <header class="post-header">
-            <h3 class="post-title"><a href="#" rel="bookmark">Previous Post Title</a></h3>
-            <div class="post-meta">
+            <div class="older-posts">
+              {% if page.previous.url %}
+                <a href="{{page.previous.url}}" rel="bookmark">&laquo; {{page.previous.title}}</a>
+              {% endif %}
+            </div>
+            <div class="newer-posts">
+              {% if page.next.url %}
+            <!- <div class="post-meta">
               Published on <time class="published" datetime="">Previous post date</time>
-            </div>
+            </div> 
           </header>
         </article>
         <article class="post">
-          <header class="post-header">
-            <h3 class="post-title"><a href="#" rel="bookmark">Next Post Title</a></h3>
-            <div class="post-meta">
+          <header class="post-header"> ->        
+                <a href="{{page.next.url}}" rel="bookmark">   {{page.next.title}} &raquo;</a>
+           <!- <div class="post-meta">
               Published on <time class="published" datetime="">Next post date</time>
+            </div> ->
+              {% endif %}
             </div>
           </header>
-        </article>
+        </article> -->
+        <div class="grid-container">
+          
+          <div class="previous">
+            {% if page.previous.url %}
+            <a href="{{page.previous.url}}" rel="bookmark">&laquo; {{page.previous.title}}</a>
+            {% endif %}
+          </div>     
+          <div class="next">
+            {% if page.next.url %}
+            <a href="{{page.next.url}}" rel="bookmark">   {{page.next.title}} &raquo;</a>
+            {% endif %}
+          </div>
+        </div>
       </nav>
-      -->
-
+      <!-- -->
     </main><!-- .site-main -->
 
     {% include footer.html %}
