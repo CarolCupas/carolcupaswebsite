@@ -16,7 +16,7 @@ Ayer, cuando regresaba de una breve caminata con uno de mis peques, me encontré
 
 Las personas jóvenes estamos acostumbrados a utilizar tecnología para entretenernos en nuestro día a día pero a muchos ancianos se les dificulta ver, les tiembla el pulso y les cuesta pasar horas frente a una pantalla. Hace unos días, pude conversar con mi abuela por videollamada, es una bendición que mi prima la ayudara para poder hacerlo porque mi abuela no tiene un _smatphone_, prefiere un teléfono con botones para pulsar los números.
 
-Permanecer aislados por tantos días, ha sido difícil hasta para mí y tengo muchas ganas de salir a una playa, oír el sonido del mar y sentir la brisa. Creo que de cierto modo ya nada volverá a hacer igual, seremos un poco escépticos al saludar, al reunirnos e incluso bañarse en una piscina o playa con extraños.
+Permanecer aislados por tantos días, ha sido difícil hasta para mí y tengo muchas ganas de salir a una playa, oír el sonido del mar y sentir la brisa. Creo que de cierto modo ya nada volverá a ser igual, seremos un poco escépticos al saludar, al reunirnos e incluso bañarse en una piscina o playa con extraños.
 
 No sé si llegaré a envejecer pero no me gustaría pasar mi vejez sola. Para los que tienen pareja o hijos, es probable que no tengan que hacerlo pero la realidad es que hay muchos viejitos abandonados por sus familiares, como si no supieran que algún día llegarán a viejos también.
 
