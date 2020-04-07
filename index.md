@@ -3,6 +3,7 @@ title: Carol blog
 layout: home
 menu:
   main:
-    weight: 1
+    weight: 4
+    title: Blog
 
 ---

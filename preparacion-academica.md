@@ -7,7 +7,7 @@ permalink: preparacion-academica
 menu:
   main:
     title: Estudios
-    weight: 2
+    weight: 1
 
 ---
 #### Master en Big Data y Business Intelligence

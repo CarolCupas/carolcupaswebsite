@@ -6,7 +6,7 @@ layout: page
 permalink: perfil-profesional
 menu:
   main:
-    weight: 3
+    weight: 2
     title: Carrera profesional
 
 ---

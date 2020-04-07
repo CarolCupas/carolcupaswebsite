@@ -5,7 +5,7 @@ layout: page
 permalink: colaboraciones
 menu:
   main:
-    weight: 4
+    weight: 3
 
 ---
 He sido sumamente privilegiada de conocer a personas brillantes y poder colaborar con algunos de sus magníficos proyectos como:
