@@ -3,6 +3,10 @@ title: Contáctame
 img_path: ''
 layout: contact
 subtitle: ''
+menu:
+  main:
+    weight: 4
+    title: Contacto
 
 ---
 > Déjame tu mensaje y te contactaré próximamente!

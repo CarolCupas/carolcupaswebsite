@@ -10,7 +10,6 @@ menu:
     weight: 1
 
 ---
-
 #### Master en Big Data y Business Intelligence
 Next IBS & Universitat de Lleida (2018 - 2019)
 
