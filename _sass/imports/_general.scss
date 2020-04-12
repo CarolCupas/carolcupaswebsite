@@ -2,6 +2,74 @@
  * General
  * ----------------------------------------------------------------------------
  */
+
+//Inicio modo oscuro -----------------------
+html[data-theme="light"] {
+  /*   --light-text-color: hsl(0, 0%, 35%);
+  --main-background-color: hsl(0, 5%, 95%);
+  --main-text-color: hsl(0, 0%, 0%); */
+  //copiado de afuera
+  body {
+    background: #fff;
+    color: _palette(primary);
+    line-height: 1.35; //1.66667;
+  }
+  //fin copiado de afuera
+}
+
+html[data-theme="dark"] {
+  --light-text-color: hsl(0, 0%, 60%);
+  --main-background-color: hsl(0, 0%, 10%);
+  --main-text-color: hsl(0, 10%, 80%);
+
+  /*   --text-color-normal: hsl(210, 10%, 62%);
+  --text-color-light: hsl(210, 15%, 35%);
+  --text-color-richer: hsl(210, 50%, 72%);
+  --text-color-highlight: hsl(25, 70%, 45%);
+ */
+  body {
+    background: #222121;
+    color: _palette(white);
+    line-height: 1.35; //1.66667;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  blockquote {
+    //color: _palette(white);
+    color: _palette(mediumaquamarine);
+  }
+
+  .post-subtitle {
+    color: _palette(white);
+  }
+  .read-more-link {
+    color: _palette(white);
+  }
+  //fin copiado de afuera
+
+  //-----
+  @media (prefers-color-scheme: dark) {
+    html {
+      content: "dark";
+    }
+    img {
+      opacity: 0.75;
+      transition: opacity 0.5s ease-in-out;
+    }
+    img:hover {
+      opacity: 1;
+    }
+  }
+  //-----
+}
+
+// fin modo oscuro -----------------------------
+
 html {
   font-family: _font(primary);
   font-size: 100%; //105.5%
@@ -13,23 +81,38 @@ html {
   }
 }
 
-body {
+/*body {
   background: #fff;
   color: _palette(primary);
   line-height: 1.35; //1.66667;
-}
+} */
 
 a {
   border-bottom: 2px solid _palette(accent);
-  color: _palette(primary);
+  color: _palette(mediumaquamarine);
   text-decoration: none;
-  -webkit-transition: border .3s ease, color .3s ease;
-  transition: border .3s ease, color .3s ease;
+  -webkit-transition: border 0.3s ease, color 0.3s ease;
+  transition: border 0.3s ease, color 0.3s ease;
 
   &:hover {
     border-color: currentColor;
-    color: _palette(secondary);
+    color: _palette(accent-blue);
     text-decoration: none;
+  }
+}
+
+.linkSwitch {
+  border-bottom: 2px solid _palette(accent);
+  border-color: white;
+  color: _palette(white);
+  -webkit-transition: border 0.3s ease, color 0.3s ease;
+  transition: border 0.3s ease, color 0.3s ease;
+  //adicionado
+  font-size: 12px;
+
+  &:hover {
+    border-color: currentColor;
+    color: _palette(mediumaquamarine);
   }
 }
 
@@ -127,7 +210,7 @@ blockquote {
   padding-left: 30px;
 
   &:first-child {
-    margin-top: 0
+    margin-top: 0;
   }
 
   p {
@@ -217,8 +300,8 @@ label {
   font-size: 0.88889rem;
 }
 
-input[type=checkbox]+label,
-input[type=radio]+label {
+input[type="checkbox"] + label,
+input[type="radio"] + label {
   cursor: pointer;
   padding-left: 0.25em;
   padding-right: 1em;
@@ -278,8 +361,8 @@ a.button {
   height: 3em;
   line-height: 1.5;
   padding: 0.25em 30px;
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
 
   &:hover,
   &:focus,
@@ -292,7 +375,7 @@ a.button {
 a.button {
   line-height: 1.2;
   padding-bottom: 0.5em; //0.75em;
-  padding-top: 0.5em;    //0.75em;
+  padding-top: 0.5em; //0.75em;
 }
 
 #menu-toggle {
@@ -364,4 +447,3 @@ img {
   content: "";
   display: table;
 }
-
