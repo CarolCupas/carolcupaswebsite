@@ -333,7 +333,7 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 a.button {
-  background: _palette(secondary);
+  background: _palette(primary);
   border: 0;
   border-radius: 3px;
   box-sizing: border-box;
@@ -350,7 +350,7 @@ a.button {
   &:hover,
   &:focus,
   &:active {
-    background: _palette(primary);
+    background: _palette(mediumaquamarine);
     outline: 0;
   }
 }
