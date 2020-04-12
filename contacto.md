@@ -8,7 +8,6 @@ menu:
   main:
     weight: 4
     title: Contacto
-published: false
 
 ---
 Déjame tu mensaje y te contactaré próximamente!
