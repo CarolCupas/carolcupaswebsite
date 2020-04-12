@@ -7,7 +7,7 @@ $font: (
   secondary: ("Satisfy", serif)
 );
 
-// Palette.
+// Palette. En el config se define el palette a usar
 $palette: (
   primary:       #666666,
   secondary:     darken(#666666, 27%),
@@ -16,9 +16,11 @@ $palette: (
   bg:            lighten(#666666, 55%),
   accent:        #ffd300,
   accent-blue:   #1fa2ff,
-  accent-green:  #24b466,
+  accent-green:  #93dcc3,//#24b466,
   accent-red:    #f45a4e,
   mediumaquamarine: #66CDAA,
+  turquoise: #40e0d0,
+  lightturquoise: #86fcea,
   white: #e5e5e5
 );
 

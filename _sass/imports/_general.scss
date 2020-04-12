@@ -5,9 +5,6 @@
 
 //Inicio modo oscuro -----------------------
 html[data-theme="light"] {
-  /*   --light-text-color: hsl(0, 0%, 35%);
-  --main-background-color: hsl(0, 5%, 95%);
-  --main-text-color: hsl(0, 0%, 0%); */
   //copiado de afuera
   body {
     background: #fff;
@@ -18,15 +15,6 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --light-text-color: hsl(0, 0%, 60%);
-  --main-background-color: hsl(0, 0%, 10%);
-  --main-text-color: hsl(0, 10%, 80%);
-
-  /*   --text-color-normal: hsl(210, 10%, 62%);
-  --text-color-light: hsl(210, 15%, 35%);
-  --text-color-richer: hsl(210, 50%, 72%);
-  --text-color-highlight: hsl(25, 70%, 45%);
- */
   body {
     background: #222121;
     color: _palette(white);
@@ -40,8 +28,7 @@ html[data-theme="dark"] {
   h5,
   h6,
   blockquote {
-    //color: _palette(white);
-    color: _palette(mediumaquamarine);
+    color: _palette(lightturquoise);
   }
 
   .post-subtitle {
@@ -51,7 +38,6 @@ html[data-theme="dark"] {
     color: _palette(white);
   }
   //fin copiado de afuera
-
   //-----
   @media (prefers-color-scheme: dark) {
     html {
@@ -67,7 +53,6 @@ html[data-theme="dark"] {
   }
   //-----
 }
-
 // fin modo oscuro -----------------------------
 
 html {
@@ -80,12 +65,6 @@ html {
     font-size: 100%;
   }
 }
-
-/*body {
-  background: #fff;
-  color: _palette(primary);
-  line-height: 1.35; //1.66667;
-} */
 
 a {
   border-bottom: 2px solid _palette(accent);
@@ -101,21 +80,25 @@ a {
   }
 }
 
+//mi clase para el link de modo oscuro adicionado
 .linkSwitch {
-  border-bottom: 2px solid _palette(accent);
-  border-color: white;
-  color: _palette(white);
-  -webkit-transition: border 0.3s ease, color 0.3s ease;
-  transition: border 0.3s ease, color 0.3s ease;
-  //adicionado
   font-size: 12px;
+  text-align: center;
+  display: block;
+
+  a {
+    border-bottom: 2px solid _palette(accent);
+    border-color: white;
+    color: _palette(white);
+    -webkit-transition: border 0.3s ease, color 0.3s ease;
+    transition: border 0.3s ease, color 0.3s ease;
+  }
 
   &:hover {
     border-color: currentColor;
     color: _palette(mediumaquamarine);
   }
 }
-
 h1,
 h2,
 h3,
@@ -134,7 +117,7 @@ h6 {
 }
 
 h1 {
-  font-size: 2.22222rem;
+  font-size: 2.02222rem;
 }
 
 h2 {
