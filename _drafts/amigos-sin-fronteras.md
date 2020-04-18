@@ -2,10 +2,10 @@
 title: Friendship without borders
 date: 2020-03-21T23:00:00.000+00:00
 thumb_img_path: ''
-excerpt: 'Dicen que los amigos son un tesoro y sí que lo son porque los buenos amigos
-  son escasos hoy en día. Contar con personas que se interesen en saber cómo te encuentras
-  se ha convertido en followers en las redes sociales pero tener a personas con las
-  que quedar para verse, ir de picnic o ver una pelis en casa, no tiene precio. '
+excerpt: It's said that friends are a treasure and yes they are because good friends
+  are scarce today. Having people interested in knowing how you are, became having
+  followers on social networks, however, having people who make plans to meet and
+  see each other, go on a picnic or watch a movie at home is priceless.
 hide_header: false
 layout: post
 subtitle: ''
