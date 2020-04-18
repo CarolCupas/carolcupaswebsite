@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Agente de cambio
+title: Change agent
 subtitle: ''
 date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: "/images/CC Millenial Park arte.jpg"
 content_img_path: "/images/Carol nov2019.jpeg"
-excerpt: Cuando queremos que las cosas cambien debemos ponernos manos a la obra.
+excerpt: When we want that things change, we should get down to work.
 hide_header: false
-permalink: agente-de-cambio
+permalink: agent-of-change
 
 ---
-Constantemente me recuerdo a mí misma "**sé** el cambio que quieras ver". Sin duda alguna, el mundo tal como lo conocemos necesita cambiar para bien o acabaremos por ser la siguiente especie en peligro de extinción.
+Constantly, I remind myself "**be** the change that you want to see". Without a doubt, the world, as we know it, needs to change for the best, or we'll the next endangered specie.
 
-Me resulta impresionante como el clima de la tierra ha cambiado en los últimos años y cuán a menudo se leen noticias de especies animales que han desaparecido para siempre. Entiendo que la humanidad debe desarrollarse y evolucionar pero sin llegar a destruir el planeta a su paso.
+I find it impressive how Earth's climate has changed in last years and how often news about animal species extinct forever are published. I understand humanity has to develop and evolve but without destroying the planet along the way.
 
 Cada vez que escucho música en YouTube aparecen anuncios de organizaciones benéficas solicitando firmas para alguna causa y creo que la intención es buena pero ¿será suficiente? Considerando que únicamente tenemos un planeta, ¿no debe ser responsabilidad de todos cuidarlo? Los polos se derriten, el Amazonas se incendia, se extinguen más especies todos los días, la capa de ozono ya tiene agujeros, los océanos tienen toneladas de basura y ¿aún así se necesita esperar a alcanzar un X número de firmas para hacer algo al respecto?
 
