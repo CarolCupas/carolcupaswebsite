@@ -24,7 +24,7 @@ Later, I thought about becoming an architect because I used to draw and particip
 
 ![](/images/CC Oporto arte.jpg)
 
-In addition, I love **interior design**. When I bought my first house, I knew that no wall would be blank. I like to add a touch of color and play with the furniture arrangement.
+In addition, I love **interior design**. When I bought my first house, I knew that no wall would be blank. I like to add a touch of color and play with the furniture arrangement. Finally, I studied technology because of the possibilities that the career offered and due to the technologies are the future.
 
 I consider myself a curious person and always I look for something new to learn or do. Someday, I wish to speak French and play the violin. The **music** is present all the days of my life, I enjoy it a lot (btw, my name means Christmas song and that's my favorite season as well).
 
