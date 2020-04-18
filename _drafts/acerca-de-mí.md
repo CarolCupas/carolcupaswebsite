@@ -14,11 +14,13 @@ hide_header: false
 ---
 ![](/images/CC My life.jpg)
 
-Si no me conoces, me describiré como una persona amable, organizada,   diplomática, responsable (cumplo con mi parte), muy analítica (busco respuestas), de principios firmes, discreta (es raro que me notes molesta aunque lo esté) y como amiga soy alguien con quien puedes contar. Algunos de mis defectos son mi limitada paciencia (odio perder el tiempo), prefiero callar cuando no tengo nada bueno que decir aunque sea mejor expresar lo que opino y no me gusta depender de otras personas.
+If you don't know me, I'll describe myself as a kind, organized, diplomatic, responsible person (meet my promises), very analytical (look for answers anywhere), strong principles, discreet (you won't realize if I'm upset) and as a friend, you can count on me.
 
-Mi profesión es ingeniera de sistemas computacionales pero en un principio, mi sueño era ser veterinaria. Siempre me han gustado los caballos y perros, disfruto mucho su compañía, la habilidad que tienen para hablarnos sin palabras y la fidelidad de estos animales. Desistí de la idea luego de algunas experiencias quirúrgicas en la clínica de mi papá donde descubrí que no me gusta ver ni oler la sangre, por lo que me resultaría algo difícil ejercer la profesión.
+Some of my defects are my limited patience (I hate wasting time), I prefer don't say anything if there is nothing good to say although sometimes it's better that I share my opinion and I don't like to depend on others.
 
-Luego quise ser arquitecta, me gustaba dibujar y hasta gané algún premio en los concursos de mi escuela primaria. Disfruto admirar las obras de arte y la arquitectura de las ciudades, siendo la **fotografía** uno de mis pasatiempos favoritos. Recientemente, he aprendido a usar alguno que otro editor de imágenes y utilizado mi catálogo de fotos para hacer diseños.
+My profession is Computer systems engineer but always, my dream was to be a veterinarian. I like horses and dogs, I enjoy their company and abilities to speak to us without words. I changed my mind after a few surgical experiences at my dad's clinic where I discovered that I felt dizzy when I saw or smelled blood so it would be pretty hard for me to become a vet.
+
+Then, I thought to be an architect because I used to draw and participate in my primary school's contests, winning someone. I also admire the artworks, cities architectures been photography one of my main hobbies. Recently, I've learned to use some photo editors and utilize my catalog of photos to create designs.
 
 ![](/images/CC Oporto arte.jpg)
 
