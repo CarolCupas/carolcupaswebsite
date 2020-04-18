@@ -14,7 +14,9 @@ Constantly, I remind myself "**be** the change that you want to see". Without a 
 
 I find it impressive how Earth's climate has changed in last years and how often news about animal species extinct forever are published. I understand humanity has to develop and evolve but without destroying the planet along the way.
 
-Cada vez que escucho música en YouTube aparecen anuncios de organizaciones benéficas solicitando firmas para alguna causa y creo que la intención es buena pero ¿será suficiente? Considerando que únicamente tenemos un planeta, ¿no debe ser responsabilidad de todos cuidarlo? Los polos se derriten, el Amazonas se incendia, se extinguen más especies todos los días, la capa de ozono ya tiene agujeros, los océanos tienen toneladas de basura y ¿aún así se necesita esperar a alcanzar un X número de firmas para hacer algo al respecto?
+Every time, I listen to music on YouTube, advertising related to non-profits organizations raises asking for signatures for some social cause and I think the intention is good but is it enough? Considering that there is only one known planet where humans can live, ¿should not it be everyone's responsibility to take care of it? The poles are melting, the Amazon is burned, more species are becoming extinct every day, the ozone layer has several holes, the oceans have tons of garbage and despite that ¿do we need to wait until reaching X number of signatures to do something about?
+
+Considering that we only have one planet, shouldn't it be everyone's responsibility to take care of it? The poles are melting, the Amazon is on fire, more species are becoming extinct every day, the ozone layer already has holes, the oceans have tons of garbage and still it is necessary to wait until reaching X number of signatures to do something by respect?
 
 Considero que se necesita un plan de acción fuera de la política y los intereses de ciertos sectores industriales. Cada persona puede ser un agente de cambio en donde esté por eso me propongo a ser el cambio que quiero ver en el mundo empezando por poner mi propio grano de arena con mis costumbres diarias como reciclar.
 
