@@ -28,10 +28,10 @@ In addition, I love **interior design**. When I bought my first house, I knew th
 
 I consider myself a curious person and always I look for something new to learn or do. Someday, I wish to speak French and play the violin. The **music** is present all the days of my life, I enjoy it a lot (btw, my name means Christmas song and that's my favorite season as well).
 
-La cocina no me entusiasma demasiado pero me animo a cocinar de vez en cuando y la verdad algunas veces me sorprendo de lo bien que resulta. Soy _foodie_, me encanta probar platillos nuevos y hacer comentarios o recomendaciones.
+Cooking is not passion however sometimes I cook and pleasantly surprised me with my dishes. I am _foodie_, enjoy trying new food to make comments about it or recommendations.
 
-Soy _chocolate lover_ y también me gusta tomar café, tengo hermosos recuerdos en casa de mis abuelos donde me despertaba con el rico aroma del café recién hecho.
+I am a _chocolate lover_ and drink coffee too. I have greats memories of my grandparents' house where I woke up in the morning with the delicious coffee aroma recently made.
 
 ![](/images/chocolate lover arte.jpg)
 
-Cabe mencionar que estoy felizmente casada con uno de mis mejores amigos, **Marvin**, y al momento tenemos dos perros super inteligentes y amorosos.
+Worth mentioning that I'm married to one of my best friends, **Marvin**, and at the moment I have two smart and lovely pets.
