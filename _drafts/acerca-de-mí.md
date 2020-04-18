@@ -20,7 +20,7 @@ Some of my defects are my limited patience (I hate wasting time), I prefer don't
 
 My profession is Computer systems engineer but always, my dream was to be a veterinarian. I like horses and dogs, I enjoy their company and abilities to speak to us without words. I changed my mind after a few surgical experiences at my dad's clinic where I discovered that I felt dizzy when I saw or smelled blood so it would be pretty hard for me to become a vet.
 
-Then, I thought to be an architect because I used to draw and participate in my primary school's contests, winning someone. I also admire the artworks, cities architectures been photography one of my main hobbies. Recently, I've learned to use some photo editors and utilize my catalog of photos to create designs.
+Later, I thought about becoming an architect because I used to draw and participate in my elementary school contests, winning some of those. I also admire the artworks, the architecture of the cities, in fact, photography is one of my main hobbies. Recently, I've learned how to use some photo editors and create designs with my photo catalog.
 
 ![](/images/CC Oporto arte.jpg)
 
