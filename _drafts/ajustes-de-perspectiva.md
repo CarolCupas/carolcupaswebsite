@@ -25,7 +25,7 @@ This isn't about positivism or living with my feet in the clouds, for me, it is 
 
 It all depends on how we decide to act in the face of unexpected circumstances, ingratitude, hypocrisy, pain, and others. Sure, it will be fantastic if everything flows smoothly, but if the challenges didn't come up, how could we achieve the victory that would take us to the next level?
 
-Here, I share a beautiful passage from the bible that always encourages me, it's found in 2 Corinthians 4:8-9 (NVI)
+Here, I share a beautiful passage from the bible that always encourages me, it's found in 2 Corinthians 4:8-9 (NIV)
 
 > ... We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed...
 
