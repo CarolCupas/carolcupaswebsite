@@ -17,20 +17,18 @@ Regularly, I read books, online articles, etc.  and one day I found a phrase tha
 
 I have learned that in my life, things do not always happen as I hope but it doesn't necessarily mean that it is something bad, unlike, it may be that moment wasn't right, that there are better opportunities to discover, it won't be entirely good for me or simply I don't know the reason, for example, the loss of loved ones among others situations. In the midst of that, I believe that everything has a purpose that I have to find to learn the lesson of that experience.
 
-It's a truth that somethings make me illusion like be a mother but after waiting for some years, I realize that I am happy with my beautiful family and I believe that not all the couples are destined to have large families to be happy.
+It's true there are things that make me dream like being a mother but after waiting for some years, I realize that I am happy with my cute family and believe that not all the couples are destined to have large families to be happy.
 
-Es cierto que algunas cosas me hacen ilusión como ser mamá pero luego de algunos años de espera, estoy feliz con mi linda familia y considero que no todas las parejas están destinadas a formar grandes familias para ser felices.
+This isn't about positivism or living with my feet in the clouds, for me, it is about attitude. The following phrase sums it up nicely:
 
-Y no se trata de positivismo ni de vivir con los pies en las nubes, para mí se trata de actitud. La siguiente frase lo resume muy bien:
+> You are 10% what happens to you and **90%** how you face it
 
-> eres 10% lo que te pasa y **_90%_** como lo tomas
+It all depends on how we decide to act in the face of unexpected circumstances, ingratitude, hypocrisy, pain, and others. Sure, it will be fantastic if everything flows smoothly, but if the challenges didn't come up, how could we achieve the victory that would take us to the next level?
 
-Todo depende que cómo decidimos actuar ante las circunstancias adversas, la ingratitud, la hipocresía, el dolor y demás. Sin duda, sería genial que todo fluyera según lo planeado pero si los retos no se presentaran, ¿cómo podríamos alcanzar la victoria que nos conduzca al próximo nivel?
+Here, I share a beautiful passage from the bible that always encourages me, it's found in 2 Corinthians 4:8-9 (NVI)
 
-Comparto un hermoso pasaje de la Biblia que siempre me da ánimos, se encuentra en 2 Corintios 4:8-9
+> ... We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed...
 
-> ... estamos atribulados en todo, mas no angustiados; en apuros, mas no desesperados; perseguidos, mas no desamparados; derribados, pero no destruidos...
-
-Así que, en lo que a mí concierne, yo elijo confiar y creer que lo mejor está aún por venir.
+So, as far as I'm concerned, I choose to trust and believe that the best is yet to come.
 
 ![](/images/CC Maraton 5k.jpg)
