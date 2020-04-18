@@ -2,7 +2,7 @@
 layout: post
 title: Agente de cambio
 subtitle: ''
-date: 2020-04-03 22:00:00 +0000
+date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: "/images/CC Millenial Park arte.jpg"
 content_img_path: "/images/Carol nov2019.jpeg"
 excerpt: Cuando queremos que las cosas cambien debemos ponernos manos a la obra.
@@ -20,6 +20,6 @@ Considero que se necesita un plan de acción fuera de la política y los interes
 
 Hoy, el reciclaje es voluntario, apela a la conciencia y a la buena voluntad de las personas pero es primordial que todos se sumen antes de que sea tarde.
 
-> Mateo 13-16: Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres. Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder. Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa.
+> Mateo 5: 13-16 (RVR1960). Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres. Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder. Ni se enciende una luz y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa.
 >
 > Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.
