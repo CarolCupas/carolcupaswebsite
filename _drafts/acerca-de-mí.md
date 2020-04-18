@@ -4,10 +4,10 @@ subtitle: ''
 date: 2020-03-19T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC face.jpg"
-excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
-  que las cosas sucedan; 2- las que miran como suceden las cosas y 3- las que se preguntan
-  qué es lo que sucedió… Desde ése momento, decidí que quiero ser de las primeras
-  y convertirme en la protagonista de mi vida.'
+excerpt: 'I once read that there are three kinds of people in the world: 1. People
+  who make things happen, 2. People who see how things happen, 3. People who ask what
+  happens ... since then, I decided to be part of the first and become the protagonist
+  of my life. '
 layout: post
 hide_header: false
 
@@ -34,4 +34,4 @@ I am a _chocolate lover_ and drink coffee too. I have greats memories of my gran
 
 ![](/images/chocolate lover arte.jpg)
 
-Worth mentioning that I'm married to one of my best friends, **Marvin**, and at the moment I have two smart and lovely pets.
+Worth mentioning that I'm married to one of my best friends, **Marvin**, and at the moment we have two smart and lovely pets.
