@@ -1,7 +1,7 @@
 ---
 title: " Acerca de mí"
 subtitle: ''
-date: 2020-03-19 23:00:00 +0000
+date: 2020-03-19T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC face.jpg"
 excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
@@ -10,6 +10,7 @@ excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que ha
   y convertirme en la protagonista de mi vida.'
 layout: post
 hide_header: false
+permalink: acerca-de-mi
 
 ---
 ![](/images/CC My life.jpg)
