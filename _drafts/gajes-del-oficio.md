@@ -1,5 +1,5 @@
 ---
-title: Gajes del oficio
+title: It comes with the job
 subtitle: Si la vida te da limones... a preparar margaritas!!!
 date: 2020-03-25T23:00:00.000+00:00
 thumb_img_path: ''
@@ -8,6 +8,7 @@ excerpt: Algunas veces nos encontramos en situaciones que nos sacan de onda y cu
   reaccionar con delicadeza porque lo que apetece es mandar a todos a volar.
 layout: post
 hide_header: false
+permalink: It-comes-with-the-job
 
 ---
 Sabiendo que existen tantas cosas negativas en el mundo, voy a evitar perder el tiempo en escribir de cosas así por lo que este post no va de los _haters_ (dícese de personas odiosas) sino de cómo reaccionar y lidear con ellos.
