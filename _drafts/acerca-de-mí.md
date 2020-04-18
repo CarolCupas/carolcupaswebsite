@@ -10,6 +10,7 @@ excerpt: 'I once read that there are three kinds of people in the world: 1. Peop
   of my life. '
 layout: post
 hide_header: false
+permalink: about-me
 
 ---
 ![](/images/CC My life.jpg)
