@@ -20,13 +20,13 @@ Some of my defects are my limited patience (I hate wasting time), I prefer don't
 
 My profession is Computer systems engineer but always, my dream was to be a veterinarian. I like horses and dogs, I enjoy their company and abilities to speak to us without words. I changed my mind after a few surgical experiences at my dad's clinic where I discovered that I felt dizzy when I saw or smelled blood so it would be pretty hard for me to become a vet.
 
-Later, I thought about becoming an architect because I used to draw and participate in my elementary school contests, winning some of those. I also admire the artworks, the architecture of the cities, in fact, photography is one of my main hobbies. Recently, I've learned how to use some photo editors and create designs with my photo catalog.
+Later, I thought about becoming an architect because I used to draw and participate in my elementary school contests, winning some of those. I also admire the artworks, the architecture of the cities, in fact, **photography** is one of my main hobbies. Recently, I've learned how to use some photo editors and create designs with my photo catalog.
 
 ![](/images/CC Oporto arte.jpg)
 
-Por otra parte, el **diseño de interiores** me encanta. Cuando compré mi primera casa, sabía que las paredes no serían blancas. Amo darle un toque de color a los espacios y jugar con la distribución de los muebles.
+In addition, I love **interior design**. When I bought my first house, I knew that no wall would be blank. I like to add a touch of color and play with the furniture arrangement.
 
-Me considero una persona curiosa, por lo que siempre busco algo nuevo que aprender o hacer. Deseo aprender a hablar francés y a tocar el violín algún día. Disfruto mucho escuchar **música**, no pasa un día de mi vida sin escucharla aunque sea un poco... a lo mejor tenga que ver con mi nombre, ya que traducido del inglés es canción de Navidad o _villancico_ (por cierto, la Navidad es mi época favorita del año).
+I consider myself a curious person and always I look for something new to learn or do. Someday, I wish to speak French and play the violin. The **music** is present all the days of my life, I enjoy it a lot (btw, my name means Christmas song and that's my favorite season as well).
 
 La cocina no me entusiasma demasiado pero me animo a cocinar de vez en cuando y la verdad algunas veces me sorprendo de lo bien que resulta. Soy _foodie_, me encanta probar platillos nuevos y hacer comentarios o recomendaciones.
 
