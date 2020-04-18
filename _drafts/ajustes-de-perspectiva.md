@@ -11,17 +11,13 @@ hide_header: false
 permalink: perspective-adjustments
 
 ---
-I used to read books, online pappers, etc. regularity and one day I found a phrase that I believe is accerted, says: 
+Regularly, I read books, online articles, etc.  and one day I found a phrase that I think is accurate, it says: 
 
-Suelo leer con regularidad libros, artículos en la web, etc. y un día me encontré con una frase que creo que es acertada, dice:
+> _The experience is a tough teacher because apply the test first and then it teaches us the lesson_
 
-> _The experience is a tough teacher because applies the test first and then it teaches us the lesson_
->
-> _La experiencia es una dura maestra porque primero te pone la prueba y luego te enseña la lección_
+I have learned that in my life, things do not always happen as I hope but it doesn't necessarily mean that it is something bad, unlike, it may be that moment wasn't right, that there are better opportunities to discover, it won't be entirely good for me or simply I don't know the reason, for example, the loss of loved ones among others situations. In the midst of that, I believe that everything has a purpose that I have to find to learn the lesson of that experience.
 
-I have learned that in my life, things not always happen as I wait but it doesn't means that it is something bad, unlike, it can be that moment wasn't right, there are better opportunities to discover, it could result bad for me or simplely I don't know the reason, for example, the lost of a dear person between other situations. In middle of that, I believe that everything has a purpose that I have to find and learn the lesson of the experience.
-
-He aprendido que no siempre en la vida las cosas suceden como espero pero no necesariamente significa que sea malo, por el contrario, puede ser que no era el momento adecuado, que hay mejores oportunidades por descubrir, que no va a resultar del todo bueno para mí o simplemente desconozco la razón, por ejemplo la pérdida de seres queridos entre otras que sigo sin entender. En medio de todo, creo que todo tiene un propósito el cual debo encontrar para aprender la lección de esa experiencia.
+It's a truth that somethings make me illusion like be a mother but after waiting for some years, I realize that I am happy with my beautiful family and I believe that not all the couples are destined to have large families to be happy.
 
 Es cierto que algunas cosas me hacen ilusión como ser mamá pero luego de algunos años de espera, estoy feliz con mi linda familia y considero que no todas las parejas están destinadas a formar grandes familias para ser felices.
 
