@@ -4,8 +4,8 @@ subtitle: ''
 date: 2020-03-24T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/Carol Cupas Madrid Rio 2019.jpg"
-excerpt: When we don't look away from the right place, it's easier to focus towards
-  the suitable direction that leads up to the goals.
+excerpt: When we don't look away from the right place, it's easier to focus on the
+  suitable direction that leads up to the goal.
 layout: post
 hide_header: false
 permalink: perspective-adjustments
