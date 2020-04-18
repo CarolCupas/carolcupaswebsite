@@ -1,13 +1,14 @@
 ---
-title: Ajustes de perspectiva
+title: Perspective adjustments
 subtitle: ''
 date: 2020-03-24T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/Carol Cupas Madrid Rio 2019.jpg"
-excerpt: Cuando no desviamos la mirada del lugar correcto, resulta mucho más sencillo
-  enfocarnos hacia la dirección adecuada que nos lleve a la meta.
+excerpt: When we don't divert the sight of the right place, results more simple to
+  focus us on the path of the goals.
 layout: post
 hide_header: false
+permalink: perspective-adjustments
 
 ---
 Suelo leer con regularidad libros, artículos en la web, etc. y un día me encontré con una frase que creo que es acertada, dice:
