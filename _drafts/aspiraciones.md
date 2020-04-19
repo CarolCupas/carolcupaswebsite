@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Aspiraciones
+title: Aspirations
 subtitle: ''
 date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: "/images/CC montana.jpg"
 content_img_path: "/images/CC Portrait design 2.jpg"
-excerpt: 'A pesar de que la pregunta ¿cuáles son tus aspiraciones? es como una constante
-  en las entrevistas de trabajo las respuestas suelen ser variables.  '
+excerpt: Although the question ¿what are your aspirations? is constant in job interviews,
+  the responses are usually variable
 hide_header: false
+permalink: aspirations
 
 ---
 Las personas cambiamos y nuestras aspiraciones también. Si hoy tuviera que responder a ¿cómo me veo dentro de 5 años?, cualquier respuesta me resultaría absurda. Al mirar a la Carol de hace cinco años atrás, le pudiera decir "_no tienes idea_" y es que casi nada de lo que he vivido en los últimos años, lo imaginé tal y como fué, a su manera, ha sido mejor.
