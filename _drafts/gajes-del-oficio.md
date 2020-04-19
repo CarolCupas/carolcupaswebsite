@@ -21,8 +21,12 @@ I must admit that the first time I had to deal with haters, I didn't know what t
 
 Upon that, I asked myself the famous question "**_What would Jesus do_?" (_WWJD)_** and that was the key to be able to cope with the situation.
 
-Thinking about what would Jesus do in a similar situation surrounded by haters, led me to his cross where he was crucified by people who he didn't hurt, offended, humiliated or anything like that and despite that they crucified him. Jesus' attitude is supernatural evidently, He not only didn't react in the same way, but he prayed to God for forgiving them because they didn't know what they did... OMG!! Wow! No doubt, he is my superhero par excellence. 
+Thinking about what would Jesus do in a similar situation surrounded by haters, led me to his **cross** where he was crucified by people who he didn't hurt, offended, humiliated or anything like that but who nevertheless crucified him. Jesus' attitude is supernatural evidently, He not only didn't react in the same way, but he even prayed to God for forgiving them because they didn't know what they did... OMG!! Wow! No doubt, he is my **superhero** par excellence.
 
-Lo sé, perfecta no soy peeeero estoy aprendiendo de un gran maestro, así que decidí actuar de la manera en la que Él lo hizo, amar al prójimo como a mí misma, es decir tratar a los haters con amor (a fin de cuenta el problema lo tienen ellos conmigo) y por otra parte empecé a orar por ellos para que Dios sanara sus corazones y que las ofensas que yo pude haberles causado (sin saber) fueran sanadas. Ojo, lo anterior no significa que me deje menospreciar o humillar por nadie, hay límites que recomiendo no cruzar.
+I know I am not perfect, buuuut I am learning from a great teacher, so I decided to act as Jesus did: love the people like myself, that is treating haters with love (anyway, the problem is theirs with me) and also I began to pray for them in order God would heal their hearts and that any offense that I did (unwittingly) was healed. Be careful, the above doesn't mean that I let me belittle or humiliate by anyone, there are limits that I recommend don't trespass.
 
-Francamente es difícil pero no imposible, así que "_metele caña_" como dicen aquí.
+Honestly, it is difficult but not impossible, so "do it".
+
+I know I'm not perfect, but I'm learning from a great teacher, so I decided to act like Jesus did: love my neighbor like me, that is, treat those who hate with love (anyway, the problem is theirs with me) and I also began to pray for them that God would heal their hearts and that any offense that I did (without knowing) would be healed. Be careful, the above does not mean that you let me be belittled or humiliated by anyone, there are limits that I recommend not to cross.
+
+Honestly, it is difficult but not impossible, so "do it."
