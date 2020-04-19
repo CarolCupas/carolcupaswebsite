@@ -11,6 +11,12 @@ hide_header: false
 permalink: aspirations
 
 ---
+People change and their aspirations as well. If today, I could respond to ¿how I can see me within 5 years? any answer would be absurd. Seeing Carol of five years ago, I would tell her "you don't have an idea" and it's because almost nothing that I have lived in the last years, I imagined as it happened, in a way, it had been even better.
+
+Of course, I have wishes to grow professionally and I have dedicated many years of my life preparing myself to be competent and successful in what I do but the things that the money can't buy are what I aspire more, for example, a place called home. 
+
+When I moved to Madrid, I passed of having a duplex to a tiny loft, from an SUV of 5 passengers to use the subway between other stuff but I admit that my life was simplified pleasantly.
+
 Las personas cambiamos y nuestras aspiraciones también. Si hoy tuviera que responder a ¿cómo me veo dentro de 5 años?, cualquier respuesta me resultaría absurda. Al mirar a la Carol de hace cinco años atrás, le pudiera decir "_no tienes idea_" y es que casi nada de lo que he vivido en los últimos años, lo imaginé tal y como fué, a su manera, ha sido mejor.
 
 Por supuesto que tengo deseos de superación personal y he dedicado muchos años de mi vida a prepararme para ser una profesional competente y buena en lo que hace pero son las cosas que el dinero no puede comprar las que más aspiro, por ejemplo tener un lugar llamado hogar.
