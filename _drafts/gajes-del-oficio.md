@@ -1,6 +1,6 @@
 ---
 title: It comes with the job
-subtitle: Si la vida te da limones... a preparar margaritas!!!
+subtitle: If life gives you lemons... let's prepare margaritas!!!
 date: 2020-03-25T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC casa campo.jpg"
@@ -11,9 +11,13 @@ hide_header: false
 permalink: It-comes-with-the-job
 
 ---
-Sabiendo que existen tantas cosas negativas en el mundo, voy a evitar perder el tiempo en escribir de cosas así por lo que este post no va de los _haters_ (dícese de personas odiosas) sino de cómo reaccionar y lidear con ellos.
+Knowing there are so many negative things in the world, I'm going to avoid wasting time writing about it, so this post isn't about haters (toxic people) but how to react and deal with them.
 
-Tengo claro que estoy lejos de ser la monedita de oro que le caiga bien a todos, así que he tenido ocasiones en las que desafortunadamente he convivido con haters. Lo curioso de todo es que son personas que sin conocerte se hacen un concepto de ti y te tratan con desprecio.
+It's clear to me that I'm far from being a gold coin that everybody loves, so I have had unfortunate moments in which I coexisted with haters. The curious thing is that these people, without knowing me, created their own concept of me and treated me with contempt.
+
+Sincerely, I prefer to avoid conflicts and my style is to say the things directly to the person respect and without heart the feelings. The easy way is getting away from these kinds of people however when there are common commitments on a daily basis, it's better to face the situation as soon as possible.
+
+I recognized that first time when I had to deal with haters, I didn't know what to do, I wondered "¿what happened with fulan@?" I thought that everyone can have a bad day, and I was the first person crossed in the way, so I received the damage (I'm so ingenious... hehehe). My mistake was to do not realize on time that it was something else and when I faced the situation to understand the reasons for the bad attitude, it was too late, the person acts as nothing happening and didn't have intention to resolve the problems.
 
 Con sinceridad, yo prefiero evitar los conflictos y mi estilo es más de decir las cosas a la cara a la persona directamente sin faltarle el respeto y sin lastimar sus sentimientos. Lo más práctico sería alejarse de ese tipo de personas pero cuando por compromisos en común es requerido la interacción diaria, toca enfrentar la situación lo antes posible.
 
