@@ -29,4 +29,4 @@ Honestly, it is difficult but not impossible, so "do it".
 
 I know I'm not perfect, but I'm learning from a great teacher, so I decided to act like Jesus did: love my neighbor like me, that is, treat those who hate with love (anyway, the problem is theirs with me) and I also began to pray for them that God would heal their hearts and that any offense that I did (without knowing) would be healed. Be careful, the above does not mean that you let me be belittled or humiliated by anyone, there are limits that I recommend not to cross.
 
-Honestly, it is difficult but not impossible, so "do it."
+Frankly, it is difficult but not impossible, so "do it."
