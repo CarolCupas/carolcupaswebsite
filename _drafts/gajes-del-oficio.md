@@ -15,13 +15,9 @@ Knowing there are so many negative things in the world, I'm going to avoid wasti
 
 It's clear to me that I'm far from being a gold coin that everybody loves, so I have had unfortunate moments in which I coexisted with haters. The curious thing is that these people, without knowing me, created their own concept of me and treated me with contempt.
 
-Sincerely, I prefer to avoid conflicts and my style is to say the things directly to the person respect and without heart the feelings. The easy way is getting away from these kinds of people however when there are common commitments on a daily basis, it's better to face the situation as soon as possible.
+Sincerely, I prefer to avoid conflicts and my style is to say things to the person's face directly respectfully and without hurting feelings. The easy way would be to get away from such people however when daily interaction is required due to common commitments, it's better to face the situation as soon as possible.
 
-I recognized that first time when I had to deal with haters, I didn't know what to do, I wondered "¿what happened with fulan@?" I thought that everyone can have a bad day, and I was the first person crossed in the way, so I received the damage (I'm so ingenious... hehehe). My mistake was to do not realize on time that it was something else and when I faced the situation to understand the reasons for the bad attitude, it was too late, the person acts as nothing happening and didn't have intention to resolve the problems.
-
-Con sinceridad, yo prefiero evitar los conflictos y mi estilo es más de decir las cosas a la cara a la persona directamente sin faltarle el respeto y sin lastimar sus sentimientos. Lo más práctico sería alejarse de ese tipo de personas pero cuando por compromisos en común es requerido la interacción diaria, toca enfrentar la situación lo antes posible.
-
-Debo reconocer que la primera vez que tuve que tratar con personas así, no sabía que hacer, me preguntaba a mí misma "¿qué rayos y a fulan@ qué le pasa?" Pensaba que cualquiera tiene un mal día y que de pronto la tomó contra mí porque fui la primera persona con la que se cruzó (ingenua de mí jejeje...). Mi error fue no reconocer a tiempo de que se trataba de algo más y cuando enfrenté la situación para poder entender a qué venía esa mala actitud, fue tarde, la persona se hizo la que no pasaba nada y no tuvo la disposición de solucionar las cosas.
+I must admit that the first time I had to deal with haters, I didn't know what to do, I wondered "¿what happened with fulan@?" I thought anyone could have a bad day, and I was the first person to cross the road, so I received the damage (naive of me... hehe). My mistake was not realized in time that it was something else and when I faced the situation in order to understand the reasons for the bad attitude, it was late, the person became the one who was doing nothing and was not willing to solve things.
 
 Cuando eso sucedió, y el resultado lamentablemente no fue el que esperaba, me hice la famosa pregunta "**_What would Jesus do_?" (_WWJD)_** y ésa fue la clave para poder sobrellevar la situación.
 
