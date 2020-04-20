@@ -23,8 +23,6 @@ There is nothing more unpleasant than feeling that you don't fit in a place or y
 
 During one of my jobs, I lost a good colleague who passed away, he was really kind, worked overtime, but had time to make jokes. It was like a bucket of cold water to see how the company replaced him the following week, which opened my eyes to realize that nobody is indispensable for a company and the show must go on.
 
-So far, I aspire to have a good job where I will be valuable for who I am and the contributions made, have a family who knows how much I love it, have trusted friends and mainly dreaming big because I don't have an idea of what is coming in future yet, I believe God has something awesome on mind:
-
-Al momento, aspiro a tener un buen trabajo donde me sienta valorada por quién soy y lo que aporto, a tener una familia que se sepa y sienta amada por mí, a tener amigos verdaderos y principalmente a soñar en grande porque aún no tengo idea de lo que vendrá en los próximos años, sin duda, Dios tiene algo bueno en mente:
+So far, I aspire to have a good job where I am valued for who I am and what I contribute, having a family who feels and knows loved by me, having trusted friends and mainly dreaming big because I still  have no idea of what is coming in the future, I believe God has something awesome in mind:
 
 > Jeremiah 29:11 (NIV). For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.
