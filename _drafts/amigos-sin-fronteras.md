@@ -23,8 +23,8 @@ Upon arriving at Madrid, I didn't know what church to attend until, thanks to Ma
 
 ![](/images/CC Amistades arte.jpg)
 
-Honestly, they are a blessing and also as a second family that shows us we aren't alone. Thanks!
+Honestly, they are a blessing and are a second family that shows us we aren't alone. Thanks!
 
-Certainly, I met people from different countries during the master's degree, and we shared nice experiences such as birthday celebrations, Christmas dinner, trips, etc. although many of them returned to their countries, I know our friendship will stay alive because the friendship doesn't know frontiers. 
+Certainly, I met people from different countries during the master's degree, and we shared pleasant experiences such as birthdays, Christmas dinner, trips, etc. although many of them returned to their countries, I know our friendship will stay alive because friendship knows no borders. 
 
 ![](/images/CC Next perfiles_diseño.jpg)
