@@ -13,7 +13,7 @@ permalink: aspirations
 ---
 People change and their aspirations as well. If today, I had to respond to ¿how do I look within 5 years? any answer would be absurd. Looking at my version from five years ago, I could say "you don't have an idea" and it's because almost nothing that I have experienced in recent years, happened as I imagined, someway, has been even better.
 
-Of course, I have a desire for self-improvement and I have spent many years of my life preparing myself to be competent and successful in what I do but what money can't buy is what I aspire the most, for example, a place called home.
+Of course, I have a desire for self-improvement and I have spent many years of my life preparing myself to be a competent professional and successful in what I do but what money can't buy is what I aspire the most, for example having a place called home.
 
 When I moved to Madrid, I passed of having a duplex to a tiny loft, from an SUV of 5 passengers to use the subway between other stuff but I admit that my life was simplified pleasantly. Obviously, on occasions it's phenomenal to have more space and liberty to move however I don't need that to be happy.
 
