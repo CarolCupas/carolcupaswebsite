@@ -21,7 +21,7 @@ My aspiration as a professional is that my job is appreciated, that it serves to
 
 There is nothing more unpleasant than feeling that you don't fit in a place or your work hard isn't being valued; people are the most valuable asset of a company so whether I don't feel comfortable, I'll get out of it soon unless something changes.
 
-During one of my jobs, I lost a good colleague who passed away, he was really kind, worked overtime, but had time to make a few jokes. It was like a bucket of cold water to see how the company substituted him the following week, which opened my eyes to realize that nobody is indispensable for a company and the show must continue.
+During one of my jobs, I lost a good colleague who passed away, he was really kind, worked overtime, but had time to make jokes. It was like a bucket of cold water to see how the company replaced him the following week, which opened my eyes to realize that nobody is indispensable for a company and the show must go on.
 
 So far, I aspire to have a good job where I will be valuable for who I am and the contributions made, have a family who knows how much I love it, have trusted friends and mainly dreaming big because I don't have an idea of what is coming in future yet, I believe God has something awesome on mind:
 
