@@ -15,9 +15,11 @@ People change and their aspirations as well. If today, I had to respond to ¿how
 
 Of course, I have a desire for self-improvement and I have spent many years of my life preparing myself to be a competent professional and successful in what I do but what money can't buy is what I aspire the most, for example having a place called home.
 
-When I moved to Madrid, I went from having a duplex to a small loft, from having a 5-passenger SUV to using the subway among other stuff but I admit that my life was simplified pleasantly. Obviously, sometimes it's phenomenal to have more space and freedom to move around, however, I don't need that to be happy.
+When I moved to Madrid, I went from having a duplex to a small loft, from having a 5-passenger SUV to using the subway among other things more, but I admit that my life was simplified pleasantly. Obviously, sometimes it's phenomenal to have more space and freedom to move around, however, I don't need that to be happy.
 
-My aspiration as a professional is that my job was estimated, that it'll be useful to other people also do their job and the result of all the work will be a huge contribution to the company in order to comply or superate the objectives. Sure, The payment must be fair and the promotions being on time. There is nothing more upset that feeling outside of place or work hard but not being valiosus for the company; whether I don't feel fine in a company, I'll get out of it soon at least something changes.
+My aspiration as a professional is that my job is appreciated and useful to other people also do their job and the result of all the work will be a huge contribution to the company in order to comply or exceed the goals. Sure, The payment must be fair and the promotions being timely.
+
+There is nothing more unpleasant than feeling that you don't fit in a place or your work hard isn't being valued; people are the most valuable asset of a company so whether I don't feel comfortable, I'll get out of it soon unless something changes.
 
 During one of my jobs, I lost a good coworker who passed away, this man was really nice, he worked after hours, but he had time to make a few jokes. It was like a nightmare to see how the company substituted him the following week, which open my eyes to realize that anybody is indispensable for a company and the show must continue.
 
