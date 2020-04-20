@@ -11,9 +11,9 @@ hide_header: false
 permalink: aspirations
 
 ---
-People change and their aspirations as well. If today, I could respond to ¿how I can see me within 5 years? any answer would be absurd. Seeing to Carol of five years ago, I would tell her "you don't have an idea" and it's because almost nothing that I have lived in the last years, I imagined as it happened, in a way, it had been even better.
+People change and their aspirations as well. If today, I should respond to ¿how I can see me within 5 years? any answer would be absurd. Looking at me from five years ago, I would tell me "you don't have an idea" and it's because almost nothing that I have lived in the last years, happened as I imagined, someway, it had been even better.
 
-Of course, I have wishes to grow professionally and I have dedicated many years of my life preparing myself to be competent and successful in what I do but the things that the money can't buy are what I aspire more, for example, a place called home. 
+Of course, I have wishes to grow professionally and I have dedicated many years of my life preparing myself to be competent and successful in what I do but the things that the money can't buy are what I aspire more, for example, a place called home.
 
 When I moved to Madrid, I passed of having a duplex to a tiny loft, from an SUV of 5 passengers to use the subway between other stuff but I admit that my life was simplified pleasantly. Obviously, on occasions it's phenomenal to have more space and liberty to move however I don't need that to be happy.
 
@@ -35,4 +35,4 @@ So far, I aspire to have a good job where I will be valuable for who I am and th
 
 Al momento, aspiro a tener un buen trabajo donde me sienta valorada por quién soy y lo que aporto, a tener una familia que se sepa y sienta amada por mí, a tener amigos verdaderos y principalmente a soñar en grande porque aún no tengo idea de lo que vendrá en los próximos años, sin duda, Dios tiene algo bueno en mente:
 
-> Jeremías 29:11 (RVR1960). Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.
+> Jeremiah 29:11 (NIV). For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.
