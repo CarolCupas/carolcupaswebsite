@@ -15,11 +15,7 @@ People change and their aspirations as well. If today, I had to respond to ¿how
 
 Of course, I have a desire for self-improvement and I have spent many years of my life preparing myself to be a competent professional and successful in what I do but what money can't buy is what I aspire the most, for example having a place called home.
 
-When I moved to Madrid, I passed of having a duplex to a tiny loft, from an SUV of 5 passengers to use the subway between other stuff but I admit that my life was simplified pleasantly. Obviously, on occasions it's phenomenal to have more space and liberty to move however I don't need that to be happy.
-
-Por supuesto que tengo deseos de superación personal y he dedicado muchos años de mi vida a prepararme para ser una profesional competente y buena en lo que hace pero son las cosas que el dinero no puede comprar las que más aspiro, por ejemplo tener un lugar llamado hogar.
-
-Al mudarme a Madrid, pasé de tener una casa de dos niveles a tener un estudio, de tener una camioneta de cinco pasajeros a tener que usar el metro, entre otras cosas y debo reconocer que la vida se me ha simplificado gratamente. Es ocasiones, es evidente que viene bien tener más espacio y libertad de moverse pero no dependo de eso para ser feliz.
+When I moved to Madrid, I went from having a duplex to a small loft, from having a 5-passenger SUV to using the subway among other stuff but I admit that my life was simplified pleasantly. Obviously, sometimes it's phenomenal to have more space and freedom to move around, however, I don't need that to be happy.
 
 My aspiration as a professional is that my job was estimated, that it'll be useful to other people also do their job and the result of all the work will be a huge contribution to the company in order to comply or superate the objectives. Sure, The payment must be fair and the promotions being on time. There is nothing more upset that feeling outside of place or work hard but not being valiosus for the company; whether I don't feel fine in a company, I'll get out of it soon at least something changes.
 
