@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Jugar para ganar
+title: Play to win
 subtitle: ''
 date: 2020-03-26T22:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC pinkpanter.jpg"
-excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida porque
-  aún si no ganas, los errores sirven para aprender que no se debe hacer.
+excerpt: Sometimes I win and sometimes I lose, but I never give up. Enjoy each round
+  because even when you lose, mistakes help us learn what not to do.
 hide_header: false
+permalink: play-to-win
 
 ---
 ![](/images/CC london arte.jpg)
