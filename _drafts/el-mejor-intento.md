@@ -19,14 +19,10 @@ Easily, we find thousands of excuses when a challenge arises, a classic example 
 
 > Motivation is **essential**, believing in ourselves, recognize our limitations but also our potential to go for it. Don't underestimate yourself, wanting is power.
 
-The changes of success or not are equal, fifty-fifty. Our part is to make the decision of where we want to focus our thoughts and energy: to everything that can go wrong that leads us to be unmotivated or to everything that we can achieve that motivates us. That is where the proverb fits "_the worst attempt is the one that is not done_". For me, an unsuccessful attempt is a certain failure, we won't achieve anything, however, trying something opens us the door of the possibilities. 
+The changes of success or not are equal, fifty-fifty. Our part is to make the decision of where we want to focus our thoughts and energy: towards everything that can go wrong which leads to discouragement or towards everything that we can achieve that motivates us. That is where the proverb "_the worst attempt is the one that is not done_" fits in. For me, an unrealized attempt is a sure failure, we won't achieve anything, however, trying something opens us the door of the possibilities. 
 
 > Isaías 41:10 (RVR1960) No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.
 
-Big leaders and characters of this generation have succeeded and reached their dreams because they had enough courage to challenge themselves. My daily challenge is to be the best version than I can be. I don't know what impact will have in the world but at least I hope to be a blessing for the surrounded world, nothing lost trying.
+Great leaders and characters of this generation have succeeded and achieved their dreams because they had enough courage to challenge themselves. My daily challenge is to be the best version of myself that I can be. I don't know what impact it will have on the world, but at least I hope to be a blessing to the world around me, nothing lost trying.
 
-If you can dream it, can do it
-
-Grandes líderes y personajes de esta generación, han logrado triunfar y alcanzar sus sueños porque tuvieron la valentía suficiente para desafiarse a sí mismos. Mi desafío diario es ser la mejor versión de mí que pueda ser, no sé que impacto tendrá en el mundo pero al menos espero ser de bendición al mundo que me rodea, nada pierdo al intentarlo.
-
-> **_Si puedes soñarlo_**, **_puedes hacerlo_**. Walt Disney.
+> **_If you can dream it, can do it_**_. Walt Disney._
