@@ -13,6 +13,10 @@ permalink: play-to-win
 ---
 ![](/images/CC london arte.jpg)
 
+¿Who doesn't like to have one's own way?
+
+I am not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs.
+
 ¿A quién no le gusta salirse con la suya?
 
 No me considero alguien 100% competitiva porque quiero disfrutar de lo que hago en lugar de ganar a toda costa. En mi niñez, los juegos de mesa estaban de moda y no había tanta tecnología como hoy. Aún me sigue gustando los juegos clásicos pero ahora los descargo en el móvil y puede que necesite o no de un contrincante.
