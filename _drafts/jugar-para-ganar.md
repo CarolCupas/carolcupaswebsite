@@ -15,9 +15,11 @@ permalink: play-to-win
 
 ¿Who doesn't like to have one's own way?
 
-I am not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. in my childhood, the board games were fashionable and had not so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
+I do not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. In my childhood, the board games were fashionable and had not so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
 
-Recently, I played with my sister and it's fun when I was winning but sometimes I let her to win loll... (it isn't true). The trust is that I don't like losing but I've learned that I don't have the correct pieces that sum many points but despite that, I don't make it easy for her.
+Recently, I played with my sister and it's fun when I was winning but sometimes I let her win loll... (it isn't true). The trust is that I don't like losing but I've learned that I don't have the correct pieces that sum many points but despite that, I don't make it easy for her.
+
+Experimenting failures in life is not beautiful, many of these carry with tears, a sense of empty into the heart and maybe some long nights but in the same way that occurs in a game, I know it is like a match and there are more to begin yet.
 
 ¿A quién no le gusta salirse con la suya?
 
@@ -26,6 +28,10 @@ No me considero alguien 100% competitiva porque quiero disfrutar de lo que hago 
 Recientemente jugaba con mi hermana y es super divertido cuando le voy ganando pero a veces le dejo ganar jajajaa... (no es cierto). La verdad es que no me gusta perder pero he aprendido que no siempre cuento con las piezas correctas que sumen muchos puntos pero aun así no se lo pongo fácil e intento disfrutar el juego.
 
 Experimentar derrotas en la vida no es bonito, muchas vienen acompañadas de lágrimas, una sensación de vacío en el corazón y quizás noches largas pero del mismo modo que ocurre en un juego, he aprendido que se trata de una partida y aún quedan más por empezar.
+
+Life is like a big roller coaster that consists of many turns where for moments we are up and down, for that reason, it's better to take a deep breath and enjoy it.
+
+The advantage that represents to me having Jesus Christ in my life is that regardless of the bad happens to me, He uses it for my wellness and transforms it in a blessing.
 
 La vida es como una gran montaña rusa que consiste en muchas vueltas donde a veces se sube y otras se baja por eso es mejor respirar hondo y _enjoy it_.
 
