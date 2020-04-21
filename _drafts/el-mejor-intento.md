@@ -17,11 +17,9 @@ Today's children seem to be born with an integrated chip to facilitate them to u
 
 Easily, we find thousands of excuses when a challenge arises, a classic example is "I'm going to lose weight", however, a few days later, we quit the exercises and said goodbye to the diet. Although the excuses may be valid, it doesn't mean that we can't try one more time and achieve it.
 
-> Motivation is **essential**, believing in ourselves being aware of our limitations but also our potential to go for it. Don't underestimate yourself, wanting is power.
+> Motivation is **essential**, believing in ourselves, recognize our limitations but also our potential to go for it. Don't underestimate yourself, wanting is power.
 
 The changes of success or not are equal, fifty-fifty. Our part is to make the decision of where we want to focus our thoughts and energy: to everything that can go wrong that leads us to be unmotivated or to everything that we can achieve that motivates us. That is where the proverb fits "_the worst attempt is the one that is not done_". For me, an unsuccessful attempt is a certain failure, we won't achieve anything, however, trying something opens us the door of the possibilities. 
-
-Las posibilidades de triunfar o no son las mismas, un 50%! De nuestra parte toca elegir hacia donde queremos enfocar nuestros pensamientos y energía: hacia todo lo que puede ir mal llevando a desanimarnos o hacia todo lo que podemos alcanzar llevando a motivarnos. Es ahí donde encaja el refrán "_el peor intento es el que no se hace_", para mí, un intento no realizado es un fracaso seguro, no lograremos nada; sin embargo, intentar algo nos abre la puerta a la posibilidad de conseguirlo.
 
 > Isaías 41:10 (RVR1960) No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.
 
