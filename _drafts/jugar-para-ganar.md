@@ -15,7 +15,7 @@ permalink: play-to-win
 
 ¿Who doesn't like to have one's own way?
 
-I am not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs.
+I am not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. in my childhood, the board games were fashionable and had not so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
 
 ¿A quién no le gusta salirse con la suya?
 
