@@ -31,9 +31,11 @@ Experimentar derrotas en la vida no es bonito, muchas vienen acompañadas de lá
 
 Life is like a big roller coaster that consists of many turns where for moments we are up and down, for that reason, it's better to take a deep breath and enjoy it.
 
-The advantage that represents to me having Jesus Christ in my life is that regardless of the bad happens to me, He uses it for my wellness and transforms it in a blessing. Psalms 31:11 (NIV) cites
+The advantage that represents to me having Jesus Christ in my life is that regardless of the bad happens to me, He uses it for my wellness and transforms it in a blessing. Psalms 30:11 (NIV) cites:
 
-I confirm that is trust. I have lived touch storms (difficulties) but God is faithful, he always gives me a peaceful place and show me a at the end of the storm.
+You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,
+
+I confirm that is trust. I have lived touch storms (difficulties) but God is faithful, he always gives me a sweet refuge and shows me a peaceful bonanza at the end of the storm.
 
 La vida es como una gran montaña rusa que consiste en muchas vueltas donde a veces se sube y otras se baja por eso es mejor respirar hondo y _enjoy it_.
 
