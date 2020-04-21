@@ -21,8 +21,8 @@ Easily, we find thousands of excuses when a challenge arises, a classic example 
 
 The changes of success or not are equal, fifty-fifty. Our part is to make the decision of where we want to focus our thoughts and energy: towards everything that can go wrong which leads to discouragement or towards everything that we can achieve that motivates us. That is where the proverb "_the worst attempt is the one that is not done_" fits in. For me, an unrealized attempt is a sure failure, we won't achieve anything, however, trying something opens us the door of the possibilities. 
 
-> Isaías 41:10 (RVR1960) No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.
+> Isaiah 41:10 (NIV) So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.
 
-Great leaders and characters of this generation have succeeded and achieved their dreams because they had enough courage to challenge themselves. My daily challenge is to be the best version of myself that I can be. I don't know what impact it will have on the world, but at least I hope to be a blessing to the world around me, nothing lost trying.
+Great leaders and characters of this generation have succeeded and achieved their dreams because they were brave enough to challenge themselves. My daily challenge is to be the best version of me that can be. I don't know what impact it will have on the world, but at least I hope to be a blessing to the world around me, I lose nothing by trying.
 
 > **_If you can dream it, can do it_**_. Walt Disney._
