@@ -17,6 +17,8 @@ permalink: play-to-win
 
 I am not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. in my childhood, the board games were fashionable and had not so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
 
+Recently, I played with my sister and it's fun when I was winning but sometimes I let her to win loll... (it isn't true). The trust is that I don't like losing but I've learned that I don't have the correct pieces that sum many points but despite that, I don't make it easy for her.
+
 ¿A quién no le gusta salirse con la suya?
 
 No me considero alguien 100% competitiva porque quiero disfrutar de lo que hago en lugar de ganar a toda costa. En mi niñez, los juegos de mesa estaban de moda y no había tanta tecnología como hoy. Aún me sigue gustando los juegos clásicos pero ahora los descargo en el móvil y puede que necesite o no de un contrincante.
