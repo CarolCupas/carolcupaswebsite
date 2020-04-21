@@ -5,8 +5,9 @@ subtitle: ''
 date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: "/images/CC tren.jpg"
 content_img_path: "/images/CC Portrait design 3.jpg"
-excerpt: 'He escuchado que soñar no cuesta nada pero quizás no soñar sí conlleve un
-  alto precio porque cierra las posibilidades de explorar y alcanzar lo inimaginable. '
+excerpt: I've heard that dreaming costs nothing, but perhaps not dreaming comes at
+  a high price because it closes the doors of possibilities to explore and achieve
+  the unimaginable.
 hide_header: false
 permalink: do-your-best
 
