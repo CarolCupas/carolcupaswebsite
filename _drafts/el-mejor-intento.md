@@ -11,19 +11,15 @@ hide_header: false
 permalink: do-your-best
 
 ---
-The popular proverb is "the worst attempt is the one that is not done" but I like my own version more: "the best attempt is the one that is done". The meaning is the same, however changing words, the connotation of the sentence is different, from negative (worst) to positive (best).
+The popular proverb is "_the worst attempt is the one that is not done_" but I like my own version more: "_the **best** attempt is the one that is done_". The meaning is the same, however changing words, the connotation of the sentence is different, from negative (worst) to positive (best).
 
-The current generation seems to be born with an integrated chip to facilitate them to use technological devices but the truth is nobody was born knowing things and needs to learn everything, from the basics such as starting to walk to the most complex such as developing machine learning algorithms, demand our motivation to boost to try it.
+Today's children seem to be born with an integrated chip to facilitate them to use technology but the truth is that nobody was born knowing things but rather learning them; from the basics such as starting to walk to the most complex ones such as the development machine learning algorithms, demand our motivation that drives us to try it.
 
-Easily, we can find a thousand of excuses at the time a challenge appears, a classic example is "I'm going to lose weight", however, a few days later, we let the exercises and goodbye diet. Although the excuses have validity, it doesn't mean that we can't try one more time and achieve it.
+Easily, we find thousands of excuses when a challenge arises, a classic example is "I'm going to lose weight", however, a few days later, we quit the exercises and said goodbye to the diet. Although the excuses may be valid, it doesn't mean that we can't try one more time and achieve it.
 
-Motivation is the essential, belief in ourselves being conscient of our limitations but also our potential to go for it. Don't subestimed you, want is be able.
+> Motivation is **essential**, believing in ourselves being aware of our limitations but also our potential to go for it. Don't underestimate yourself, wanting is power.
 
-The possibilities of success or not are equal, fifty-fifty. Our part is take the decision of where we want to focus our thoughts and energy: to everything that can go bad leading up us to be demotivated or to everything that we can achieve leading up us to be motivated. Is there where the proverb fits "". For me, an attempt doesn't done is a save failure, we won't reach anything, however, try something opens us the door of the possibilities. 
-
-Es fácil encontrar miles de excusas al momento de presentarse un reto, un clásico ejemplo es "voy a bajar de peso" pero luego de unos días, dejamos los ejercicios y adiós dieta. Aunque las excusas tengan validez no significa que no podamos intentarlo una vez más y conseguirlo.
-
-> La motivación es lo esencial, creer en uno mismo, reconociendo nuestras limitaciones pero también nuestro **potencial** para ir por ello. **No te subestimes, querer es poder!**
+The changes of success or not are equal, fifty-fifty. Our part is to make the decision of where we want to focus our thoughts and energy: to everything that can go wrong that leads us to be unmotivated or to everything that we can achieve that motivates us. That is where the proverb fits "_the worst attempt is the one that is not done_". For me, an unsuccessful attempt is a certain failure, we won't achieve anything, however, trying something opens us the door of the possibilities. 
 
 Las posibilidades de triunfar o no son las mismas, un 50%! De nuestra parte toca elegir hacia donde queremos enfocar nuestros pensamientos y energía: hacia todo lo que puede ir mal llevando a desanimarnos o hacia todo lo que podemos alcanzar llevando a motivarnos. Es ahí donde encaja el refrán "_el peor intento es el que no se hace_", para mí, un intento no realizado es un fracaso seguro, no lograremos nada; sin embargo, intentar algo nos abre la puerta a la posibilidad de conseguirlo.
 
