@@ -13,23 +13,13 @@ permalink: play-to-win
 ---
 ![](/images/CC london arte.jpg)
 
-¿Who doesn't like to have one's own way?
+¿Who doesn't like to get one's your own way?
 
-I do not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. In my childhood, the board games were fashionable and there wasn't so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
+I do not consider myself someone 100% competitive because I want to enjoy what I do rather than winning at all costs. In my childhood, the board games were all the rage and there wasn't as much technology as today. I still like classic games but now I download their apps on my smartphone and I may or may not need an opponent.
 
-I don't consider myself 100% competitive because I want to enjoy what I do instead of winning at all costs. In my childhood, board games were all the rage and didn't have as much technology as today. I still like classic games, but now I download some apps on my smartphone.
+Recently, I played with my sister and it is fun while I am beating her but sometimes I let her win loll... (not true). The truth is that I don't like losing but I've learned that I don't always have the correct pieces that sum many points but even so, I don't make it easy for her, and I enjoy the rest of the match.
 
-Recently, I played with my sister and it's fun when I was winning but sometimes I let her win loll... (it isn't true). The trust is that I don't like losing but I've learned that I don't have the correct pieces that sum many points but despite that, I don't make it easy for her.
-
-Experimenting failures in life is not beautiful, many of these carry with tears, a sense of empty into the heart and maybe some long nights but in the same way that occurs in a game, I know it is like a match and there are more to begin yet.
-
-¿A quién no le gusta salirse con la suya?
-
-No me considero alguien 100% competitiva porque quiero disfrutar de lo que hago en lugar de ganar a toda costa. En mi niñez, los juegos de mesa estaban de moda y no había tanta tecnología como hoy. Aún me sigue gustando los juegos clásicos pero ahora los descargo en el móvil y puede que necesite o no de un contrincante.
-
-Recientemente jugaba con mi hermana y es super divertido cuando le voy ganando pero a veces le dejo ganar jajajaa... (no es cierto). La verdad es que no me gusta perder pero he aprendido que no siempre cuento con las piezas correctas que sumen muchos puntos pero aun así no se lo pongo fácil e intento disfrutar el juego.
-
-Experimentar derrotas en la vida no es bonito, muchas vienen acompañadas de lágrimas, una sensación de vacío en el corazón y quizás noches largas pero del mismo modo que ocurre en un juego, he aprendido que se trata de una partida y aún quedan más por empezar.
+Experiencing defeats in life is not cool, many of these bring tears, a feeling of emptiness in the heart, and maybe some long nights but in the same way that occurs in a game, I know it is like a match and there are others more to start yet.
 
 Life is like a big roller coaster that consists of many turns where for moments we are up and down, for that reason, it's better to take a deep breath and enjoy it.
 
