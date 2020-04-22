@@ -27,4 +27,4 @@ The advantage that represents having Jesus Christ in my life is that regardless 
 
 > You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,
 
-I attest of it. I have experienced touch storms (difficulties) but God is faithful, he always gives me a sweet refuge and shows me a peaceful bonanza at the end of the storm.
+I attest that it's true. I have experienced harsh storms (difficulties) but God is faithful, he always gives me a sweet refuge and shows me a peaceful bonanza at the end of the storm.
