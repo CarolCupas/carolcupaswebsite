@@ -21,18 +21,12 @@ Recently, I played with my sister and it is fun while I am beating her but somet
 
 Experiencing defeats in life is not cool, many of these bring tears, a feeling of emptiness in the heart, and maybe some long nights but in the same way that occurs in a game, I know it is like a match and there are others more to start yet.
 
-Life is like a big roller coaster that consists of many turns where for moments we are up and down, for that reason, it's better to take a deep breath and enjoy it.
+Life is like a big roller coaster that consists of many turns where at times we are up and down, for that reason, it's better to take a deep breath and enjoy it.
 
-The advantage that represents to me having Jesus Christ in my life is that regardless of the bad happens to me, He uses it for my wellness and transforms it in a blessing. Psalms 30:11 (NIV) cites:
+The advantage that represents having Jesus Christ in my life is that regardless of the bad happens to me, He uses it for my wellness and transforms it into a blessing. Psalms 30:11 (NIV) quotes:
 
-You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,
+> You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,
 
 I confirm that is trust. I have lived touch storms (difficulties) but God is faithful, he always gives me a sweet refuge and shows me a peaceful bonanza at the end of the storm.
-
-La vida es como una gran montaña rusa que consiste en muchas vueltas donde a veces se sube y otras se baja por eso es mejor respirar hondo y _enjoy it_.
-
-La ventaja que representa para mí tener a Jesucristo en mi vida es que a pesar de todo "lo malo" que me pueda ocurrir, Él lo usa para mi bien y lo transforma en una bendición. Salmos 30:11 dice
-
-> Has cambiado mi lamento en baile; Desataste mi cilicio, y me ceñiste de alegría.
 
 Doy fe de que es verdad. He atravesado duras tormentas (dícese de dificultades) pero Dios ha sido fiel, siempre me brinda un dulce refugio y me muestra una apacible bonanza al final de la tormenta.
