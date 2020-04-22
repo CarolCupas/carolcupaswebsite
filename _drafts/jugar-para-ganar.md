@@ -15,7 +15,9 @@ permalink: play-to-win
 
 ¿Who doesn't like to have one's own way?
 
-I do not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. In my childhood, the board games were fashionable and had not so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
+I do not consider me like someone 100% competitive because I want to enjoy what I do rather than winning at all costs. In my childhood, the board games were fashionable and there wasn't so technology as today. I still like the classic games but now I downloaded some apps on my smartphone.
+
+I don't consider myself 100% competitive because I want to enjoy what I do instead of winning at all costs. In my childhood, board games were all the rage and didn't have as much technology as today. I still like classic games, but now I download some apps on my smartphone.
 
 Recently, I played with my sister and it's fun when I was winning but sometimes I let her win loll... (it isn't true). The trust is that I don't like losing but I've learned that I don't have the correct pieces that sum many points but despite that, I don't make it easy for her.
 
