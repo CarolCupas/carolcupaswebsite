@@ -5,10 +5,9 @@ subtitle: ''
 date: 2020-03-27T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC sunglass.jpg"
-excerpt: 'En un tiempo, fui una persona que esperaba lo mejor de las demás personas
-  hasta que me demostraran lo contrario y de ahí: pare de contar. Hoy, reconozco que
-  las segundas oportunidades son necesarias, que nadie es perfecto y que si nos esforzamos,
-  las cosas pueden mejorar.'
+excerpt: 'At one time, I was a person who expected the best from other people until
+  they showed me the opposite, from there: arrivederci. Today, I recognize that second
+  chances are necessary, that no one is perfect and if we strive, everything can improve.'
 hide_header: false
 permalink: posts/under-construction
 
