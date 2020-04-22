@@ -27,6 +27,4 @@ The advantage that represents having Jesus Christ in my life is that regardless 
 
 > You turned my wailing into dancing; you removed my sackcloth and clothed me with joy,
 
-I confirm that is trust. I have lived touch storms (difficulties) but God is faithful, he always gives me a sweet refuge and shows me a peaceful bonanza at the end of the storm.
-
-Doy fe de que es verdad. He atravesado duras tormentas (dícese de dificultades) pero Dios ha sido fiel, siempre me brinda un dulce refugio y me muestra una apacible bonanza al final de la tormenta.
+I attest of it. I have experienced touch storms (difficulties) but God is faithful, he always gives me a sweet refuge and shows me a peaceful bonanza at the end of the storm.
