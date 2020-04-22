@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obra en construcción
+title: Under construction
 subtitle: ''
 date: 2020-03-27T23:00:00.000+00:00
 thumb_img_path: ''
@@ -10,7 +10,7 @@ excerpt: 'En un tiempo, fui una persona que esperaba lo mejor de las demás pers
   las segundas oportunidades son necesarias, que nadie es perfecto y que si nos esforzamos,
   las cosas pueden mejorar.'
 hide_header: false
-permalink: posts/obra-en-construccion
+permalink: posts/under-construction
 
 ---
 ¿Has escuchado la frase que dice "**_nadie puede dar aquello que no tiene_**"? Algunas veces he tenido expectativas altas de personas, principalmente de las más cercanas (familia y amigos). Sin embargo, en más de una ocasión me he decepcionado y sentido fatal.
