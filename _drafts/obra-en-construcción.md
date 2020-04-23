@@ -26,7 +26,7 @@ We are work in progress, which means we are able to change and enhance throughou
 >
 > **Yet you, Lord, are our Father. We are the clay, you are the potter; we are all the work of your hand.**
 
-![](/images/CC london arte.jpg)The way I started to leave behind my expectations of others and accepted them with their virtues and defects was putting myself in their shoes and imagine how awful is to be rejected or judged for being as I am, which isn't precisely bad but different from what others expect (their expectations).
+![](/images/CC playa 1.jpg)The way I started to leave behind my expectations of others and accepted them with their virtues and defects was putting myself in their shoes and imagine how awful is to be rejected or judged for being as I am, which isn't precisely bad but different from what others expect (their expectations).
 
 A huge relief is having a wonderful heavenly Father that loves me even when I didn't meet him. 
 
