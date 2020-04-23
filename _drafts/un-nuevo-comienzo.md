@@ -7,7 +7,7 @@ excerpt: Traveling is one of my passions, but I didn't know what it means to be 
   Getting out of the comfort zone is never easy, however we need to experiment and
   do new things to get different results.
 layout: post
-subtitle: Aventuras al migrar a un país
+subtitle: Adventures migrating to a new country
 hide_header: false
 permalink: It-is-a-new-day
 
