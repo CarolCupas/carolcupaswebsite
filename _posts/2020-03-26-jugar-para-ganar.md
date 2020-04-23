@@ -2,7 +2,7 @@
 layout: post
 title: Jugar para ganar
 subtitle: ''
-date: 2020-03-26 22:00:00 +0000
+date: 2020-03-26T22:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC pinkpanter.jpg"
 excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida porque
@@ -10,7 +10,7 @@ excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida 
 hide_header: false
 
 ---
-![](/images/CC london arte.jpg)
+![](/images/CC london arte.png)
 
 ¿A quién no le gusta salirse con la suya?
 
