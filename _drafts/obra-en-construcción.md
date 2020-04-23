@@ -16,7 +16,9 @@ permalink: posts/under-construction
 
 It's inevitable not to expect anything from no one and reap what we have sown: whoever loves expects to be reciprocated, whoever extends a hand expects to be shaken by another one but the reality it's not always so. ¿Solution? Never expect anything from anyone.
 
-I don't exclude myself, certainly, I've disappointed many people at some point, what important is not to judge ourselves, but, put us in the position of that person and reflect. All have a personality formed by what we learned since our childhood at home to what we experienced then. If we expect being accepted as we are, we should be willing to accept others as they are as well.  
+I don't exclude myself, certainly, I've disappointed many people at some point, the important is not to judge ourselves, but to put ourselves in the position of that person and reflect. We all have a personality formed by what we learned from our childhood at home to what we experienced since then. If we expect being accepted as we are, we should be willing to accept others as they are as well.  
+
+I certainly do not exclude myself, I have disappointed many people at some point, the important thing is not to judge ourselves, but to put ourselves in the position of that person and reflect. Everyone has a personality formed by what we learned from our childhood at home to what we have experienced since then. If we hope to be accepted as we are, we should also be willing to accept others as they are.
 
 No me excluyo, seguramente he decepcionado a muchas personas en algún momento, lo importante es no juzgarnos sino ponernos en los zapatos de la otra persona y reflexionar al respecto. Todos tenemos una personalidad que se formó de lo que aprendimos desde niños en casa y de todo lo que hemos experimentado. Si queremos que nos acepten tal y como somos, debemos estar dispuestos a aceptar a otros tal y como son también
 
