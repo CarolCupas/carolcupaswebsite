@@ -1,5 +1,5 @@
 ---
-title: Un nuevo comienzo
+title: It is a new day
 date: 2020-03-20T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC escaleras.jpg"
@@ -9,6 +9,7 @@ excerpt: Viajar es una de mis pasiones pero no sabía lo que significaba ser ext
 layout: post
 subtitle: Aventuras al migrar a un país
 hide_header: false
+permalink: It-is-a-new-day
 
 ---
 ![](/images/CC taxi arte.jpg)
