@@ -25,7 +25,7 @@ Somos una obra en construcción, lo cual significa que podemos cambiar y mejorar
 
 **_Ahora pues, Jehová, tú eres nuestro padre; nosotros barro, y tú el que nos formaste; así que obra de tus manos somos todos nosotros. Isaías 64:8_**
 
-![](/images/CC london arte.jpg)
+![](/images/CC playa 1.jpg)
 
 La manera en que empecé a dejar a un lado mis expectativas acerca de los demás y aceptarles con sus virtudes y defectos fue colocarme en su lugar e imaginar lo triste que es ser rechazada / juzgada por ser quién soy, que no es precisamente malo sino diferente a lo que otros esperan (expectativas ajenas).
 
