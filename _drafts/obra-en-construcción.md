@@ -12,11 +12,11 @@ hide_header: false
 permalink: posts/under-construction
 
 ---
-¿Have you heard the phrase "no one can give what they don't have"? Sometimes, I have had high expectations of people, especially from the near ones (family and friends). However, in more than one occasion, I have been disappointed and felt terrible.
+¿Have you heard the phrase "no one can give what they don't have"? Sometimes, I have had high expectations of people, especially from the near ones (family and friends). However, on more than one occasion, I have been disappointed and felt terrible.
 
-It's inevitable don't waiting anything of no one and ... who loves, hope to be corresponded, who extends a hand, hope that your hand be extreched by another one but the reality it's not always so. ¿Solution? Never wait nothing of no one.
+It's inevitable don't wait for anything of no one and ... who loves, hope to correspond, who extends a hand, hope that your hand being stretched by another one but the reality it's not always so. ¿Solution? Never wait for anything of no one.
 
-I don't excluse myself, certainly, I've disappointed to many people at some point, what important is not to jugde ourselves, but, put us in the position of that person and reflect. All have a personality formed by what we learned since our childhood at home to what we experienced then. If we expect being accepted as we are, we should be willing to accept to others as they are as well.  
+I don't exclude myself, certainly, I've disappointed many people at some point, what important is not to judge ourselves, but, put us in the position of that person and reflect. All have a personality formed by what we learned since our childhood at home to what we experienced then. If we expect being accepted as we are, we should be willing to accept others as they are as well.  
 
 ¿Has escuchado la frase que dice "**_nadie puede dar aquello que no tiene_**"? Algunas veces he tenido expectativas altas de personas, principalmente de las más cercanas (familia y amigos). Sin embargo, en más de una ocasión me he decepcionado y sentido fatal.
 
@@ -24,15 +24,23 @@ Es inevitable no esperar nada de nadie y cosechar lo que hemos sembrado: quien a
 
 No me excluyo, seguramente he decepcionado a muchas personas en algún momento, lo importante es no juzgarnos sino ponernos en los zapatos de la otra persona y reflexionar al respecto. Todos tenemos una personalidad que se formó de lo que aprendimos desde niños en casa y de todo lo que hemos experimentado. Si queremos que nos acepten tal y como somos, debemos estar dispuestos a aceptar a otros tal y como son también
 
-It's impossible demand what we are not able to offer.
+It's impossible to demand what we are not able to offer.
 
 > No se puede exigir aquello que no somos capaces de dar.
+
+We are work under construction, so that means we are able to change and enhance throughout life. This process begins with our internal desire to do it and not for any external press.
 
 Somos una obra en construcción, lo cual significa que podemos cambiar y mejorar a lo largo de la vida pero es un proceso que inicia con la voluntad interna de hacerlo y no por presiones externas.
 
 **_Ahora pues, Jehová, tú eres nuestro padre; nosotros barro, y tú el que nos formaste; así que obra de tus manos somos todos nosotros. Isaías 64:8_**
 
 ![](/images/CC london arte.jpg)
+
+The way I started to let behind my expectations about others and accepted them with virtues and defects was putting myself in their place and imagine what awful is to be rejected or judged by being as I am, that it isn't precisely wrong but different of what others expect (their expectations).
+
+A huge relief is having a wonderful Father that loves me even when I don't meet him:
+
+What blessed I am.
 
 La manera en que empecé a dejar a un lado mis expectativas acerca de los demás y aceptarles con sus virtudes y defectos fue colocarme en su lugar e imaginar lo triste que es ser rechazada / juzgada por ser quién soy, que no es precisamente malo sino diferente a lo que otros esperan (expectativas ajenas).
 
