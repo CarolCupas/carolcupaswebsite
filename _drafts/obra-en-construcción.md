@@ -12,11 +12,19 @@ hide_header: false
 permalink: posts/under-construction
 
 ---
+¿Have you heard the phrase "no one can give what they don't have"? Sometimes, I have had high expectations of people, especially from the near ones (family and friends). However, in more than one occasion, I have been disappointed and felt terrible.
+
+It's inevitable don't waiting anything of no one and ... who loves, hope to be corresponded, who extends a hand, hope that your hand be extreched by another one but the reality it's not always so. ¿Solution? Never wait nothing of no one.
+
+I don't excluse myself, certainly, I've disappointed to many people at some point, what important is not to jugde ourselves, but, put us in the position of that person and reflect. All have a personality formed by what we learned since our childhood at home to what we experienced then. If we expect being accepted as we are, we should be willing to accept to others as they are as well.  
+
 ¿Has escuchado la frase que dice "**_nadie puede dar aquello que no tiene_**"? Algunas veces he tenido expectativas altas de personas, principalmente de las más cercanas (familia y amigos). Sin embargo, en más de una ocasión me he decepcionado y sentido fatal.
 
 Es inevitable no esperar nada de nadie y cosechar lo que hemos sembrado: quien ama espera ser correspondido, quien extiende una mano espera ser estrechada por otra mano pero la realidad no siempre es así. ¿La solución? no esperar nada de nadie nunca.
 
 No me excluyo, seguramente he decepcionado a muchas personas en algún momento, lo importante es no juzgarnos sino ponernos en los zapatos de la otra persona y reflexionar al respecto. Todos tenemos una personalidad que se formó de lo que aprendimos desde niños en casa y de todo lo que hemos experimentado. Si queremos que nos acepten tal y como somos, debemos estar dispuestos a aceptar a otros tal y como son también
+
+It's impossible demand what we are not able to offer.
 
 > No se puede exigir aquello que no somos capaces de dar.
 
