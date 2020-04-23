@@ -26,7 +26,11 @@ Hace un par de años, decidí que quería darle un giro a mi día a día y por l
 
 Dado que todos mis estudios los cursé en mi país, exploré las oportunidades de estudiar en el extranjero. Luego de unos meses, recibí la llamada que lo cambió todo, me habían otorgado una beca para estudiar en Madrid! que emoción!
 
-Is that how I quite my job, said goodbye to my family and friends and undertook my journey to Madrid along with my husband Marvin. 
+Is that how I quite my job, said goodbye to my family and friends and undertook my journey to Madrid along with my husband Marvin. It was in the aircraft seat where I finally had time to assimilate all the changes that bring to migrate from country so far away at home.
+
+Despite of almost each year, I took vacations and visited many new places, moving to other continent for at least one year, it was too different, this involves start from scratch: friendships, foods, spots, idioms, in conclusion a new style of life.
+
+ 
 
 Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emprendí el viaje a **Madrid** con mi esposo Marvin. Pero no fue hasta que subimos al avión rumbo al aeropuerto de Barajas, que logré tener tiempo para asimilar todos los cambios que conllevaba migrar a un país tan lejos de casa.
 
