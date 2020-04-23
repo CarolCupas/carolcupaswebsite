@@ -3,9 +3,9 @@ title: It is a new day
 date: 2020-03-20T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC escaleras.jpg"
-excerpt: Viajar es una de mis pasiones pero no sabía lo que significaba ser extranjera.
-  Salir del área de confort nunca es fácil pero es necesario experimentar y hacer
-  las cosas diferentes para obtener nuevos resultados.
+excerpt: Traveling is one of my passions, but I didn't know what it means to be foreign.
+  Getting out of the comfort zone is never easy, however we need to experiment and
+  do new things to get different results.
 layout: post
 subtitle: Aventuras al migrar a un país
 hide_header: false
