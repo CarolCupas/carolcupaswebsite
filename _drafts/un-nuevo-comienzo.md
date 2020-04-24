@@ -26,13 +26,11 @@ Despite the fact that almost every year, I took vacations and visited many new p
 
 ![](/images/CC ML Plaza mayor.jpg)
 
-I've had the blessing to share everything with Marvin, I believe that migrating alone would be more difficult. Today, we have new friends, favorite dishes, and spots where we go to get a tasty cup of coffee or walk with our pets.
+I've been blessed to share everything with Marvin, I guess that migrating alone would be more difficult. Today, we have new friends, favorite dishes, and places to have tasty coffee or walk our pets.
 
 No doubt, we miss our families, to old friends and stay at home, but we still want to have new adventures and visit other countries. After all, there is only one life.
 
 From everything, we learn, and I am glad to experience how is to migrate to the country, spare me the tale.
-
-He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hubiera sido más difícil. Hoy tenemos muchas amistades, platillos favoritos, lugares donde tomar un rico café o salir a caminar con Twitter y Coshita (nuestros perros).
 
 Sin duda, extrañamos a nuestra familia, a los amigos de siempre y a estar en casa pero creo que aún tenemos deseos de tener nuevas aventuras y conocer más países. Después de todo, la vida es una.
 
