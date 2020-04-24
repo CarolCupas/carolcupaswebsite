@@ -3,8 +3,8 @@ title: A life of 24 hours
 date: 2020-03-23T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC Casa campo lago.jpg"
-excerpt: Living in the present is a gift, laugh and share smiles today, put on your
-  best outfit today, call your loved ones and tell them how much you miss them, hanging
+excerpt: Living the present is a gift, laugh and share smiles today, put on your best
+  outfit today, call your loved ones and tell them how much you miss them, hanging
   out with friends, embrace your dreams today because you don't know if there are
   more opportunities.
 layout: post
@@ -14,6 +14,14 @@ permalink: a-life-of-24hours
 
 ---
 ![](/images/CC Quintas d Molinas.jpg)
+
+Living one day at the time knowing that the tomorrow is no promise for anyone, that makes me appreciate what is really valued. I am aware of life is fleeting and everything can changes when you least expect it.
+
+I always think that is important planning things, don't postpone anything to later and take decisions lightly but keep the balance. I meditate before to decide doing some thing, I evaluate scenarios in my mind and confess that things can accumulated making me worry for things that have not happened yet or can not be changed, so I reminder the follow verse of the bible:
+
+> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+>
+> Matthew 6:34 (NIV)
 
 Vivir un día a la vez sabiendo que el mañana no es prometido para nadie, me hace apreciar lo que realmente tiene valor. Soy consciente de que la vida es pasajera y que todo puede cambiar cuando menos lo esperas.
 
