@@ -15,15 +15,13 @@ permalink: a-life-of-24hours
 ---
 ![](/images/CC Quintas d Molinas.jpg)
 
-Living one day at the time knowing that the tomorrow is no promise for anyone, that makes me appreciate what is really valued. I am aware of life is fleeting and everything can changes when you least expect it.
+Living one day at a time knowing that tomorrow is not promised for anyone, makes me appreciate what is really valuable. I am aware of life is fleeting and everything can change when you least expect it.
 
-I always think that is important planning things, don't postpone anything to later and take decisions lightly but keep the balance. I meditate before to decide doing some thing, I evaluate scenarios in my mind and confess that things can accumulate and make me worry about things that have not happened yet or can not be changed, so I reminder the follow verse of the bible:
+I always think that is important to plan things, not to postpone anything for later, and not to make decisions lightly, but keeping the balance. I meditate before to decide doing something, I evaluate scenarios in my mind and confess that things can accumulate and I get to worry about things that have not happened yet or can not be changed, so I remind myself the following verse of the bible:
 
 > Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 >
 > Matthew 6:34 (NIV)
-
-Vivir un día a la vez sabiendo que el mañana no es prometido para nadie, me hace apreciar lo que realmente tiene valor. Soy consciente de que la vida es pasajera y que todo puede cambiar cuando menos lo esperas.
 
 Siempre he pensado que es importante planificar, no dejar las cosas para después o tomar decisiones a ligera pero debe de haber un equilibrio. Suelo meditar antes de decidirme hacer algo, evalúo escenarios en mi mente y confieso que a veces las cosas pueden acumularse haciendo que me preocupe por cosas que no han pasado o que no puedo cambiar, entonces recuerdo una palabra de la biblia que dice
 
