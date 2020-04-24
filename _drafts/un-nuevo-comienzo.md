@@ -14,9 +14,9 @@ permalink: It-is-a-new-day
 ---
 ![](/images/CC taxi arte.jpg)
 
-I am a person who adapts really well to the changes and organizes myself to get my goals.
+I am a person who adapts very well to changes and I organize myself to achieve my goals.
 
-A couple of years, I decided to give a turn of my days, for that, I looked job as a professor in a university. For my surprise, it was not enough my college degree as an engineer, either the master degree in high education besides I should have a master degree or specialization in some brand of my career.
+A couple of years ago, I decided to give a twist to my day to day, therefore I looked for a job as a professor at university. To my surprise, my engineering degree was not enough, not even the master's degree in higher education that I had just obtained, besides that, I had to have a master's degree or a specialization in some branch of my professional area.
 
 Due I completed all my studies in my country, explored the options to study outside. After two months, I received a call that changes everything, I got a scholarship to study a master degree in Big Data & BI in Madrid, so excited!!
 
@@ -40,7 +40,9 @@ A pesar de que casi todos los años, planeaba vacaciones y conocía muchos lugar
 
 I've had the blessing to share everything with Marvin, I believe that migrating alone would be more difficult. Today, we have new friends, favorite dishes and spots where we go to get a tasty cup of coffee or walk with our pets.
 
-No doubt, we miss our families, to the old friends and stay at home, but we still want to have new adventures and visit others countries. After all, there is only one life.
+No doubt, we miss our families, to old friends and stay at home, but we still want to have new adventures and visit other countries. After all, there is only one life.
+
+From everything, we learn, and I am glad to experience how is to migrate to the country, spare me the tale.
 
 He tenido la bendición de compartirlo todo con Marvin, creo que migrar sola hubiera sido más difícil. Hoy tenemos muchas amistades, platillos favoritos, lugares donde tomar un rico café o salir a caminar con Twitter y Coshita (nuestros perros).
 
