@@ -28,10 +28,6 @@ Despite the fact that almost every year, I took vacations and visited many new p
 
 I've been blessed to share everything with Marvin, I guess that migrating alone would be more difficult. Today, we have new friends, favorite dishes, and places to have tasty coffee or walk our pets.
 
-No doubt, we miss our families, to old friends and stay at home, but we still want to have new adventures and visit other countries. After all, there is only one life.
+Undoubtedly, we miss our families, our old friends, and being at home, but we still want to have new adventures and discover other countries. After all, life is one.
 
-From everything, we learn, and I am glad to experience how is to migrate to the country, spare me the tale.
-
-Sin duda, extrañamos a nuestra familia, a los amigos de siempre y a estar en casa pero creo que aún tenemos deseos de tener nuevas aventuras y conocer más países. Después de todo, la vida es una.
-
-De todas las experiencias se aprende y me alegro de experimentar lo que conlleva migrar de país, por lo menos, ya no me echan cuento.
+From everything, we learn, and I am glad to experience what it entails to migrate from country,  spare me the tale.
