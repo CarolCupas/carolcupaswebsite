@@ -18,13 +18,7 @@ I am a person who adapts very well to changes and I organize myself to achieve m
 
 A couple of years ago, I decided to give a twist to my day to day, therefore I looked for a job as a professor at university. To my surprise, my engineering degree was not enough, not even the master's degree in higher education that I had just obtained, besides that, I had to have a master's degree or a specialization in some branch of my professional area.
 
-Due I completed all my studies in my country, explored the options to study outside. After two months, I received a call that changes everything, I got a scholarship to study a master degree in Big Data & BI in Madrid, so excited!!
-
-Soy una persona que se adapta muy bien a los cambios y me organizo bien a fin de lograr mis metas.
-
-Hace un par de años, decidí que quería darle un giro a mi día a día y por lo tanto empecé a buscar trabajo como docente universitario. Para mi sorpresa, no bastaba mi título en ingeniería, ni siquiera el máster en Docencia Superior que recién había obtenido sino que además debía tener un máster en mi área profesional.
-
-Dado que todos mis estudios los cursé en mi país, exploré las oportunidades de estudiar en el extranjero. Luego de unos meses, recibí la llamada que lo cambió todo, me habían otorgado una beca para estudiar en Madrid! que emoción!
+Given that I completed all my studies in my country, I explored the options to study abroad. After two months, I received the call that changes everything, I got a scholarship to study a master degree in Big Data & BI in Madrid, What a thrill!
 
 Is that how I quite my job, said goodbye to my family and friends and undertook my journey to Madrid along with my husband Marvin. It was in the aircraft seat where I finally had time to assimilate all the changes that bring to migrate from country so far away at home.
 
