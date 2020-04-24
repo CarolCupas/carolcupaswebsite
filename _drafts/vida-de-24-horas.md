@@ -17,7 +17,7 @@ permalink: a-life-of-24hours
 
 Living one day at the time knowing that the tomorrow is no promise for anyone, that makes me appreciate what is really valued. I am aware of life is fleeting and everything can changes when you least expect it.
 
-I always think that is important planning things, don't postpone anything to later and take decisions lightly but keep the balance. I meditate before to decide doing some thing, I evaluate scenarios in my mind and confess that things can accumulated making me worry for things that have not happened yet or can not be changed, so I reminder the follow verse of the bible:
+I always think that is important planning things, don't postpone anything to later and take decisions lightly but keep the balance. I meditate before to decide doing some thing, I evaluate scenarios in my mind and confess that things can accumulate and make me worry about things that have not happened yet or can not be changed, so I reminder the follow verse of the bible:
 
 > Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 >
@@ -28,6 +28,12 @@ Vivir un día a la vez sabiendo que el mañana no es prometido para nadie, me ha
 Siempre he pensado que es importante planificar, no dejar las cosas para después o tomar decisiones a ligera pero debe de haber un equilibrio. Suelo meditar antes de decidirme hacer algo, evalúo escenarios en mi mente y confieso que a veces las cosas pueden acumularse haciendo que me preocupe por cosas que no han pasado o que no puedo cambiar, entonces recuerdo una palabra de la biblia que dice
 
 > ...no os afanéis por el día de mañana, porque el día de mañana traerá su afán. Mateo 6:34
+
+and tell myself that makes no sense being worried about anything. In fact, if today was my last day at earth, I shouldn't waste it feeling bad, rather that I should be grateful for the chance I have to enjoy the company of my loved ones, listening  to their voice, looking to their eyes and even the distance, express them my love.
+
+Short time ago, someone asked me "¿do you imagine if we could to rewind time?", although it might be useful, the life doesn't include that option, nonetheless, life offers us a new opportunity each day to start from scratch like a canvas in blank to design the first day of the rest of our life.
+
+On my end, I propone myself to write good chapters in my remaining days and first of all to take advantage of each these to answer the calls of relatives, send messages to friends, meet to neighbords, share coffess with Marvin, thank God by his fidelity and all that He has planned to me.
 
 y me digo a mí misma que no tiene ningún sentido pasar más tiempo preocupada por nada. De hecho, si hoy fuera mi último día sobre la tierra, no debiera desperdiciarlo sintiéndome mal, en lugar de éso debo estar agradecida por la oportunidad que tengo de poder disfrutar de la compañía de quienes amo, escuchar su voz, mirarles a los ojos y aún en la distancia expresarles mi amor.
 
