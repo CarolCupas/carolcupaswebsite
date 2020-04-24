@@ -23,7 +23,7 @@ Upon that, I asked myself the famous question "**_What would Jesus do_?" (_WWJD)
 
 Thinking about what would Jesus do in a similar situation surrounded by haters, led me to his **cross** where he was crucified by people who he didn't hurt, offended, humiliated or anything like that but who nevertheless crucified him. Jesus' attitude is supernatural evidently, He not only didn't react in the same way, but he even prayed to God for forgiving them because they didn't know what they did... OMG!! Wow! No doubt, he is my **superhero** par excellence.
 
-I know I am not perfect, buuuut I am learning from a great teacher, so I decided to act as Jesus did: love the neighbor like myself, that is treating haters with love (anyway, the problem is theirs with me) and also I began to pray for them in order God would heal their hearts and that any offense that I did (unwittingly) was healed. Be careful, the above doesn't mean that I let me belittle or humiliate by anyone, there are limits that I recommend don't trespass.
+I know I am not perfect, buuuut I am learning from a great teacher, so I decided to act as Jesus did: love the neighbor like myself, that is treating haters with love (anyway, the problem is theirs with me) and also I began to pray for them in order God would heal their hearts and that any offense that I did (unwittingly) was healed. Look out, the above doesn't mean that I let me belittle or humiliate by anyone, there are limits that I recommend don't trespass.
 
 Frankly, it is difficult but not impossible.
 
