@@ -22,11 +22,11 @@ Since I completed all my studies in my country, I explored the options to study 
 
 That's how I quit my job, said goodbye to my family and friends, and undertook my journey to Madrid with my husband Marvin. But it was until we got on the aircraft seat to the Barajas airport that I finally had time to assimilate all the changes that came with migrating to a country so far from home.
 
-Despite almost each year, I took vacations and visited many new places, moving to other continent for at least one year, it was too different, this involves starting from scratch: friendships, foods, spots, idioms, in conclusion, a new style of life.
+Despite the fact that almost every year, I took vacations and visited many new places, moving to another continent for at least one year, it was too different, this implies starting from scratch: friendships, meals, spots, idioms, in conclusion, a new lifestyle.
 
 ![](/images/CC ML Plaza mayor.jpg)
 
-I've had the blessing to share everything with Marvin, I believe that migrating alone would be more difficult. Today, we have new friends, favorite dishes and spots where we go to get a tasty cup of coffee or walk with our pets.
+I've had the blessing to share everything with Marvin, I believe that migrating alone would be more difficult. Today, we have new friends, favorite dishes, and spots where we go to get a tasty cup of coffee or walk with our pets.
 
 No doubt, we miss our families, to old friends and stay at home, but we still want to have new adventures and visit other countries. After all, there is only one life.
 
