@@ -1,15 +1,16 @@
 ---
-title: Vida de 24 horas
+title: A life of 24 hours
 date: 2020-03-23T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/CC Casa campo lago.jpg"
-excerpt: 'Vivir el presente es un regalo, ríe y reparte sonrisas hoy, ponte el traje
-  más bonito hoy, llama a quién amas y dile que le echas de menos, sal con tus amigos,
-  abraza sus sueños hoy porque no sabes si no habrá otra oportunidad.  '
+excerpt: Living in the present is a gift, laugh and share smiles today, put on your
+  best outfit today, call your loved ones and tell them how much you miss them, hanging
+  out with friends, embrace your dreams today because you don't know if there are
+  more opportunities.
 layout: post
 subtitle: ''
 hide_header: false
-permalink: vida-de-24-horas
+permalink: a-life-of-24hours
 
 ---
 ![](/images/CC Quintas d Molinas.jpg)
