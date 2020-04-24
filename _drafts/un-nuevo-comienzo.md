@@ -18,17 +18,11 @@ I am a person who adapts very well to changes and I organize myself to achieve m
 
 A couple of years ago, I decided to give a twist to my day to day, therefore I looked for a job as a professor at university. To my surprise, my engineering degree was not enough, not even the master's degree in higher education that I had just obtained, besides that, I had to have a master's degree or a specialization in some branch of my professional area.
 
-Given that I completed all my studies in my country, I explored the options to study abroad. After two months, I received the call that changes everything, I got a scholarship to study a master degree in Big Data & BI in Madrid, What a thrill!
+Since I completed all my studies in my country, I explored the options to study abroad. After two months, I received the call that changed everything, I got a scholarship to study a master degree in Big Data & BI in Madrid, What a thrill!
 
-Is that how I quite my job, said goodbye to my family and friends and undertook my journey to Madrid along with my husband Marvin. It was in the aircraft seat where I finally had time to assimilate all the changes that bring to migrate from country so far away at home.
+That's how I quit my job, said goodbye to my family and friends, and undertook my journey to Madrid with my husband Marvin. But it was until we got on the aircraft seat to the Barajas airport that I finally had time to assimilate all the changes that came with migrating to a country so far from home.
 
-Despite of almost each year, I took vacations and visited many new places, moving to other continent for at least one year, it was too different, this involves start from scratch: friendships, foods, spots, idioms, in conclusion a new style of life.
-
- 
-
-Y fue así como renuncié a mi trabajo, me despedí de mi familia y amigos y emprendí el viaje a **Madrid** con mi esposo Marvin. Pero no fue hasta que subimos al avión rumbo al aeropuerto de Barajas, que logré tener tiempo para asimilar todos los cambios que conllevaba migrar a un país tan lejos de casa.
-
-A pesar de que casi todos los años, planeaba vacaciones y conocía muchos lugares, mudarme a otro continente por al menos un año, era muy distinto, significaba partir de cero: amistades, comida, casa, frases, en resumen un nuevo estilo de vida.
+Despite almost each year, I took vacations and visited many new places, moving to other continent for at least one year, it was too different, this involves starting from scratch: friendships, foods, spots, idioms, in conclusion, a new style of life.
 
 ![](/images/CC ML Plaza mayor.jpg)
 
