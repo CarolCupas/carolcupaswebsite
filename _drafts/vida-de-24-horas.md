@@ -23,12 +23,10 @@ I have always thought that it's important to plan, not to postpone anything for 
 >
 > Matthew 6:34 (NIV)
 
-and tell myself that makes no sense being worried about anything. In fact, if today was my last day on earth, I shouldn't waste it feeling bad, rather than I should be grateful for the chance I have to enjoy the company of my loved ones, hear their voice, looking to their eyes and even in the distance, express them my love.
+and I tell myself that makes no sense spending time worrying about anything. In fact, if today was my last day on earth, I shouldn't waste it feeling bad, instead, I should be grateful for the chance I have to enjoy the company of my loved ones, hear their voices, looking to their eyes and even in the distance, express them my love.
 
-Short time ago, someone asked me "¿do you imagine if we could to rewind time?", although it might be useful, the life doesn't include that option, nonetheless, life offers us a new opportunity each day to start from scratch like a canvas in blank to design the first day of the rest of our life.
+Not long ago, someone asked me "¿can you imagine if we could rewind time?", although it might be useful, the life doesn't include that option, nonetheless, life offers us a new opportunity each day to start from scratch as a blank canvas to design the first day of the rest of our life.
 
-On my end, I propone myself to write good chapters in my remaining days and first of all to take advantage of each these to answer the calls of relatives, send messages to friends, meet to neighbords, share coffess with Marvin, thank God by his fidelity and all that He has planned to me.
-
-Hace poco alguien me dijo "¿_te imaginas que pudiéramos hacer rewind?_" (refiriéndose a retroceder en el tiempo) y aunque quizás sería útil, la vida no incluye ésa opción, sin embargo, lo que sí nos ofrece es una nueva oportunidad para empezar cada día de cero, a partir de un lienzo en blanco para diseñar el primer día del resto de nuestra vida.
+On my end, I propose myself to write good chapters in my remaining days and first of all to take advantage of each these to answer the calls of relatives, send messages to friends, meet to neighbors, share coffees with Marvin, thank God by his fidelity and all that He has planned to me.
 
 Por mi parte, me propongo a escribir buenos capítulos en los días que me restan y ante todo poder aprovechar todos y cada uno de ellos para atender las llamadas de familiares, enviar mensajes a mis amigos, conocer a mis vecinos, compartir cafés con Marvin, agradecer a Dios por su inmensa fidelidad y por todo lo que ha planeado para mí.
