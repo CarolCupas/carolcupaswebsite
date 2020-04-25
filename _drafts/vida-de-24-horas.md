@@ -21,7 +21,7 @@ I have always thought that it's important to plan, not to postpone anything for 
 >
 > Matthew 6:34 (NIV)
 
-and I tell myself that makes no sense spending time worrying about anything. In fact, if today was my last day on earth, I shouldn't waste it feeling bad, instead, I should be grateful for the chance I have to enjoy the company of my loved ones, hear their voices, looking to their eyes and even in the distance, express them my love.
+... and I tell myself that makes no sense spending time worrying about anything. In fact, if today was my last day on earth, I shouldn't waste it feeling bad, instead, I should be grateful for the chance I have to enjoy the company of my loved ones, hear their voices, looking to their eyes and even in the distance, express them my love.
 
 Not long ago, someone asked me "¿can you imagine if we could rewind time?", although it might be useful, the life doesn't include that option, nonetheless, life offers us a new opportunity each day to start from scratch as a blank canvas to design the first day of the rest of our life.
 
