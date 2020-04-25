@@ -15,7 +15,7 @@ permalink: a-life-of-24hours
 ---
 Living one day at a time knowing that tomorrow is not promised for anyone, makes me appreciate what is really valuable. I am aware of life is fleeting and everything can change when you least expect it.
 
-I have always thought that it's important to plan, not to postpone anything for later, and not to make decisions lightly, but there must be a balance. I meditate before deciding to do something, I evaluate scenarios in my mind and confess that things can accumulate and I get to worry about things that have not happened yet or that I can not change, so I remember the following verse of the bible:
+I have always thought that it's important to plan, not to postpone anything for later, and not to make decisions lightly, but there must be a balance. I usually meditate before deciding to do something, I evaluate scenarios in my mind and confess that things can accumulate and I get to worry about things that have not happened yet or that I can not change, so I remember the following verse of the bible:
 
 > Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 >
