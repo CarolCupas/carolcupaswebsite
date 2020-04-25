@@ -4,7 +4,7 @@ title: Sin precendentes
 subtitle: ''
 date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: ''
-content_img_path: "/images/CC y awe.jpg"
+content_img_path: "/images/CC & Awe arte.jpg"
 excerpt: El año 2020 ha marcado un antes y después en la manera en que nos relacionamos
   con los demás. La aparición del COVID-19 nos apartó a todos en nuestras casas trayendo
   a la tristeza consigo.
