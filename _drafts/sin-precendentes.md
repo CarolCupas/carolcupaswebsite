@@ -4,7 +4,7 @@ title: Without precedents
 subtitle: ''
 date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: ''
-content_img_path: "/images/CC y awe.jpg"
+content_img_path: "/images/CC & Awe arte.jpg"
 excerpt: The 2020 has marked a before and after in the way we relate to others. COVID-19
   separated us all in our homes bringing the sadness with it.
 hide_header: false
