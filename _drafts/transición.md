@@ -3,10 +3,10 @@ title: Transition
 subtitle: Año sabático y las oportunidades
 date: 2020-03-22T23:00:00.000+00:00
 thumb_img_path: ''
-excerpt: La rutina me aburre por lo que los cambios ocurren a menudo en mi vida, desde
-  un nuevo color de cabello hasta cambiar de país de residencia. Evidentemente los
-  retos que conllevan algunos cambios son más desafiantes que otros por lo que durante
-  esta nueva faceta de mi vida experimento algunos a nivel profesional.
+excerpt: The routine bores me and for that, the changes often occur in my life. From
+  a new hairstyle to my country of residence. Definitely, changes bring some challenges
+  more difficult than others, but during this new stage of my life, I experience some
+  professional challenges.
 hide_header: false
 layout: post
 content_img_path: "/images/CC rubia.jpg"
