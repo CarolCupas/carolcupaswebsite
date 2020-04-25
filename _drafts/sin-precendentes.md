@@ -17,16 +17,14 @@ For a while, I was thinking about her and the situation that many elderly people
 
 Young people are familiar with using technology to entertain ourselves however many of the old people have trouble seeing well, their pulse trembles, and spending hours in front of a screen is difficult for them. A few days ago, I talked to my grandma by video call, it was a blessing that my cousin helped her to make the call because my grandma doesn't have a smartphone, she prefers the classic phone with buttons to press the numbers.
 
-Staying isolated for many days has also been hard for me. I really want to go to the beach, listen to the sound of the sea, and feel the breeze. Somehow, I think nothing will be the same, we'll a bit skeptical to say hello, meet, or bath in the pool with strangers.
+Staying isolated for so many days has been hard even for me. I really want to go to the beach, hear the sound of the sea, and feel the breeze. Somehow, I think nothing will ever be the same, we'll a bit skeptical to say hello, meet, or even bath in the pool with strangers.
 
-I don't know if I will get older but I would not like to spend my old age alone. Whose are married or have children, probably won't be alone but the reality is that a lot of old people are abandoned for their families as if they don't know that someday they too to get older.
+I don't know if I will grow old, but I would not like to spend my old age alone. Those who are married or have children, probably won't be alone but the reality is that a lot of older people are abandoned by their families as if they didn't know that one day they too to grow old.
 
-I think we shouldn't forget where we are and whose were there for us when we were born. The old age is a stage to rest and not for loneliness. If our grandparents o parents don't receive our support, ¿what support they will receive?
+I don't know if I will grow old, but I would not like to spend my old age alone. Those who have couple or children, probably don't have to, but the reality is that many older people are abandoned by their relatives as if they did not know that one day they will also grow old.
 
-I hope to encourage to read this, to be a support for your old people in order they don't be alone and feel loved again.
+I think we shouldn't forget where we are from and who were there for us when we were born. Old age should be a stage for rest and not for loneliness. If our grandparents o parents don't receive our support, ¿what support they will receive?
 
-No sé si llegaré a envejecer pero no me gustaría pasar mi vejez sola. Para los que tienen pareja o hijos, es probable que no tengan que hacerlo pero la realidad es que hay muchos viejitos abandonados por sus familiares, como si no supieran que algún día llegarán a viejos también.
+I hope to encourage to who read this, to be supportive of your elders so that they aren't alone and feel loved again.
 
-Pienso que no debemos olvidar de dónde somos y quiénes estuvieron allí para nosotros cuando nacimos. La vejez debe ser una etapa de descanso y no de soledad, si nuestros abuelos o padres no reciben nuestra ayuda, ¿qué otra ayuda recibirán?
-
-Espero animar a quién lea, a ser un apoyo para sus ancianos a fin de que no estén solos y se sientan amados nuevamente.
+I hope to encourage those who read this to be supportive of their elders so that they are not alone and feel loved again.
