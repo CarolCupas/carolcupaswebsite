@@ -21,6 +21,8 @@ Ayer, cuando regresaba de una breve caminata con uno de mis peques, me encontré
 
 Young people are familiarized to use technology to entertain ourselves however many of the old people have problems seeing well, their pulse trembles and spend hours in front of a screen is difficult for them. A few days ago, I could to speak with my grandma by video call, it was a blessing having to my cousin to help her to do the call because my grandma doesn't have a smartphone, she prefers the classic phone with keys.
 
+Stay isolated for many days has been hard also for me. I really want to go to the beach, hear the sea sound, and feel the breeze. Somehow, I think nothing will be the same, we'll a bit skeptical greeting, meeting or bathing in the pool with others.
+
 Las personas jóvenes estamos acostumbrados a utilizar tecnología para entretenernos en nuestro día a día pero a muchos ancianos se les dificulta ver, les tiembla el pulso y les cuesta pasar horas frente a una pantalla. Hace unos días, pude conversar con mi abuela por videollamada, es una bendición que mi prima la ayudara para poder hacerlo porque mi abuela no tiene un _smatphone_, prefiere un teléfono con botones para pulsar los números.
 
 Permanecer aislados por tantos días, ha sido difícil hasta para mí y tengo muchas ganas de salir a una playa, oír el sonido del mar y sentir la brisa. Creo que de cierto modo ya nada volverá a ser igual, seremos un poco escépticos al saludar, al reunirnos e incluso bañarse en una piscina o playa con extraños.
