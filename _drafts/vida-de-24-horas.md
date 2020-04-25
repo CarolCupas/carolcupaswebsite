@@ -27,4 +27,4 @@ and I tell myself that makes no sense spending time worrying about anything. In 
 
 Not long ago, someone asked me "¿can you imagine if we could rewind time?", although it might be useful, the life doesn't include that option, nonetheless, life offers us a new opportunity each day to start from scratch as a blank canvas to design the first day of the rest of our life.
 
-On my end, I propose myself to write good chapters in my remaining days and first of all, take advantage of each these to answer the calls of relatives, send messages to friends, meet neighbors, share coffees with Marvin, thanking to God for his fidelity and all that He has planned for me.
+On my end, I propose myself to write good chapters in my remaining days and first of all, take advantage of each these to answer the calls of relatives, send messages to friends, meet my neighbors, share coffees with Marvin, thanking God for his fidelity and for all that He has planned for me.
