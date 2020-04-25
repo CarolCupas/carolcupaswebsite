@@ -1,7 +1,7 @@
 ---
 title: A life of 24 hours
 date: 2020-03-23T23:00:00.000+00:00
-thumb_img_path: ''
+thumb_img_path: "/images/CC Quintas d Molinas.jpg"
 content_img_path: "/images/CC Casa campo lago.jpg"
 excerpt: Living the present is a gift, laugh and share smiles today, put on your best
   outfit today, call your loved ones and tell them how much you miss them, hanging
@@ -13,8 +13,6 @@ hide_header: false
 permalink: a-life-of-24hours
 
 ---
-![](/images/CC Quintas d Molinas.jpg)
-
 Living one day at a time knowing that tomorrow is not promised for anyone, makes me appreciate what is really valuable. I am aware of life is fleeting and everything can change when you least expect it.
 
 I have always thought that it's important to plan, not to postpone anything for later, and not to make decisions lightly, but there must be a balance. I meditate before deciding to do something, I evaluate scenarios in my mind and confess that things can accumulate and I get to worry about things that have not happened yet or that I can not change, so I remember the following verse of the bible:
