@@ -1,12 +1,12 @@
 ---
 title: Transición
 subtitle: Año sabático y las oportunidades
-date: 2020-03-22 23:00:00 +0000
+date: 2020-03-22T23:00:00.000+00:00
 thumb_img_path: ''
 excerpt: La rutina me aburre por lo que los cambios ocurren a menudo en mi vida, desde
   un nuevo color de cabello hasta cambiar de país de residencia. Evidentemente los
-  retos que conllevan algunos cambios son más desafiantes que otros por lo que durante
-  esta nueva faceta de mi vida experimento algunos a nivel profesional.
+  cambios conllevan algunos retos que son más desafiantes que otros. Durante esta
+  nueva faceta de mi vida, experimento algunos a nivel profesional.
 hide_header: false
 layout: post
 content_img_path: "/images/CC rubia.jpg"
