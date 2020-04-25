@@ -13,15 +13,11 @@ permalink: without-precedents
 ---
 Yesterday, while returning from a short walk with one of my pets, I met a neighbor in a little park in front of my building, due to health's recommendations state people must keep a safe distance (1 meter) between all, I stopped to wait for he to go ahead but I noticed that she did the same. After indicating to her that she could continue and I realized she wiped away some tears of her eyes, I was puzzled and wondered ¿what happened? Then, as if she was reading my thoughts, told me that she was sad and missed seeing to her son whom she used to see in the park daily, she lives alone and although they talk on the phone, it is not the same. It broke my heart to listen to her, my instinct was to comfort her (I would have liked to offer her my shoulder). I said to her that soon everything will happen and to trust God who protects us. Then, she thanked me and said goodbye.
 
-For a while, I was thinking about her and the situation that many elderly people like her, live and how at this moment, the loneliness hits them.
+For a while, I was thinking about her and the situation that many elderly people live like her, and at times like this, the loneliness hits them.
 
-Young people are familiarized to use technology to entertain ourselves however many of the old people have problems seeing well, their pulse trembles and spend hours in front of a screen is difficult for them. A few days ago, I could to speak with my grandma by video call, it was a blessing having to my cousin to help her to do the call because my grandma doesn't have a smartphone, she prefers the classic phone with keys.
+Young people are familiar with using technology to entertain ourselves however many of the old people have trouble seeing well, their pulse trembles, and spending hours in front of a screen is difficult for them. A few days ago, I talked to my grandma by video call, it was a blessing that my cousin helped her to make the call because my grandma doesn't have a smartphone, she prefers the classic phone with buttons to press the numbers.
 
-Stay isolated for many days has been hard also for me. I really want to go to the beach, hear the sea sound, and feel the breeze. Somehow, I think nothing will be the same, we'll a bit skeptical greeting, meeting, or bathing in the pool with unknown people.
-
-Las personas jóvenes estamos acostumbrados a utilizar tecnología para entretenernos en nuestro día a día pero a muchos ancianos se les dificulta ver, les tiembla el pulso y les cuesta pasar horas frente a una pantalla. Hace unos días, pude conversar con mi abuela por videollamada, es una bendición que mi prima la ayudara para poder hacerlo porque mi abuela no tiene un _smatphone_, prefiere un teléfono con botones para pulsar los números.
-
-Permanecer aislados por tantos días, ha sido difícil hasta para mí y tengo muchas ganas de salir a una playa, oír el sonido del mar y sentir la brisa. Creo que de cierto modo ya nada volverá a ser igual, seremos un poco escépticos al saludar, al reunirnos e incluso bañarse en una piscina o playa con extraños.
+Staying isolated for many days has also been hard for me. I really want to go to the beach, listen to the sound of the sea, and feel the breeze. Somehow, I think nothing will be the same, we'll a bit skeptical to say hello, meet, or bath in the pool with strangers.
 
 I don't know if I will get older but I would not like to spend my old age alone. Whose are married or have children, probably won't be alone but the reality is that a lot of old people are abandoned for their families as if they don't know that someday they too to get older.
 
