@@ -1,6 +1,6 @@
 ---
 title: Perfil profesional
-subtitle: Experiencias profesionales
+subtitle: ''
 img_path: "/images/CC profesional arte.jpg"
 layout: page
 permalink: perfil-profesional
@@ -16,15 +16,36 @@ Siendo consciente de la transformación digital que muchas empresas experimentan
 
 ## Experiencia Profesional
 
-He tenido oportunidad de trabajar en diferentes empresas del sector bancario, tecnológico y consultoría en general con clientes internacionales, siendo requerido el idioma inglés.
-
-A lo largo de mi carrera, he desempeñado distintos roles desde analista de sistemas, arquitecta de BI, líder de calidad del departamento de operaciones y Project manager.
+A lo largo de mi carrera, he desempeñado distintos roles desde analista de sistemas, arquitecta de BI, líder de calidad del departamento de operaciones y Project manager con clientes internacionales, siendo requerido el habla del idioma inglés.
 
 > Tengo experiencia en diseño de base de datos, preparación de requerimientos de nuevos proyectos, establecer los procesos departamentales, definir estándares de calidad, medición de KPIs, generación de informes, supervisar y gestionar la carga de trabajo de un equipo, contratar y entrenar personal, entre muchas otras.
 
+### NEXT IBS
+
+#### Academic Department Advisor - Convenio Prácticas
+
+_Julio 2019 - Septiembre 2019 (3 meses), Madrid_
+
+1. Investigar referencias actuales de Artificial Intelligence, Big Data, Business Intelligence, Innovación, IOT, Ciberseguridad, RGPD, Cloud solutions, metodologías ágiles entre otras.
+2. Revisar el plan de estudios y contenidos académicos vigentes para analizar relevancia.
+3. Editar y crear nuevo material académico del máster de Big Data & Business Intelligence.
+4. Coordinar llamadas semanales de seguimiento y utilizar KANBAN para monitorear avances
+
+### NVIA
+
+#### Big Data Analyst - Convenio Prácticas
+
+_Febrero 2019 - Abril 2019 (3 meses), Madrid_
+
+1. Identificar requerimientos de negocio, recomendar herramientas de análisis de datos, optimizar el procesamiento, y establecer un flujo de trabajo.
+2. Crear un modelo de base de datos en el cloud de Azure (catálogos, vistas y trabajos automatizados).
+3. Recopilar, limpiar e importar los datos existentes y de nuevas fuentes externas.
+4. Examinar datos de marketing extraídos de las APIs ClickMeter y Youtube Analytics.
+5. Diseñar informes / visualizaciones con PowerBI.
+
 ### Control Risks
 
-Control Risks es una organización global comprometida a impulsar una cultura de alto rendimiento, innovación y una verdadera experiencia de una sola compañía trabajando. Dentro del área de Legal Technologies ofrece servicios de eDiscovery y consultoría especializada donde colaboré por cinco años desempeñando diferentes roles.
+Control Risks es una organización global comprometida a impulsar una cultura de alto rendimiento, innovación y una verdadera experiencia de una sola compañía trabajando. Dentro del área de Legal Technologies ofrece servicios de eDiscovery y consultoría especializada donde colaboré por un poco más cinco años desempeñando diferentes roles.
 
 ![](/images/CC CR Navidad.jpg)
 
@@ -86,13 +107,13 @@ _Diciembre 2007 - Mayo 2009 (1 año 6 meses), Panamá_
 
 ### Ultimus
 
-Empresa de tecnoñogía pionera en el software de Business Process Management (BPM) dedicada a ofrecer los servicios y el soporte para la automatización eficiente de procesos de negocio que cualquier industria.
+Empresa de tecnología pionera en el software de Business Process Management (BPM) dedicada a ofrecer los servicios y el soporte para la automatización eficiente de procesos de negocio que cualquier industria.
 
 #### Support Analyst
 
 _Julio 2007 - Noviembre 2007 (6 meses), Panamá_
 
-1. Analizar las incidencias de los clientes en Ultimus y brindar soluciones en sitio 
+1. Analizar las incidencias de los clientes en Ultimus y brindar soluciones en sitio
 2. Recopilar requerimientos técnicos de los clientes y colaborar con el análisis de procesos
 3. Diseñar e implementar procesos de flujo de trabajos (BPMs) con C Sharp y Visual Studio.NET
 
