@@ -21,4 +21,4 @@ _Honestly, the idea of starting my own business is becoming really attractive la
 
 Of course, standing idly by is not my thing, so I spend my time doing volunteer work, learning something new as creating a website among other things. I know that time is valuable therefore I invest it in what produces value or wellness.
 
-Nothing of above would be possible if I don't strive to do my best on everything I do and put my trust in God, that's why the promise of Mark 9:23 is my favorite one: "_If you can’? said Jesus, **Everything is possible for one who believes.**"_. The word 'everything' followed by the word "POSSIBLE" makes an enormous difference in my life.
+None of the above would be possible for me if I don't make an effort to give my best on everything I do and place my trust in God, that's why the promise of Mark 9:23 (NIV) is my favorite one: "_If you can’? said Jesus, **Everything is possible for one who believes.**"_. The word 'EVERYTHING' followed by the word 'POSSIBLE' makes an enormous difference in my life.
