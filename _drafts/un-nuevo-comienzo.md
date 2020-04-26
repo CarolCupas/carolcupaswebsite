@@ -20,7 +20,7 @@ A couple of years ago, I decided to give a twist to my day to day, therefore I l
 
 Since I completed all my studies in my country, I explored the options to study abroad. After two months, I received the call that changed everything, I got a scholarship to study a master degree in Big Data & BI in Madrid, What a thrill!
 
-That's how I quit my job, said goodbye to my family and friends, and undertook my journey to Madrid with my husband Marvin. But it was until we got on the aircraft seat to the Barajas airport that I finally had time to assimilate all the changes that came with migrating to a country so far from home.
+That's how I quit my job, said goodbye to my family and friends, and set off my journey to Madrid with my husband Marvin. But it was until we got on the aircraft seat to the Barajas airport that I finally had time to assimilate all the changes that came with migrating to a country so far from home.
 
 Despite the fact that almost every year, I took vacations and visited many new places, moving to another continent for at least one year, it was too different, this implies starting from scratch: friendships, meals, spots, idioms, in conclusion, a new lifestyle.
 
