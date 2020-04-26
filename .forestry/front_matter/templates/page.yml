@@ -32,5 +32,6 @@ fields:
   hidden: false
 pages:
 - test-contact-me.md
+- test-education.md
 - test-professional-profile.md
 - test.md
