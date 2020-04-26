@@ -17,13 +17,11 @@ Upon the master's degree graduation, I have experienced a new phase of job searc
 
 Today, finding a job is almost a job and I have had several interviews so far, but these companies are not willing to offer me a contract to process the work permit (perhaps due to ignorance of the process). Despite that, the good side is my profile fits what they are looking for.
 
-_Honestly, the idea to start my own business is really attractive lately, what stop a little is to face the reality of needing incomes    soon._
+_Honestly, the idea of starting my own business is becoming really attractive lately, what slows me down a bit is to face the reality of the need to earn income soon._
 
-Of course, stand idly by is not my thing, so I invest my time doing volunteer work, learning something new as create a website between others things. I know that time is valued therefore I intend to use it doing what produces value or wellness.
+Of course, stand idly by is not my thing, so I invest my time doing volunteer work, learning something new as create a website between other things. I know that time is valued therefore I intend to use it doing what produces value or wellness.
 
-Nothing of above was possible if I don't strive to do my best on everything I do and put my trust in God, that's why the promise  of Mark 9:23 is my favorite one: "If you can’? said Jesus. **_Everything is possible for one who believes._**". The word 'everything' follows by the word "POSSIBLE" make an enormous difference in my life.
-
-_Honestamente, la idea de **emprender** mi propio negocio cada vez me resulta más atractiva, lo que me retiene un poco es el tener que enfrentarme a la realidad de necesitar ingresos para hoy._
+Nothing of above was possible if I don't strive to do my best on everything I do and put my trust in God, that's why the promise of Mark 9:23 is my favorite one: "If you can’? said Jesus. **_Everything is possible for one who believes._**". The word 'everything' follows by the word "POSSIBLE" makes an enormous difference in my life.
 
 Por supuesto, quedarme de brazos cruzados no es lo mío, así que ocupo mi tiempo haciendo voluntario, aprendiendo algo nuevo como crear un website, entre otras cosas. Sé que el tiempo es valioso y por eso lo invierto en aquello que pueda generar valor o bienestar.
 
