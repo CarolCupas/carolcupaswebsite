@@ -31,4 +31,5 @@ fields:
   label: permalink
   hidden: false
 pages:
+- test-contact-me.md
 - test.md
