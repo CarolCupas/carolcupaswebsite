@@ -13,13 +13,9 @@ content_img_path: "/images/CC rubia.jpg"
 permalink: transition
 
 ---
-At the end of the master, I have experienced a new phase of searching job in Madrid. The foreigns (majority) have to be highly qualified to get the sponsorship of a company to get the work permission or wait for meet a number of years.
+Upon the master's degree graduation, I have experienced a new phase of job search in Madrid. Foreigners (majority) have to be highly qualified to obtain the sponsorship of a company to process the work permit or wait out an interval of years.
 
-Today, search a job is almost a job and I have had several interviews so far but these companies are not willing to offer me a contract to process the work permission (perhaps for unknowledge of process). Despite that, the good side is my profile fits with what they are looking for.
-
-Al terminar el máster, estoy experimentando una nueva fase de búsqueda de empleo en Madrid dado que las personas extranjeras (_en su mayoría_) tenemos que ser altamente cualificadas  para que una empresa gestione los trámites legales para obtener el visado de trabajo o esperar a que pase un intervalo de años.
-
-Hoy, buscar trabajo es casi un trabajo y ciertamente he tenido muchas entrevistas pero por el momento, esas empresas no gestionan los trámites que la oficina de extranjería requieren (quizás por desconocimiento del proceso). A pesar de todo, el lado positivo es que perfil profesional les gusta pero sin el visado, no me ofrecen la oportunidad.
+Today, finding a job is almost a job and I have had several interviews so far, but these companies are not willing to offer me a contract to process the work permit (perhaps due to ignorance of the process). Despite that, the good side is my profile fits what they are looking for.
 
 _Honestly, the idea to start my own business is really attractive lately, what stop a little is to face the reality of needing incomes    soon._
 
