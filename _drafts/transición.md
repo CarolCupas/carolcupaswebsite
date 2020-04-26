@@ -1,6 +1,6 @@
 ---
 title: Transition
-subtitle: Año sabático y las oportunidades
+subtitle: One sabatic year and opportunities
 date: 2020-03-22T23:00:00.000+00:00
 thumb_img_path: ''
 excerpt: The routine bores me and for that, the changes often occur in my life. From
@@ -13,6 +13,10 @@ content_img_path: "/images/CC rubia.jpg"
 permalink: transition
 
 ---
+At the end of the master, I have experienced a new phase of searching job in Madrid. The foreigns (majority) have to be highly qualified to get the sponsorship of a company to get the work permission or wait for meet a number of years.
+
+Today, search a job is almost a job and I have had several interviews so far but these companies are not willing to offer me a contract to tramit my work permission (perhaps for unknowledge of process). Despite that, the good side is the my profile fits with what they are looking for.
+
 Al terminar el máster, estoy experimentando una nueva fase de búsqueda de empleo en Madrid dado que las personas extranjeras (_en su mayoría_) tenemos que ser altamente cualificadas  para que una empresa gestione los trámites legales para obtener el visado de trabajo o esperar a que pase un intervalo de años.
 
 Hoy, buscar trabajo es casi un trabajo y ciertamente he tenido muchas entrevistas pero por el momento, esas empresas no gestionan los trámites que la oficina de extranjería requieren (quizás por desconocimiento del proceso). A pesar de todo, el lado positivo es que perfil profesional les gusta pero sin el visado, no me ofrecen la oportunidad.
