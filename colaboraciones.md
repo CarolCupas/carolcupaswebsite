@@ -3,6 +3,8 @@ img_path: "/images/carol lateral arte.jpg"
 title: Colaboraciones
 layout: page
 permalink: colaboraciones
+lang: es
+translate-ref: collaborations
 menu:
   main:
     weight: 3
