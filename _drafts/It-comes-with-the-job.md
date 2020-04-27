@@ -9,6 +9,8 @@ excerpt: Algunas veces nos encontramos en situaciones que nos sacan de onda y cu
 layout: post
 hide_header: false
 permalink: It-comes-with-the-job
+lang: en
+translate-ref: gajes-del-oficio
 
 ---
 Knowing there are so many negative things in the world, I'm going to avoid wasting time writing about it, so this post isn't about haters (toxic people) but how to react and deal with them.
