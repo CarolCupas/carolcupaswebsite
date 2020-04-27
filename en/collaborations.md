@@ -3,6 +3,9 @@ layout: page
 title: Collaborations
 subtitle: ''
 img_path: "/images/carol lateral arte.jpg"
+permalink: collaborations
+lang: en
+translate-ref: colaboraciones
 published: false
 
 ---
