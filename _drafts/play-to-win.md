@@ -11,7 +11,6 @@ hide_header: false
 permalink: play-to-win
 
 ---
-
 ![](/images/CC london arte.png)
 
 ¿Who doesn't like to get one's your own way?
