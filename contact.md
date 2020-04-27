@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: test Contact me
+title: Contact me
 subtitle: ''
 img_path: "/images/CC cocktail.jpg"
 published: false
