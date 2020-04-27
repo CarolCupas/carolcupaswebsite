@@ -10,6 +10,8 @@ layout: post
 subtitle: Adventures migrating to a new country
 hide_header: false
 permalink: It-is-a-new-day
+lang: en
+translate-ref: un-nuevo-comienzo
 
 ---
 ![](/images/CC taxi arte.jpg)
