@@ -9,6 +9,8 @@ excerpt: When we don't look away from the right place, it's easier to focus on t
 layout: post
 hide_header: false
 permalink: perspective-adjustments
+lang: en
+translate-ref: ajustes-de-perspectiva
 
 ---
 Regularly, I read books, online articles, etc.  and one day I found a phrase that I think is accurate, it says: 
