@@ -1,7 +1,7 @@
 ---
 title: Ajustes de perspectiva
 subtitle: ''
-date: 2020-03-24 23:00:00 +0000
+date: 2020-03-24T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: "/images/Carol Cupas Madrid Rio 2019.jpg"
 excerpt: Cuando no desviamos la mirada del lugar correcto, resulta mucho más sencillo
