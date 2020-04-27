@@ -3,6 +3,9 @@ layout: page
 title: Education
 subtitle: ''
 img_path: "/images/CC BDBI.jpg"
+permalink: education
+lang: en
+translate-ref: preparacion-academica
 published: false
 
 ---
