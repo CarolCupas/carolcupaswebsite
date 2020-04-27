@@ -10,6 +10,9 @@ excerpt: La rutina me aburre por lo que los cambios ocurren a menudo en mi vida,
 hide_header: false
 layout: post
 content_img_path: "/images/CC rubia.jpg"
+permalink: transicion
+lang: es
+translate-ref: transition
 
 ---
 Al terminar el máster, estoy experimentando una nueva fase de búsqueda de empleo en Madrid dado que las personas extranjeras (_en su mayoría_) tenemos que ser altamente cualificadas  para que una empresa gestione los trámites legales para obtener el visado de trabajo o esperar a que pase un intervalo de años.
