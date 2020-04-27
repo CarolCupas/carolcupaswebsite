@@ -4,6 +4,8 @@ subtitle: ''
 img_path: "/images/CC BDBI.jpg"
 layout: page
 permalink: preparacion-academica
+lang: es
+translate-ref: professional-profile
 menu:
   main:
     title: Estudios
