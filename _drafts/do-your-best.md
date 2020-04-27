@@ -10,6 +10,8 @@ excerpt: I've heard that dreaming costs nothing, but perhaps not dreaming comes 
   the unimaginable.
 hide_header: false
 permalink: do-your-best
+lang: en
+translate-ref: el-mejor-intento
 
 ---
 The popular proverb is "_the worst attempt is the one that is not done_" but I like my own version more: "_the **best** attempt is the one that is done_". The meaning is the same, however changing words, the connotation of the sentence is different, from negative (worst) to positive (best).
