@@ -11,6 +11,8 @@ excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que ha
 layout: post
 hide_header: false
 permalink: acerca-de-mi
+lang: es
+translate-ref: about-me
 
 ---
 ![](/images/CC My life.jpg)
