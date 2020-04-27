@@ -2,13 +2,15 @@
 layout: post
 title: El mejor intento
 subtitle: ''
-date: 2020-04-03 22:00:00 +0000
+date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: "/images/CC tren.jpg"
 content_img_path: "/images/CC Portrait design 3.jpg"
 excerpt: 'He escuchado que soñar no cuesta nada pero quizás no soñar sí conlleve un
   alto precio porque cierra las posibilidades de explorar y alcanzar lo inimaginable. '
 hide_header: false
 permalink: el-mejor-intento
+lang: es
+translate-ref: do-your-best
 
 ---
 El refrán es "el peor intento es el que no se hace" pero me gusta más mi versión "**_el mejor intento es el que se hace_**", la idea central es la misma pero las palabras usadas dan una connotación distinta a la oración, de negativa (peor) a positiva (mejor).
