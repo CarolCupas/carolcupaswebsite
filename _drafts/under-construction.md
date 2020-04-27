@@ -10,6 +10,8 @@ excerpt: 'At one time, I was a person who expected the best from other people un
   chances are necessary, that no one is perfect and if we strive, everything can improve.'
 hide_header: false
 permalink: posts/under-construction
+translate-ref: obra-en-construccion
+lang: en
 
 ---
 ¿Have you heard the phrase "no one can give what they don't have"? At times, I have had high expectations of people, especially those closest to me (family and friends). However, on more than one occasion, I have been disappointed and felt downhearted.
