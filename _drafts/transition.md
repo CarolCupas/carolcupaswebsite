@@ -11,6 +11,8 @@ hide_header: false
 layout: post
 content_img_path: "/images/CC rubia.jpg"
 permalink: transition
+lang: en
+translate-ref: transicion
 
 ---
 Upon the master's degree graduation, I have experienced a new phase of job search in Madrid. Foreigners (majority) have to be highly qualified to obtain the sponsorship of a company to process the work permit or wait out an interval of years.
