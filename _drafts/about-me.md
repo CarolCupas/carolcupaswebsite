@@ -11,6 +11,8 @@ excerpt: 'I once read that there are three kinds of people in the world: 1. Peop
 layout: post
 hide_header: false
 permalink: about-me
+lang: en
+translate-ref: acerca-de-mi
 
 ---
 ![](/images/CC My life.jpg)
