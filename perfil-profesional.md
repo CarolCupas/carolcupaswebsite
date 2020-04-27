@@ -4,6 +4,8 @@ subtitle: ''
 img_path: "/images/CC profesional arte.jpg"
 layout: page
 permalink: perfil-profesional
+lang: es
+translate-ref: professional-profile
 menu:
   main:
     weight: 2
