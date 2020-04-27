@@ -59,7 +59,7 @@ fields:
     required: true
   label: translate-ref
 pages:
-- _posts/2020-04-03-agente-de-cambio.md
 - _posts/agent-of-change.md
+- _posts/agente-de-cambio.md
 - _posts/do-your-best.md
 - _posts/el-mejor-intento.md

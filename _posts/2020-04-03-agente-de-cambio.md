@@ -8,6 +8,8 @@ content_img_path: "/images/Carol nov2019.jpeg"
 excerpt: Cuando queremos que las cosas cambien debemos ponernos manos a la obra.
 hide_header: false
 permalink: agente-de-cambio
+lang: es
+translate-ref: agent-of-change
 
 ---
 Constantemente me recuerdo a mí misma "**sé** el cambio que quieras ver". Sin duda alguna, el mundo tal como lo conocemos necesita cambiar para bien o acabaremos por ser la siguiente especie en peligro de extinción.
