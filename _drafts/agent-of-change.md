@@ -8,6 +8,8 @@ content_img_path: "/images/Carol nov2019.jpeg"
 excerpt: When we want that things to change, we must get down to work.
 hide_header: false
 permalink: agent-of-change
+lang: en
+translate-ref: agente-de-cambio
 
 ---
 Constantly, I remind myself "**be** the change that you want to see". Without a doubt, the world, as we know it, needs to change for the best, or we'll the next endangered specie.
