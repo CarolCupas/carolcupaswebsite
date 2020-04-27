@@ -15,5 +15,23 @@ fields:
   default: home
   config:
     required: true
+- name: tema
+  type: boolean
+  label: Tema
+  description: Fondo claro o oscuro
+- name: lenguaje
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - es
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Lenguaje
 pages:
 - index.md
