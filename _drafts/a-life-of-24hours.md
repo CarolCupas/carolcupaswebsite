@@ -11,6 +11,8 @@ layout: post
 subtitle: ''
 hide_header: false
 permalink: a-life-of-24hours
+lang: en
+translate-ref: vida-de-24-horas
 
 ---
 Living one day at a time knowing that tomorrow is not promised for anyone, makes me appreciate what is really valuable. I am aware of life is fleeting and everything can change when you least expect it.
