@@ -1,8 +1,11 @@
 ---
 layout: page
-title: test Professional profile
+title: Professional profile
 subtitle: ''
 img_path: "/images/CC profesional arte.jpg"
+permalink: professional-profile
+lang: en
+translate-ref: perfil-profesional
 published: false
 
 ---
