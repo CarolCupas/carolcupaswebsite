@@ -47,6 +47,17 @@ fields:
   config:
     required: false
   label: permalink
+- name: lang
+  type: text
+  config:
+    required: true
+  label: lang
+  default: es
+- name: translate-ref
+  type: text
+  config:
+    required: true
+  label: translate-ref
 pages:
 - _posts/2020-04-03-agente-de-cambio.md
 - _posts/2020-04-03-el-mejor-intento.md
