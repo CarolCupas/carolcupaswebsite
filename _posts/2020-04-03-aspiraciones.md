@@ -2,7 +2,7 @@
 layout: post
 title: Aspiraciones
 subtitle: ''
-date: 2020-04-03 22:00:00 +0000
+date: 2020-04-03T22:00:00.000+00:00
 thumb_img_path: "/images/CC montana.jpg"
 content_img_path: "/images/CC Portrait design 2.jpg"
 excerpt: 'A pesar de que la pregunta ¿cuáles son tus aspiraciones? es como una constante
