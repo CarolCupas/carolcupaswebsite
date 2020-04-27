@@ -8,6 +8,9 @@ content_img_path: "/images/CC Portrait design 2.jpg"
 excerpt: 'A pesar de que la pregunta ¿cuáles son tus aspiraciones? es como una constante
   en las entrevistas de trabajo las respuestas suelen ser variables.  '
 hide_header: false
+translate-ref: aspirations
+lang: es
+permalink: aspiraciones
 
 ---
 Las personas cambiamos y nuestras aspiraciones también. Si hoy tuviera que responder a ¿cómo me veo dentro de 5 años?, cualquier respuesta me resultaría absurda. Al mirar a la Carol de hace cinco años atrás, le pudiera decir "_no tienes idea_" y es que casi nada de lo que he vivido en los últimos años, lo imaginé tal y como fué, a su manera, ha sido mejor.
