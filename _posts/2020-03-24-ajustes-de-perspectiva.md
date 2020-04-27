@@ -8,6 +8,9 @@ excerpt: Cuando no desviamos la mirada del lugar correcto, resulta mucho más se
   enfocarnos hacia la dirección adecuada que nos lleve a la meta.
 layout: post
 hide_header: false
+permalink: ajustes-de-perspectiva
+lang: es
+translate-ref: perspective-adjustments
 
 ---
 Suelo leer con regularidad libros, artículos en la web, etc. y un día me encontré con una frase que creo que es acertada, dice:
