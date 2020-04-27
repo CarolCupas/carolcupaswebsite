@@ -6,6 +6,8 @@ img_path: "/images/CC BDBI.jpg"
 published: false
 
 ---
+# Studies
+
 #### Master's degree in Big Data & Business Intelligence
 
 Next IBS & Universitat de Lleida, Madrid (2018 - 2019)
@@ -26,7 +28,7 @@ University Latina of Panama (2010 - 2011)
 
 Technological University of Panama (1999 - 2005)
 
-### Skills
+# Skills
 
 #### Analysis
 
@@ -103,8 +105,7 @@ Technological University of Panama (1999 - 2005)
 * Tableau - C2
 * Crystal Reports - C2
 
-
-### Cursos adicionales
+# Additional Courses
 
 #### Foundational Computer Science: Web Applications Developer
 
