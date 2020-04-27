@@ -9,6 +9,8 @@ excerpt: Sometimes I win and sometimes I lose, but I never give up. Enjoy each r
   because even when you lose, mistakes help us learn what not to do.
 hide_header: false
 permalink: play-to-win
+lang: en
+translate-ref: jugar-para-ganar
 
 ---
 ![](/images/CC london arte.png)
