@@ -8,6 +8,9 @@ content_img_path: "/images/CC pinkpanter.jpg"
 excerpt: A veces gano y otras pierdo pero nunca me rindo. Disfruta cada partida porque
   aún si no ganas, los errores sirven para aprender que no se debe hacer.
 hide_header: false
+translate-ref: play-to-win
+lang: es
+permalink: jugar-para-ganar
 
 ---
 ![](/images/CC london arte.png)
