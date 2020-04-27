@@ -11,6 +11,8 @@ layout: post
 subtitle: ''
 content_img_path: "/images/CC ML AC.jpg"
 permalink: friendship-without-frontiers
+lang: en
+translate-ref: amigos-sin-fronteras
 
 ---
 Around the world, there are uncountable beliefs and I respect these due we are free to choose whether or not to believe in the God who created and loved us so much to send his unique son to rescue us. For me, life has not been a journey of roses but knowing Jesus Christ has been a blessing. Since childhood, I have had a special relationship with him, he was the imaginary friend that many children usually have. My education was in a catholic school and I attend mass with my family on Sundays.
