@@ -9,6 +9,8 @@ excerpt: Although the question ¿what are your aspirations? is constant in job i
   the responses are usually variable
 hide_header: false
 permalink: aspirations
+lang: en
+translate-ref: aspiraciones
 
 ---
 People change and their aspirations as well. If today, I had to respond to ¿how do I look within 5 years? any answer would be absurd. Looking at my version from five years ago, I could say "you don't have an idea" and it's because almost nothing that I have experienced in recent years, happened as I imagined, someway, has been even better.
