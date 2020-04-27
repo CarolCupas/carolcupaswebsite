@@ -9,6 +9,8 @@ excerpt: The 2020 has marked a before and after in the way we relate to others. 
   separated us all in our homes bringing the sadness with it.
 hide_header: false
 permalink: without-precedents
+lang: en
+translate-ref: sin-precedentes
 
 ---
 Yesterday, while returning from a short walk with one of my pets, I met a neighbor in a little park in front of my building, due to health's recommendations state people must keep a safe distance (1 meter) between all, I stopped to wait for he to go ahead but I noticed that she did the same. After indicating to her that she could continue and I realized she wiped away some tears of her eyes, I was puzzled and wondered ¿what happened? Then, as if she was reading my thoughts, told me that she was sad and missed seeing to her son whom she used to see in the park daily, she lives alone and although they talk on the phone, it is not the same. It broke my heart to listen to her, my instinct was to comfort her (I would have liked to offer her my shoulder). I said to her that soon everything will happen and to trust God who protects us. Then, she thanked me and said goodbye.
