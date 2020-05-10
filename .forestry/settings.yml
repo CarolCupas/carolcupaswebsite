@@ -64,7 +64,7 @@ sections:
   - site_menus
 upload_dir: images
 public_path: "/images"
-front_matter_path: "/en"
+front_matter_path: "/es"
 use_front_matter_path: true
 file_template: ":filename:"
 build:
