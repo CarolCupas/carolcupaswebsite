@@ -5,6 +5,13 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e6fdd9456d937001b819f5d/webhook/forestry
 sections:
 - type: directory
+  path: en
+  label: EN
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
   path: es
   label: ES
   create: all
