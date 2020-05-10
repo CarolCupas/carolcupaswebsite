@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e6fdd9456d937001b819f5d/webhook/forestry
 sections:
+- type: directory
+  path: es
+  label: ES
+  create: all
+  match: "**/*"
 - type: document
   path: documents
   label: Documentos
