@@ -6,7 +6,6 @@ img_path: "/images/carol lateral arte.jpg"
 permalink: collaborations
 lang: en
 translate-ref: colaboraciones
-published: false
 
 ---
 I have been tremendously privileged to meet bright people and be able to collaborate with some of their magnificent projects, such as:
