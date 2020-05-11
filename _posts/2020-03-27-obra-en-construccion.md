@@ -10,7 +10,7 @@ excerpt: 'En un tiempo, fui una persona que esperaba lo mejor de las demás pers
   las segundas oportunidades son necesarias, que nadie es perfecto y que si nos esforzamos,
   las cosas pueden mejorar.'
 hide_header: false
-permalink: posts/obra-en-construccion
+permalink: obra-en-construccion
 lang: es
 translate-ref: under-construction
 
