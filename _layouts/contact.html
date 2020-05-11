@@ -31,15 +31,15 @@ layout: body
             </p> -->
             <p class="form-row">
               <label class="form-label">Email *</label>
-              <input type="email" name="email" placeholder="Tu email..." class="form-input">
+              <input type="email" name="email" placeholder="Email..." class="form-input">
             </p>
             <p class="form-row">
               <label class="form-label">Mensaje *</label>
-              <textarea name="message" placeholder="Tu mensaje..." class="form-textarea" rows="7"></textarea>
+              <textarea name="message" placeholder="Mensaje..." class="form-textarea" rows="7"></textarea>
             </p>
             <input type="hidden" name="form-name" value="contactForm" />
             <p class="form-row">
-              <button type="submit" class="button">Enviar</button>
+              <button type="submit" class="button">{{ site.data.translations['formButton'][page.lang] }}</button>
             </p>
           </form><!-- .contact-form -->
         </div><!-- .post-content -->

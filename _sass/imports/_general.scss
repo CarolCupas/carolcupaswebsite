@@ -99,6 +99,20 @@ a {
     color: _palette(mediumaquamarine);
   }
 }
+
+//mi clase para el link de idiomas
+.linklang {
+  font-size: 20px;
+  //text-align: right;
+  //display: block;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 5px;
+  padding: 5px;
+  justify-content: right;
+  
+}
+
 h1,
 h2,
 h3,

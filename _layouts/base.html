@@ -18,6 +18,18 @@
         }
     </script>
 
+    <!-- Incluido para elegir idioma -->
+    <!-- {% assign pages_list = site.pages | where:"lang", page.lang %} -->
+    {% if page.layout != 'home' %}
+     {% assign posts=site.posts | where:"translate-ref", page.translate-ref | sort: 'lang' | where:"lang", page.lang %}
+
+        {% if posts.size == 0 %}
+         {% assign posts=site.pages | where:"translate-ref", page.translate-ref | sort: 'lang' | where:"lang", page.lang %}
+        {% endif %}
+        
+    {% endif %}
+    <!-- fin idioma -->
+
     <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} -
         {% endif %}{{ site.title }}</title>
     <meta charset="utf-8">
@@ -40,13 +52,13 @@
 </head>
 
 <body>
-    
+
 
     {{ content }}
     <!-- Scripts -->
     <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
     <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
-    
+
     <!-- Modo oscuro -->
     <script src="{{ 'assets/js/mode-switcher.js' | relative_url }}"></script>
 </body>
