@@ -59,5 +59,4 @@ fields:
     required: true
   label: translate-ref
 pages:
-- _posts/2020-04-03-agent-of-change.md
-- _posts/2020-04-03-do-your-best.md
+- _posts/palabras-poderosas.md
