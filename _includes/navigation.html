@@ -6,7 +6,7 @@
          {% assign menu_list = site.pages | where:"lang", page.lang | sort:'title' %}
          <!-- <p>{{menu_list | json}}</p> -->
         {% for item in menu_list  %}
-        {% if item.name != "404.md"%} 
+        {% if item.name != "404.md" and item.title != "home"%} 
         <li class="menu-item {% if page.url == item.url %} current-menu-item{% endif %}">
           <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
         </li>  

@@ -1,5 +1,5 @@
 ---
-#title: 
+title: "home"
 layout: home
 lang: es
 translate-ref: index
