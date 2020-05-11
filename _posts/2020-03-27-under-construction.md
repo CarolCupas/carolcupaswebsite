@@ -9,7 +9,7 @@ excerpt: 'At one time, I was a person who expected the best from other people un
   they showed me the opposite, from there: arrivederci. Today, I recognize that second
   chances are necessary, that no one is perfect and if we strive, everything can improve.'
 hide_header: false
-permalink: posts/under-construction
+permalink: under-construction
 translate-ref: obra-en-construccion
 lang: en
 
