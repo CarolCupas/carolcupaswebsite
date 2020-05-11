@@ -1,10 +1,9 @@
 ---
 title: Blog
 layout: home
-tema: true
+#tema: true
 lang: es
 translate-ref: index
-#permalink: /blog
 menu:
   main:
     weight: 9
