@@ -3,20 +3,26 @@
   <div class="site-nav-wrap">
     <div class="site-nav-inside">
       <ul class="menu">
-        {% for item in site.menus.main %}
+         {% assign menu_list = site.pages | where:"lang", page.lang | sort:'title' %}
+         <!-- <p>{{menu_list | json}}</p> -->
+        {% for item in menu_list  %}
+        {% if item.name != "404.md"%} 
         <li class="menu-item {% if page.url == item.url %} current-menu-item{% endif %}">
           <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        </li>
+        </li>  
+        {% endif %}     
         {% endfor %}
+        
       </ul><!-- .menu -->
       {% assign has_social_is_not_empty = site.header.has_social | is_not_empty %}
       {% if has_social_is_not_empty %}
       {% include social.html %}
       {% endif %}
-        <!-- Incluido para modo oscuro -->
-        <div class="linkSwitch">
-          <a id="theme-toggle" onclick="modeSwitcher()" role="button" ></a>
-        </div>
+      <!-- Incluido para modo oscuro -->
+      <div class="linkSwitch">
+        <a id="theme-toggle" onclick="modeSwitcher()" role="button"></a>
+      </div>
+
     </div><!-- .site-nav-inside -->
   </div><!-- .site-nav-wrap -->
 </nav><!-- .site-navigation -->
