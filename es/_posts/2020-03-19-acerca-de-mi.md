@@ -1,7 +1,7 @@
 ---
 title: " Acerca de mí"
 subtitle: ''
-date: 2020-03-19T23:00:00.000+00:00
+date: '2020-03-19T23:00:00.000+00:00'
 thumb_img_path: ''
 content_img_path: "/images/CC face.jpg"
 excerpt: 'Una vez leí que hay tres tipos de personas en el mundo: 1- las que hacen
@@ -17,7 +17,7 @@ translate-ref: about-me
 ---
 ![](/images/CC My life.jpg)
 
-Si no me conoces, me describiré como una persona amable, organizada,   diplomática, responsable (cumplo con mi parte), muy analítica (busco respuestas), de principios firmes, discreta (es raro que me notes molesta aunque lo esté) y como amiga soy alguien con quien puedes contar. Algunos de mis defectos son mi limitada paciencia (odio perder el tiempo), prefiero callar cuando no tengo nada bueno que decir aunque sea mejor expresar lo que opino y no me gusta depender de otras personas.
+Si no me conoces, me describiré como una persona amable, organizada,   diplomática, responsable (cumplo con mi parte), muy analítica (busco respuestas), de principios firmes, discreta (es raro que me notes molesta aunque lo esté) y como amiga soy alguien con quien puedes contar. Algunos de mis defectos son mi limitada paciencia (odio perder el tiempo), prefiero callar cuando no tengo nada bueno que decir aunque expreso lo que opino y no me gusta depender de otras personas.
 
 Mi profesión es ingeniera de sistemas computacionales pero en un principio, mi sueño era ser veterinaria. Siempre me han gustado los caballos y perros, disfruto mucho su compañía, la habilidad que tienen para hablarnos sin palabras y la fidelidad de estos animales. Desistí de la idea luego de algunas experiencias quirúrgicas en la clínica de mi papá donde descubrí que no me gusta ver ni oler la sangre, por lo que me resultaría algo difícil ejercer la profesión.
 
