@@ -6,10 +6,9 @@ img_path: "/images/CC cocktail.jpg"
 permalink: contact-en
 lang: en
 translate-ref: contacto
-# published: false
 menu:
   main:
-    weight: 4
+    weight: 7
     title: Contact
 
 ---

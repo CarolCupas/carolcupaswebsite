@@ -7,7 +7,7 @@ lang: es
 translate-ref: collaborations
 menu:
   main:
-    weight: 3
+    weight: 6
 
 ---
 He sido sumamente privilegiada de conocer a personas brillantes y poder colaborar con algunos de sus magníficos proyectos como:

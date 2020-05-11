@@ -7,7 +7,7 @@ lang: es
 translate-ref: index
 menu:
   main:
-    weight: 5
+    weight: 9
     title: Blog
 
 ---

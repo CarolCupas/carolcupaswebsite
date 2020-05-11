@@ -8,7 +8,7 @@ lang: es
 translate-ref: professional-profile
 menu:
   main:
-    weight: 2
+    weight: 4
     title: Carrera profesional
 
 ---

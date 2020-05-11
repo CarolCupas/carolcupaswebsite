@@ -8,7 +8,7 @@ lang: es
 translate-ref: contact-en
 menu:
   main:
-    weight: 4
+    weight: 8
     title: Contacto
 
 ---

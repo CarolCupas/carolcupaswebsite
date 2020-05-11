@@ -9,7 +9,7 @@ translate-ref: education
 menu:
   main:
     title: Estudios
-    weight: 1
+    weight: 2
 
 ---
 # Estudios
