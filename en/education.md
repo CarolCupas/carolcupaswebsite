@@ -6,6 +6,10 @@ img_path: "/images/CC BDBI.jpg"
 permalink: education
 lang: en
 translate-ref: preparacion-academica
+#published: false
+menu:
+  main:
+    weight: 1
 
 ---
 # Studies

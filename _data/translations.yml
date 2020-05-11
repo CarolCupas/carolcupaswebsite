@@ -1,0 +1,21 @@
+readPosts:
+  en: "Read more"
+  es: "Leer más"
+relatedPosts:
+  en: "More Posts"
+  es: "Mas Artículos"
+errorMessage:
+  en: "Oops... page not found!"
+  es: "Oops... página no encontrada!"
+footerDisclaimer:
+  en: "&copy; All rights reserved."
+  es: "&copy; Todos los derechos reservados."
+selectLang:
+  en: "Select language"
+  es: "Seleccionar idioma"
+selectMode:
+  en: "Light / Dark Mode"
+  es: "Modo Claro / Oscuro"
+formButton:
+  en: "Submit"
+  es: "Enviar"
