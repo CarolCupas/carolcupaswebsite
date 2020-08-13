@@ -21,6 +21,9 @@ sass:
   indentWidth: 4
   style: nested
   precision: 10
+
+reCAPTCHA_key: 6LdA-L0ZAAAAAJI_x0inm8igBL17L66xyYsbF3v-
+
 plugins:
 - jekyll-menus
 exclude:
