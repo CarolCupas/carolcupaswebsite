@@ -30,6 +30,6 @@ This software keeps the historical records of vaccine applications based on Pana
 
 # DDE Project
 
-The "DDE project" as I called, consists of the creation of a website and social media for a small business of a dear friend.
+The "DDE project" as I called, consists of the creation of a website and social media for a small business of a dear friend. With my experience, I have designed her corporate image, and being the Community Manager, I design the weekly posts, generate the contents such as photographs and reviews; among other things, the analysis of media metrics.
 
 ![](/images/dde_fb_cover.png)
