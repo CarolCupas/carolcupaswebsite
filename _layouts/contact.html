@@ -38,8 +38,10 @@ layout: body
               <label class="form-label">Mensaje *</label>
               <textarea name="message" placeholder="Mensaje..." class="form-textarea" rows="7"></textarea>
             </p>
+            <p></p>
             <input type="hidden" name="form-name" value="contactForm" />
             <div class="g-recaptcha" data-sitekey="{{ site.reCAPTCHA_key }}"></div>
+            <p></p>
             <p class="form-row">
               <button type="submit" class="button">{{ site.data.translations['formButton'][page.lang] }}</button>
             </p>

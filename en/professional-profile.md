@@ -2,7 +2,7 @@
 layout: page
 title: Professional profile
 subtitle: ''
-img_path: "/es/cc_profesional.jpg"
+img_path: "/images/cc_profesional.jpg"
 permalink: professional-profile
 lang: en
 translate-ref: perfil-profesional
