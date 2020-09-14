@@ -30,8 +30,8 @@ Software de asistencia digital médica para llevar el control y adecuado seguimi
 
 ![](/images/CC iMuni.jpg)
 
-# Community Manager
+# Proyecto DDE
 
-El proyecto "DDE", como yo lo llamo ;p ... se trata de un sitio web y dos redes sociales que creé para una de mis mejores amigas y me encargo de diseñar los posts semanales, generar los contenidos como fotografías y reseñas; entre otras cosas como analizar las métricas de las redes.
+El "proyecto DDE", como yo lo llamo ;p ... se trata de la creación de un sitio web y redes sociales para un pequeño negocio de una querida amiga. Con mi experiencia, le he diseñado su imagen corporativa y siendo su Community Manager, diseño los posts semanales, genero los contenidos como fotografías y reseñas; entre otras cosas como analizar las métricas de las redes.
 
 ![](/images/dde_fb_cover.png)
