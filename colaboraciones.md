@@ -30,4 +30,8 @@ Software de asistencia digital médica para llevar el control y adecuado seguimi
 
 ![](/images/CC iMuni.jpg)
 
-Por el momento, me encuentro experimentando la creación de mi sitio web y es muy posible que dentro de poco me sumo a otra iniciativa!
+# Community Manager
+
+El proyecto "DDE", como yo lo llamo ;p ... se trata de un sitio web y dos redes sociales que creé para una de mis mejores amigas y me encargo de diseñar los posts semanales, generar los contenidos como fotografías y reseñas; entre otras cosas como analizar las métricas de las redes.
+
+![](/images/dde_fb_cover.png)
