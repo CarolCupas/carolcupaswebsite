@@ -2,13 +2,10 @@
 layout: page
 title: Professional profile
 subtitle: ''
-img_path: "/images/CC profesional arte.jpg"
+img_path: "/es/cc_profesional.jpg"
 permalink: professional-profile
 lang: en
 translate-ref: perfil-profesional
-menu:
-  main:
-    weight: 3
 
 ---
 I started my professional career when I graduated as a **Computer System engineer** at the Technological University in Panama in 2005. I am interested in everything related to technology and after working in many companies belong to different sectors such as banking, software development, and consulting, I also wanted to study an MBA and teaching. I have been able to manage projects, lead teams, and provide training.
