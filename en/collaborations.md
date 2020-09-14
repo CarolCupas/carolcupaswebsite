@@ -6,9 +6,6 @@ img_path: "/images/carol lateral arte.jpg"
 permalink: collaborations
 lang: en
 translate-ref: colaboraciones
-menu:
-  main:
-    weight: 5
 
 ---
 I have been tremendously privileged to meet bright people and be able to collaborate with some of their magnificent projects, such as:
@@ -31,4 +28,8 @@ This software keeps the historical records of vaccine applications based on Pana
 
 ![](/images/CC iMuni.jpg)
 
-So far, I am designing my own website and will possibly be joining another initiative soon!
+# DDE Project
+
+The "DDE project" as I called, consists of the creation of a website and social media for a small business of a dear friend.
+
+![](/images/dde_fb_cover.png)
