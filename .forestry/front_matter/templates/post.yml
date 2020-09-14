@@ -59,5 +59,6 @@ fields:
     required: true
   label: translate-ref
 pages:
+- _posts/lo-impensable.md
 - _posts/palabras-poderosas.md
 - _posts/secretos-o-ganas.md
