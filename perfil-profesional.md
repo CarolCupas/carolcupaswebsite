@@ -1,7 +1,7 @@
 ---
 title: Perfil profesional
 subtitle: ''
-img_path: "/images/CC profesional arte.jpg"
+img_path: "/es/cc_profesional.jpg"
 layout: page
 permalink: perfil-profesional
 lang: es
