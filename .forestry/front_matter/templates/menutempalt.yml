@@ -1,4 +1,20 @@
 ---
 label: MenuTempAlt
 hide_body: true
-fields: []
+fields:
+- name: texto
+  type: text
+  config:
+    required: false
+  label: Texto
+- name: bloques
+  type: blocks
+  label: Bloques
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: galeria
+  type: image_gallery
+  config: {}
+  label: Galeria
